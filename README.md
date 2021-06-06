@@ -14,7 +14,7 @@ For this project, Miguel Morales and I (Jennifer Li) were interested in what fac
 
 * ZillowData.csv: This file includes homes that are currently listed on Zillow.com for sale, and includes their address including zip code, listing agent and their company, price per month, amount of bedrooms and bathrooms, the square footage of the property, the building type (condo, apartment, home), and the price per sq. ft.
 
-**Located in the /notebooks/ folder:***
+**Located in the /notebooks/ folder:**
 
 * Zillow_SF.pdf: This file includes our final written report with our code output for legibility.
 
