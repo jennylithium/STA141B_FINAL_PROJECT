@@ -16,6 +16,6 @@ ZillowData.csv: This file includes homes that are currently listed on Zillow.com
 
 ***Located in the /notebooks/ folder:***
 
-Zillow_SF.md: This file includes our final written report with our code output for legibility.
+Zillow_SF.pdf: This file includes our final written report with our code output for legibility.
 
 Zillow_SF.ipynb: This file includes our final written report with its accompanying code and output.
