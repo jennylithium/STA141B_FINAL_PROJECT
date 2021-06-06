@@ -3,6 +3,10 @@ For this project, Miguel Morales and I (Jennifer Li) were interested in what fac
 **Located in the /code/ folder:**
 
 * Zillow-Scraper.py: This file was used to collect data from Zillow.com by scraping and parsing through each webpage for San Francisco, CA properties listed as sold, and for sale & rent in the past month (May 2021-June 2021) and converting them to a .csv file to make the data more easily accessible throughout this project.
+  * The data was collected by running this file and loading each page from 20 pages for each of the following URLS:
+    * www.zillow.com/san-francisco-ca/sold/
+    * www.zillow.com/san-francisco-ca/rent/
+    * www.zillow.com/san-francisco-ca/sale/
 
 * Zillow_SF.py: This file includes the code used for our final written report.
 
