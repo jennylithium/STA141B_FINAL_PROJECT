@@ -1,0 +1,801 @@
+,address,listingby,price,beds,baths,sqft,building_type
+0,"710 London St, San Francisco, CA 94112","COMPASS, Darin J. Holwitz","$1,498,000",4 bds,3 ba,"2,047 sqft",- House for sale
+1,"655 27th St, San Francisco, CA 94131","COMPASS SF, Dale T. Boutiette","$2,195,000",3 bds,3 ba,"1,791 sqft",- House for sale
+2,"270 Sadowa St, San Francisco, CA 94112","PACIFIC EDGE, Cynthia M. Pagan","$1,049,000",3 bds,2 ba,"1,264 sqft",- House for sale
+3,"437 Valley St, San Francisco, CA 94131","SOTHEBY'S INTERNATIONAL REALTY, Allison Fortini Crawford","$2,000,000",3 bds,2 ba,"1,949 sqft",- House for sale
+4,"585 Rockdale Dr, San Francisco, CA 94127","CORCORAN GLOBAL LIVING, Edward O'Connell","$1,295,000",2 bds,1 ba,"1,152 sqft",- House for sale
+5,"2 Short St, San Francisco, CA 94114","GENERATION REAL ESTATE, Lamisse Droubi","$1,195,000",1 bd,2 ba,"1,019 sqft",- House for sale
+6,"23 Skyview Way, San Francisco, CA 94131","COMPASS SF, Par Hanji","$1,995,000",4 bds,4 ba,"2,317 sqft",- House for sale
+7,"634 Rockdale Dr, San Francisco, CA 94127",NaN,"$1,697,000",4 bds,3 ba,"2,014 sqft",- House for sale
+8,"25 Woodland Ave, San Francisco, CA 94117","VANGUARD PROPERTIES, Ilana D. Minkoff","$2,995,000",4 bds,3 ba,"2,397 sqft",- House for sale
+9,"2828 Vallejo St, San Francisco, CA 94123","COMPASS, Neal Allen Ward","$28,000,000",8 bds,9 ba,"10,345 sqft",- House for sale
+10,"125 Precita Ave #A, San Francisco, CA 94110","COMPASS, Danielle H. Lazier","$695,000",2 bds,1 ba,"1,055 sqft",- Condo for sale
+11,"321 10th Ave, San Francisco, CA 94118","COMPASS SF, Dale T. Boutiette","$1,995,000",3 bds,3 ba,"2,170 sqft",- House for sale
+12,"225 Mullen Ave, San Francisco, CA 94110","ARG REAL ESTATE, Jason D. Gomez","$1,650,000",3 bds,2 ba,"1,650 sqft",- House for sale
+13,"116 Galewood Cir, San Francisco, CA 94131",NaN,"$1,610,000",2 bds,3 ba,"1,465 sqft",- House for sale
+14,"210 Richardson Ave, San Francisco, CA 94123","COMPASS, David B. Bellings","$2,495,000",4 bds,4 ba,"2,839 sqft",- House for sale
+15,"2950 Pacific Ave, San Francisco, CA 94115","COMPASS, Neal Allen Ward","$29,500,000",8 bds,13 ba,"20,000 sqft",- House for sale
+16,"1010 Monterey Blvd, San Francisco, CA 94127","Architect, Harold Stoner, BERKSHIRE HATHAWAY-FRANCISCAN, Andrew Herrera II","$2,295,000",4 bds,3 ba,"2,683 sqft",- House for sale
+17,"2263 45th Ave, San Francisco, CA 94116","COMPASS, Todd Wiley","$1,198,000",3 bds,2 ba,"1,427 sqft",- House for sale
+18,"72 Lynch St, San Francisco, CA 94109","VANGUARD PROPERTIES, Marsha Abrahams","$1,295,000",2 bds,2 ba,"1,030 sqft",- Condo for sale
+19,"108 Jerrold Ave, San Francisco, CA 94124","MOSAIK REAL ESTATE, Michelle Kim","$798,000",3 bds,2 ba,"1,325 sqft",- Townhouse for sale
+20,"Plan A Plan, Lofton at Portola BMR",Tri Pointe Homes,"$532,720+",3 bds,4 ba,"1,764 sqft",- New construction
+21,"2741 Divisadero St, San Francisco, CA 94123","COMPASS SF, Grace C. Shohet","$9,295,000",6 bds,6 ba,"5,085 sqft",- House for sale
+22,"1891 25th Ave, San Francisco, CA 94122","NEW GENERATION RLTY. & INV., Erick Bergman","$1,495,000",3 bds,3 ba,"1,550 sqft",- House for sale
+23,"106 Circular Ave, San Francisco, CA 94131","COMPASS, Rick Lei","$1,128,000",4 bds,3 ba,"1,740 sqft",- House for sale
+24,"1946 30th Ave, San Francisco, CA 94116","BARBCO, Jason C. Chan","$1,495,000",4 bds,3 ba,"1,631 sqft",- House for sale
+25,"855 Folsom St APT 742, San Francisco, CA 94107","GROUP MB, Michael S. Broermann","$525,000",2 bds,1 ba,752 sqft,- Condo for sale
+26,"2610 San Jose Ave, San Francisco, CA 94112","TRUST REAL ESTATE, Ka Yi Cheng","$1,090,000",6 bds,3 ba,"2,250 sqft",- House for sale
+27,"224 Sea Cliff Ave, San Francisco, CA 94121","COMPASS, Mark A. Levinson","$17,500,000",6 bds,7 ba,"7,170 sqft",- House for sale
+28,"4293 23rd St, San Francisco, CA 94114","MARKER LUXURY PROPERTIES, Jeffrey S. Marples","$1,988,000",3 bds,2 ba,-- sqft,- House for sale
+29,"384 Raymond Ave, San Francisco, CA 94134","CENTURY 21 REALTY ALLIANCE, Joanne J. Xiang","$985,000",4 bds,3 ba,"1,476 sqft",- House for sale
+30,"110 Corbett Ave, San Francisco, CA 94114","ENGEL & VOELKERS SAN FRANCISCO, Kimberly M. Sterling","$1,295,000",3 bds,2 ba,"1,855 sqft",- Condo for sale
+31,"485 Noe St, San Francisco, CA 94114","MOSAIK REAL ESTATE, Christian V. Nguyen","$998,000",2 bds,2 ba,"1,250 sqft",- Condo for sale
+32,"2839 Pacific Ave, San Francisco, CA 94115","SOTHEBY'S INTERNATIONAL REALTY, John S. Kirtland","$16,950,000",5 bds,6 ba,"8,650 sqft",- House for sale
+33,"208 N Lake Merced Hls APT 1C, San Francisco, CA 94132","COMPASS SF, Paula Y. Rose","$779,000",2 bds,2 ba,"1,247 sqft",- Condo for sale
+34,"1067 Green St, San Francisco, CA 94133","SOTHEBY'S INTERNATIONAL REALTY, Janet F. Schindler","$8,600,000",4 bds,4 ba,"5,267 sqft",- House for sale
+35,"425 1st St UNIT 2801, San Francisco, CA 94105","VANGUARD PROPERTIES, Jonathan B. Deason","$1,789,000",2 bds,2 ba,"1,042 sqft",- Condo for sale
+36,"2698 Pacific Ave, San Francisco, CA 94115",NaN,"$25,800,000",8 bds,6 ba,"10,734 sqft",- House for sale
+37,"650 Turk St UNIT 507, San Francisco, CA 94102","COMPASS, Amanda B. Sharp","$499,000",Studio,1 ba,-- sqft,- Condo for sale
+38,"15 Balceta Ave, San Francisco, CA 94127","COMPASS SF, Matthew J. Woebcke","$1,895,000",4 bds,2 ba,"2,374 sqft",- House for sale
+39,"338 Potrero Ave UNIT 601, San Francisco, CA 94103","HOME QUEST REALTY, Robert  Belli","$298,906",1 bd,1 ba,671 sqft,- Condo for sale
+40,"1805 Scott St, San Francisco, CA 94115","SOTHEBY'S INTERNATIONAL REALTY, Caroline Kahn Werboff","$799,000",1 bd,1 ba,640 sqft,- House for sale
+41,"50 Jerrold Ave #313, San Francisco, CA 94124",NaN,"$799,888",2 bds,2 ba,"1,156 sqft",- Condo for sale
+42,"180 3rd Ave, San Francisco, CA 94118","BETTER HOMES AND GARDENS THRIV, Jade Dou","$3,500",3 bds,-- ba,"1,400 sqft",- Multi-family home for sale
+43,"161 Castro St #B, San Francisco, CA 94114","VANGUARD PROPERTIES, Jonathan B. Deason","$795,000",2 bds,1 ba,700 sqft,- Condo for sale
+44,"294 Chester Ave, San Francisco, CA 94132",NaN,"$998,000",2 bds,1 ba,"1,167 sqft",- House for sale
+45,"1707 30th Ave, San Francisco, CA 94122","BARBCO, Jason C. Chan","$1,095,000",3 bds,1 ba,"1,125 sqft",- House for sale
+46,"423 24th Ave, San Francisco, CA 94121","COMPASS, Andreas Ernst","$898,000",2 bds,2 ba,-- sqft,- Condo for sale
+47,"260 3rd Ave, San Francisco, CA 94118","VANGUARD PROPERTIES, Mark D. McHale","$975,000",2 bds,1 ba,984 sqft,- Condo for sale
+48,"201 Folsom St APT 23D, San Francisco, CA 94105","COMPASS, Joseph C. Silva Gonsalves","$1,299,000",1 bd,1 ba,876 sqft,- New construction
+49,"999 Donner Ave, San Francisco, CA 94124","BETTER HOMES AND GARDENS REAL, Trent C. Zhu","$7,500","4,996 sqft lot",NaN,NaN,- Lot / Land for sale
+50,"23 Madrid St, San Francisco, CA 94112","BERKSHIRE HATHAWAY-FRANCISCAN, Jack P. Murray","$1,995,000",5 bds,4 ba,"2,308 sqft",- House for sale
+51,"676 Ivy St #678, San Francisco, CA 94102","COLDWELL BANKER REALTY, Lily Lum  Chan","$990,000",3 bds,2 ba,"1,324 sqft",- Multi-family home for sale
+52,"3520 Fulton St, San Francisco, CA 94118","COLDWELL BANKER REALTY, Nancy Jen","$2,380,000",5 bds,6 ba,"3,075 sqft",- House for sale
+53,"1431 Chestnut St #1433, San Francisco, CA 94123","EXP REALTY OF CALIFORNIA, INC, Jeremy E. Williams","$2,265,000",4 bds,-- ba,"3,250 sqft",- Multi-family home for sale
+54,"205 Sagamore St, San Francisco, CA 94112","EXP REALTY OF CALIFORNIA, INC, Matthew W. Ma","$975,000",2 bds,1 ba,"1,100 sqft",- House for sale
+55,"1001 Pine St UNIT 701, San Francisco, CA 94109","KELLER WILLIAMS SAN FRANCISCO, Michael  Minson","$698,000",1 bd,1 ba,670 sqft,- Condo for sale
+56,"2226 California St #301, San Francisco, CA 94115","COMPASS, Maximillian D. Armour","$1,395,000",3 bds,2 ba,"1,500 sqft",- Condo for sale
+57,"127 Molimo Dr, San Francisco, CA 94127","COLDWELL BANKER REALTY, Steve Gallagher","$1,995,000",4 bds,2 ba,"2,430 sqft",- House for sale
+58,"1642 Palou Ave, San Francisco, CA 94124","CORCORAN GLOBAL LIVING, Scott A. Rose","$988,000",4 bds,3 ba,-- sqft,- House for sale
+59,"19 Alpine Ter #A, San Francisco, CA 94117","COMPASS, Brendon Kearney","$695,000",1 bd,1 ba,985 sqft,- Condo for sale
+60,"124 Clayton St, San Francisco, CA 94117","COMPASS, Aaron M Bellings","$1,495,000",5 bds,2 ba,"1,950 sqft",- Condo for sale
+61,"635 Page St, San Francisco, CA 94117","EXP REALTY OF CALIFORNIA, INC, Jeremy E. Williams","$2,100,000",2 bds,-- ba,"4,000 sqft",- Multi-family home for sale
+62,"2721 Sacramento St #B, San Francisco, CA 94115","SOTHEBY'S INTERNATIONAL REALTY, Michael B. Harrington","$1,895,000",2 bds,2 ba,"1,350 sqft",- Condo for sale
+63,"3325 23rd St, San Francisco, CA 94110","COMPASS, Kevin Wakelin","$1,495,000",3 bds,3 ba,"2,075 sqft",- Condo for sale
+64,"2475 Sutter St, San Francisco, CA 94115","INDIGO REAL ESTATE, Mollie W. Poe","$995,000",2 bds,1 ba,900 sqft,- Condo for sale
+65,"108 Corbett Ave, San Francisco, CA 94114","ENGEL & VOELKERS SAN FRANCISCO, Kimberly M. Sterling","$895,000",1 bd,1 ba,"1,092 sqft",- Condo for sale
+66,"223 Orizaba Ave, San Francisco, CA 94132",NaN,"$1,289,888",4 bds,2 ba,"2,039 sqft",- House for sale
+67,"92 Reddy St, San Francisco, CA 94124","EPIC REAL ESTATE & ASSO. INC., Eugenia A. Mantzoros","$989,000",2 bds,1 ba,-- sqft,- House for sale
+68,"625 Campbell Ave, San Francisco, CA 94134",NaN,"$1,198,000",4 bds,3 ba,"2,275 sqft",- House for sale
+69,"2727 Jackson St APT 1, San Francisco, CA 94115","KELLER WILLIAMS SAN FRANCISCO, Anthony L. Koutsos","$585,000",Studio,1 ba,487 sqft,- Condo for sale
+70,"1320 Lyon St, San Francisco, CA 94115",NaN,"$1,299,950",2 bds,1 ba,"1,676 sqft",- Condo for sale
+71,"463 14th St, San Francisco, CA 94103","JACKSON FULLER REAL ESTATE, Britton E. Jackson","$1,499,000",3 bds,2 ba,"1,644 sqft",- Condo for sale
+72,"1350 Natoma St APT 6, San Francisco, CA 94103","COMPASS, Amanda B. Sharp","$1,149,000",2 bds,3 ba,948 sqft,- Condo for sale
+73,"1646 10th Ave, San Francisco, CA 94122","BARBCO, Jason C. Chan","$2,295,000",7 bds,5 ba,"3,621 sqft",- Multi-family home for sale
+74,"937 Howard St, San Francisco, CA 94103","BETTER HOMES AND GARDENS THRIV, Jade Dou","$3,300",6 bds,-- ba,-- sqft,- Multi-family home for sale
+75,"1550 Hampshire St, San Francisco, CA 94110","MATTEI PROPERTIES LTD, R. Robert Mattei","$799,000",2 bds,1 ba,975 sqft,- Condo for sale
+76,"381 Winding Way, San Francisco, CA 94112","COLDWELL BANKER REALTY, Jeanne M. Valera","$949,000",4 bds,2 ba,"1,168 sqft",- House for sale
+77,"333 1st St UNIT N1801, San Francisco, CA 94105","COMPASS, Carter Waite","$1,349,000",2 bds,2 ba,958 sqft,- Condo for sale
+78,"160 27th Ave, San Francisco, CA 94121","COMPASS, Missy Wyant Smit","$3,600,000",3 bds,2 ba,"2,915 sqft",- House for sale
+79,"2615 Scott St, San Francisco, CA 94123","COMPASS SF, Travis C. Hale","$5,950,000",4 bds,5 ba,"3,135 sqft",- House for sale
+80,"2921 Washington St APT 2, San Francisco, CA 94115","COMPASS, Calvin M. Kam","$998,000",1 bd,1 ba,"1,070 sqft",- Condo for sale
+81,"1750 39th Ave, San Francisco, CA 94122","COLDWELL BANKER REALTY, Nancy Lim","$1,095,000",2 bds,1 ba,"1,000 sqft",- House for sale
+82,"574 Natoma St APT 203, San Francisco, CA 94103","HOME QUEST REALTY, Robert  Belli","$284,045",1 bd,1 ba,407 sqft,- Condo for sale
+83,"670 5th Ave, San Francisco, CA 94118","SOTHEBY'S INTERNATIONAL REALTY, David E. Werboff","$1,450,000",2 bds,2 ba,"1,785 sqft",- Condo for sale
+84,"757 11th Ave, San Francisco, CA 94118","SOTHEBY'S INTERNATIONAL REALTY, Ronni Garfield","$1,575,000",2 bds,2 ba,"1,741 sqft",- Condo for sale
+85,"2349 15th Ave, San Francisco, CA 94116","COMPASS, Deborah L. Nguyen","$1,895,000",6 bds,5 ba,"2,536 sqft",- House for sale
+86,"34 Sola Ave, San Francisco, CA 94116","COMPASS SF, Shannon L. Cronan","$1,995,000",3 bds,3 ba,"1,991 sqft",- House for sale
+87,"861 Rhode Island St, San Francisco, CA 94107","COMPASS, Dennis R. Otto","$1,450,000",3 bds,2 ba,"1,433 sqft",- Condo for sale
+88,"4836 3rd St, San Francisco, CA 94124","PRIME METROPOLIS PROP., INC., Yuefeng Huang","$799,900",2 bds,2 ba,"2,420 sqft",- House for sale
+89,"900 Bush St APT 516, San Francisco, CA 94109","REDFIN, Joshua Altman","$799,000",2 bds,2 ba,853 sqft,- Condo for sale
+90,"1574 Waller St, San Francisco, CA 94117","CORCORAN GLOBAL LIVING, Larry W. Stiffler","$1,295,000",2 bds,2 ba,"1,197 sqft",- Condo for sale
+91,"555 Golden Gate Ave #2G, San Francisco, CA 94102","JS SULLIVAN SALES AND MARKETIN, Loring M. Aguillon-Racine","$899,000",2 bds,2 ba,912 sqft,- New construction
+92,"656 Cole St, San Francisco, CA 94117","ELEVATION REAL ESTATE, Edmond D. O'Sullivan","$1,095,000",2 bds,1 ba,"1,505 sqft",- Condo for sale
+93,"1205 4th Ave APT C, San Francisco, CA 94122","COMPASS SF, Eva Stoyanov","$999,000",2 bds,1 ba,963 sqft,- Condo for sale
+94,"2306 Geary Blvd, San Francisco, CA 94115","COLDWELL BANKER REALTY, Janice Lee","$1,299,000",4 bds,3 ba,"2,050 sqft",- House for sale
+95,"1875 Mission St APT 205, San Francisco, CA 94103","CORCORAN GLOBAL LIVING, David Bloom Balaban","$430,849",2 bds,1 ba,781 sqft,- Condo for sale
+96,"2160 Funston Ave, San Francisco, CA 94116","REAL ESTATE REVOLUTION, Gina W. Tse","$1,838,000",4 bds,3 ba,"2,375 sqft",- House for sale
+97,"112 Mallorca Way, San Francisco, CA 94123","COMPASS, Butch Haze","$6,595,000",5 bds,5 ba,"4,810 sqft",- House for sale
+98,"17 Presidio Ter, San Francisco, CA 94118","COMPASS, Neal Allen Ward","$20,000,000",6 bds,8 ba,"10,040 sqft",- House for sale
+99,"2250 24th St UNIT 129, San Francisco, CA 94107","COMPASS SF, Jennifer C. Ferland","$799,000",2 bds,2 ba,"1,028 sqft",- Condo for sale
+100,"1400 Montgomery St #1404, San Francisco, CA 94133","POLARIS REALTY, Ron Abta","$6,995,000",6 bds,8 ba,"5,465 sqft",- House for sale
+101,"250 Fitzgerald Ave, San Francisco, CA 94124","BETTER HOMES AND GARDENS REAL, Trent C. Zhu","$75,000",1.15 acres lot,NaN,NaN,- Lot / Land for sale
+102,"108 Corbett Ave #110, San Francisco, CA 94114","ENGEL & VOELKERS SAN FRANCISCO, Kimberly M. Sterling","$2,190,000",4 bds,3 ba,"2,997 sqft",- House for sale
+103,"2424 Jones St, San Francisco, CA 94133","COMPASS, Maximillian D. Armour","$7,995,000",5 bds,4 ba,-- sqft,- Multi-family home for sale
+104,"259 Moscow St, San Francisco, CA 94112","COLDWELL BANKER REALTY, Nick Johnson","$695,000",2 bds,1 ba,"1,025 sqft",- House for sale
+105,"1108 Church St, San Francisco, CA 94114","COMPASS SF, Mary Macpherson","$849,000",2 bds,1 ba,885 sqft,- Condo for sale
+106,"666 Post St APT 901, San Francisco, CA 94109","SOTHEBY'S INTERNATIONAL REALTY, Susanne S. Alexander","$579,000",1 bd,1 ba,738 sqft,- Condo for sale
+107,"2038 20th Ave, San Francisco, CA 94116","COMPASS, Teresa A. Callan","$1,998,000",4 bds,5 ba,"2,296 sqft",- House for sale
+108,"4258 26th St, San Francisco, CA 94131",NaN,"$6,500,000",5 bds,5 ba,"3,980 sqft",- House for sale
+109,"807 Fell St, San Francisco, CA 94117","INDIGO REAL ESTATE, Mollie W. Poe","$1,479,000",3 bds,1 ba,"1,380 sqft",- Condo for sale
+110,"2511 Broadway St, San Francisco, CA 94115","SOTHEBY'S INTERNATIONAL REALTY, Michael B. Harrington","$11,500,000",6 bds,5 ba,-- sqft,- House for sale
+111,"2831 Webster St #2833-6, San Francisco, CA 94123","CORCORAN GLOBAL LIVING, John L. LePage","$799,000",2 bds,1 ba,769 sqft,- Condo for sale
+112,"301 Mission St APT 43D, San Francisco, CA 94105","MARKER LUXURY PROPERTIES, Bryant R. Kowalczyk","$3,395,000",2 bds,3 ba,"1,952 sqft",- Condo for sale
+113,"650 Delancey St APT 107, San Francisco, CA 94107","COMPASS, Eric Turner","$1,950,000",2 bds,2 ba,"1,554 sqft",- Condo for sale
+114,"403 Main St APT 204N, San Francisco, CA 94105","COMPASS SF, Dale T. Boutiette","$589,000",1 bd,1 ba,483 sqft,- Condo for sale
+115,"283 Ramsell St, San Francisco, CA 94132","COMPASS, Michael Freethy","$829,000",2 bds,1 ba,"1,000 sqft",- House for sale
+116,"1310 Fillmore St APT 610, San Francisco, CA 94115","SEQUOIA REAL ESTATE, John Philip D. Santiago Jr.","$343,558",1 bd,1 ba,740 sqft,- Condo for sale
+117,"766 Harrison St UNIT 205, San Francisco, CA 94107","LUX REALTY GROUP, Kenneth Yip","$378,000",Studio,-- ba,328 sqft,- Condo for sale
+118,"1631 Pierce St, San Francisco, CA 94115","VANGUARD PROPERTIES, Kevin K. Ho","$1,749,000",3 bds,3 ba,"1,504 sqft",- Condo for sale
+119,"4800 3rd St UNIT 202, San Francisco, CA 94124",NaN,"$286,781",1 bd,1 ba,580 sqft,- Condo for sale
+120,"342 S Van Ness Ave, San Francisco, CA 94103","COMPASS, Shaban A. Shakoori","$895,000",3 bds,2 ba,"1,490 sqft",- Condo for sale
+121,"625 Moultrie St, San Francisco, CA 94110","BRAVA REAL ESTATE, Sherri Howe","$1,450,000",6 bds,2 ba,"2,114 sqft",- House for sale
+122,"247 Gates St, San Francisco, CA 94110","REDFIN, Joanna A. Rose","$1,198,000",3 bds,2 ba,-- sqft,- House for sale
+123,"56 Summit Way, San Francisco, CA 94132",NaN,"$1,188,000",3 bds,2 ba,"1,547 sqft",- Condo for sale
+124,"469 Tehama St #469-6, San Francisco, CA 94103","CORCORAN GLOBAL LIVING, Susie Smith","$550,000",1 bd,1 ba,544 sqft,- Condo for sale
+125,"338 Main St UNIT 34C, San Francisco, CA 94105","COMPASS, Joseph C. Silva Gonsalves","$3,500,000",2 bds,2 ba,"1,491 sqft",- New construction
+126,"887 34th Ave, San Francisco, CA 94121","COMPASS SF, James M. Shinbori","$1,749,000",4 bds,2 ba,"3,450 sqft",- Multi-family home for sale
+127,"3444 Scott St, San Francisco, CA 94123","SOTHEBY'S INTERNATIONAL REALTY, Carrie Buchanan-Goodman","$3,100,000",4 bds,2 ba,"2,616 sqft",- Condo for sale
+128,"66 Cleary Ct APT 809, San Francisco, CA 94109","VANGUARD PROPERTIES, Matthew Tatsumi Gomez","$1,150,000",3 bds,2 ba,"1,117 sqft",- Condo for sale
+129,"227 Upper Ter, San Francisco, CA 94117","LC INVESTMENTS, Iver Hystad","$998,000",2 bds,1 ba,-- sqft,- Condo for sale
+130,"451 Donahue St UNIT 313, San Francisco, CA 94124","BETTER HOMES AND GARDENS REAL, Craig E. Brown","$760,000",2 bds,2 ba,"1,010 sqft",- Condo for sale
+131,"199 Marina Blvd, San Francisco, CA 94123",NaN,"$5,499,888",4 bds,3 ba,"2,897 sqft",- House for sale
+132,"84 Commonwealth Ave, San Francisco, CA 94118","SOTHEBY'S INTERNATIONAL REALTY, Neill S. Bassi","$6,725,000",6 bds,5 ba,"5,610 sqft",- House for sale
+133,"2415 Van Ness Ave APT 403, San Francisco, CA 94109","SOTHEBY'S INTERNATIONAL REALTY, Jim ONeil","$599,000",1 bd,1 ba,629 sqft,- Condo for sale
+134,"1404 Palou Ave, San Francisco, CA 94124","IMPACT, Kristen Shannon Villalobos","$759,000",2 bds,2 ba,"1,318 sqft",- House for sale
+135,"81 Badger St, San Francisco, CA 94112",NaN,"$1,650,000",3 bds,2 ba,"2,350 sqft",- House for sale
+136,"1837 21st Ave, San Francisco, CA 94122","SHANNON MOLLOY, BROKER, Shannon M. Molloy","$1,795,000",7 bds,5 ba,"2,940 sqft",- House for sale
+137,"111 Chestnut St UNIT 112, San Francisco, CA 94111","SOTHEBY'S INTERNATIONAL REALTY, Grant Edward Beggs","$612,500",1 bd,1 ba,589 sqft,- Condo for sale
+138,"1278 39th Ave, San Francisco, CA 94122",NaN,"$1,695,000",3 bds,3 ba,"2,086 sqft",- House for sale
+139,"60 Cedro Ave, San Francisco, CA 94127","COLDWELL BANKER REALTY, Herbert K. Ng","$1,750,000",2 bds,2 ba,"2,490 sqft",- House for sale
+140,"647 Carolina St, San Francisco, CA 94107","POLARIS REALTY, Ron Abta","$1,089,000",2 bds,2 ba,"1,225 sqft",- Condo for sale
+141,"518 Ellsworth St, San Francisco, CA 94110","VANGUARD PROPERTIES, Shelley D. Trew","$2,145,000",3 bds,3 ba,"2,045 sqft",- House for sale
+142,"3625 Jackson St, San Francisco, CA 94118","CORCORAN GLOBAL LIVING, Meagan S. Levitan","$7,995,000",6 bds,6 ba,"4,260 sqft",- House for sale
+143,"583 Grove St #585, San Francisco, CA 94102","COMPASS, Michael Freethy","$995,000",3 bds,2 ba,"1,536 sqft",- Multi-family home for sale
+144,"650 36th Ave, San Francisco, CA 94121","VANGUARD PROPERTIES, Matt Ciganek","$1,495,000",3 bds,1 ba,"1,916 sqft",- House for sale
+145,"1552 Hampshire St, San Francisco, CA 94110","MATTEI PROPERTIES LTD, R. Robert Mattei","$1,249,000",2 bds,2 ba,"1,600 sqft",- Condo for sale
+146,"6 San Pablo Ave, San Francisco, CA 94127","JENNY HE REALTY ASSOCIATES, Ying He","$2,990,000",5 bds,6 ba,"3,992 sqft",- House for sale
+147,"2660 Scott St, San Francisco, CA 94123","COLDWELL BANKER REALTY, Joel Goodrich","$19,200,000",7 bds,6 ba,"9,190 sqft",- House for sale
+148,"17 Guy Pl, San Francisco, CA 94105","VANGUARD PROPERTIES, Frank A. Nolan","$15,000,000",8 bds,9 ba,"7,680 sqft",- New construction
+149,"519 Nevada St, San Francisco, CA 94110","ACKERMAN REALTY GROUP, Craig Ackerman","$1,499,999",3 bds,3 ba,"1,636 sqft",- House for sale
+150,"1864 Ellis St, San Francisco, CA 94115","MARKER REAL ESTATE, Stephanie C. Pascal","$749,000",2 bds,1 ba,875 sqft,- Condo for sale
+151,"4 Coleman St, San Francisco, CA 94124","BETTER HOMES AND GARDENS REAL, Trent C. Zhu","$375,000",5.72 acres lot,NaN,NaN,- Lot / Land for sale
+152,"674 29th St, San Francisco, CA 94131","GENERATION REAL ESTATE, Lamisse Droubi","$1,495,000",2 bds,3 ba,-- sqft,- House for sale
+153,"100 San Felipe Ave, San Francisco, CA 94127","HIGHLAND PARTNERS, Adam R. Betta","$2,495,000",4 bds,4 ba,"3,465 sqft",- House for sale
+154,"3690 21st St, San Francisco, CA 94114","COMPASS, Robert S. Levy","$9,985,000",2 bds,4 ba,"4,700 sqft",- House for sale
+155,"1450 Leavenworth St #1454, San Francisco, CA 94109","COMPASS, Brandon S. Chen","$2,495,000",10 bds,5 ba,"4,650 sqft",- Multi-family home for sale
+156,"1825 Laguna St, San Francisco, CA 94115","COMPASS, Amanda M. Jones","$1,100,000",2 bds,1 ba,"1,630 sqft",- Condo for sale
+157,"201 Sansome St UNIT 501, San Francisco, CA 94104","BERKSHIRE HATHAWAY-FRANCISCAN, Erik J. McIntosh","$699,000",1 bd,1 ba,658 sqft,- Condo for sale
+158,"255 Waller St, San Francisco, CA 94102","COMPASS, James Testa","$1,295,000",3 bds,1 ba,"1,525 sqft",- Condo for sale
+159,"8 Octavia St UNIT 408, San Francisco, CA 94102","COMPASS, Robert  Belli","$227,572",Studio,1 ba,385 sqft,- Condo for sale
+160,"4399 24th St, San Francisco, CA 94114","KELLER WILLIAMS SAN FRANCISCO, Anthony L. Koutsos","$490,000",Studio,1 ba,334 sqft,- Condo for sale
+161,"857 Fell St, San Francisco, CA 94117","INDIGO REAL ESTATE, Mollie W. Poe","$1,299,000",3 bds,2 ba,"1,751 sqft",- Condo for sale
+162,"4353 17th St, San Francisco, CA 94114","REDFIN, Thomas A. Baumgartner","$899,000",1 bd,1 ba,685 sqft,- House for sale
+163,"864 Union St, San Francisco, CA 94133","SEQUOIA REAL ESTATE, Melanie P. Leung","$1,450,000",3 bds,2 ba,"1,360 sqft",- Condo for sale
+164,"276 Ripley St, San Francisco, CA 94110","COMPASS, Isabelle Grotte","$3,295,000",4 bds,4 ba,"2,458 sqft",- House for sale
+165,"1254 Quesada Ave, San Francisco, CA 94124","VILLARIN HOMES REALTY, Romunda Craft","$799,000",4 bds,2 ba,"1,515 sqft",- House for sale
+166,"3790 21st St, San Francisco, CA 94114","COMPASS, Erin Thompson","$7,900,000",5 bds,6 ba,"4,400 sqft",- Multi-family home for sale
+167,"6524 Fulton St, San Francisco, CA 94121","INTERO REAL ESTATE SERVICES, Robert E. Miller","$1,598,000",5 bds,3 ba,"2,055 sqft",- House for sale
+168,"60 Ora Way UNIT H102, San Francisco, CA 94131","VANGUARD PROPERTIES, Emery G. Bushong","$412,932",1 bd,1 ba,676 sqft,- Condo for sale
+169,"525 Wildwood Way, San Francisco, CA 94112","COMPASS, George W. Langford","$1,278,000",2 bds,2 ba,"1,110 sqft",- House for sale
+170,"675 Cole St APT 5, San Francisco, CA 94117","COMPASS, Emily Dunn","$749,000",1 bd,2 ba,778 sqft,- Condo for sale
+171,"260 King St UNIT 401, San Francisco, CA 94107","BERRI REAL ESTATE, Sou Fan Wong Ho","$306,949",Studio,1 ba,703 sqft,- Condo for sale
+172,"230 Rhine St, San Francisco, CA 94112",NaN,"$998,000",4 bds,3 ba,"1,541 sqft",- House for sale
+173,"574 Natoma St APT 301, San Francisco, CA 94103","CORE7 REAL ESTATE, Shawn M. Case","$251,200",Studio,1 ba,329 sqft,- Condo for sale
+174,"2400 Diamond St, San Francisco, CA 94131","COMPASS SF, Pete Brannigan","$3,495,000",3 bds,3 ba,-- sqft,- House for sale
+175,"901 Post St #2, San Francisco, CA 94109","KING REALTY GROUP, Lance R. King","$995,000",3 bds,2 ba,"1,207 sqft",- Condo for sale
+176,"1469 Palou Ave, San Francisco, CA 94124","STARNBERG REALTY INC., Sean Beattie","$998,888",4 bds,2 ba,"2,362 sqft",- House for sale
+177,"20 Burnside Ave, San Francisco, CA 94131","PINNACLE PROPERTIES, Kenneth A. Hagan","$1,695,000",4 bds,2 ba,"1,924 sqft",- House for sale
+178,"3255 17th St, San Francisco, CA 94110","BERKSHIRE HATHAWAY-FRANCISCAN, Jack P. Murray","$4,650,000",-- bds,-- ba,"9,500 sqft",- Multi-family home for sale
+179,"63 San Jacinto Way, San Francisco, CA 94127",NaN,"$1,799,000",2 bds,1 ba,"1,348 sqft",- House for sale
+180,"3132 Laguna St, San Francisco, CA 94123","COMPASS, David B. Bellings","$1,795,000",2 bds,1 ba,-- sqft,- House for sale
+181,"1874 Quesada Ave, San Francisco, CA 94124","BETTER HOMES AND GARDENS REAL, Trent C. Zhu","$149,000","2,496 sqft lot",NaN,NaN,- Lot / Land for sale
+182,"2110 Scott St, San Francisco, CA 94115","COLDWELL BANKER REALTY, Joel Goodrich","$8,750,000",6 bds,6 ba,"7,148 sqft",- House for sale
+183,"847 San Jose Ave, San Francisco, CA 94110","VANGUARD PROPERTIES, Shelley D. Trew","$1,395,000",3 bds,3 ba,"2,124 sqft",- House for sale
+184,"200 Friedell St, San Francisco, CA 94124","VANGUARD PROPERTIES, Edward R. Deleski","$998,000",3 bds,3 ba,"1,736 sqft",- Condo for sale
+185,"916 Silliman St, San Francisco, CA 94134","SHAMROCK REAL ESTATE COMPANY, Janet M. McGee","$998,000",2 bds,1 ba,"1,125 sqft",- House for sale
+186,"341 San Fernando Way, San Francisco, CA 94127","BETTER HOMES AND GARDENS REAL, Sonny Tang","$1,890,000",5 bds,4 ba,"2,738 sqft",- House for sale
+187,"875 Francisco St, San Francisco, CA 94109","COLDWELL BANKER REALTY, Joel Goodrich","$13,500,000",4 bds,5 ba,"6,330 sqft",- House for sale
+188,"2554 Pine St, San Francisco, CA 94115","COMPASS, Soni Goodman","$1,999,000",3 bds,2 ba,"1,620 sqft",- Condo for sale
+189,"5900 3rd St UNIT 2412, San Francisco, CA 94124","REAL ESTATE REVOLUTION, Gina W. Tse","$364,510",1 bd,1 ba,816 sqft,- Condo for sale
+190,"818 Van Ness Ave APT 509, San Francisco, CA 94109","CORCORAN GLOBAL LIVING, Tim J. Gullicksen","$599,000",1 bd,1 ba,724 sqft,- Condo for sale
+191,"1478 Church St, San Francisco, CA 94131",NaN,"$2,195,000",4 bds,3 ba,"2,590 sqft",- House for sale
+192,"8 Buchanan St UNIT 502, San Francisco, CA 94102",NaN,"$755,000",1 bd,1 ba,605 sqft,- Condo for sale
+193,"1273 Mcallister St, San Francisco, CA 94115","REDFIN, Joanna A. Rose","$1,675,000",4 bds,2 ba,"1,800 sqft",- Condo for sale
+194,"1385 19th Ave, San Francisco, CA 94122",NaN,"$1,499,000",4 bds,2 ba,"2,500 sqft",- Multi-family home for sale
+195,"3511 Jackson St, San Francisco, CA 94118","Frederick H. Meyer, SOTHEBY'S INTERNATIONAL REALTY, Janet F. Schindler","$7,350,000",4 bds,5 ba,"4,176 sqft",- House for sale
+196,"426 Fillmore St #B, San Francisco, CA 94117",NaN,"$995,000",2 bds,2 ba,"1,200 sqft",- Condo for sale
+197,"501 Crescent Way APT 5303, San Francisco, CA 94134","HOME QUEST REALTY, Robert  Belli","$588,722",2 bds,2 ba,"1,166 sqft",- Condo for sale
+198,"253 11th Ave, San Francisco, CA 94118","KELLER WILLIAMS SAN FRANCISCO, Anthony L. Koutsos","$2,650,000",9 bds,5 ba,"4,500 sqft",- Multi-family home for sale
+199,"123 San Jose Ave #B, San Francisco, CA 94110","VANGUARD PROPERTIES, Shelley D. Trew","$559,000",1 bd,1 ba,-- sqft,- Condo for sale
+200,"94 Junior Ter, San Francisco, CA 94112",NaN,"$1,495,000",4 bds,3 ba,"1,800 sqft",- House for sale
+201,"1650 Jackson St APT 807, San Francisco, CA 94109","ACKERMAN REALTY GROUP, Craig Ackerman","$799,000",1 bd,1 ba,845 sqft,- Condo for sale
+202,"1552 22nd St, San Francisco, CA 94107","ENGEL & VOELKERS SAN FRANCISCO, Michelle K. Pender","$2,395,000",3 bds,3 ba,"2,108 sqft",- Condo for sale
+203,"2640 Jackson St, San Francisco, CA 94115","COLDWELL BANKER REALTY, Joel Goodrich","$13,500,000",9 bds,8 ba,"7,772 sqft",- House for sale
+204,"388 Fulton St UNIT 301, San Francisco, CA 94102","HOME QUEST REALTY, Robert  Belli","$416,018",2 bds,1 ba,708 sqft,- Condo for sale
+205,"139 S Lake Merced Hls APT 1B, San Francisco, CA 94132","COLDWELL BANKER REALTY, Naomi Lempert Lopez","$849,000",3 bds,2 ba,"1,474 sqft",- Condo for sale
+206,"55 Page St APT 218, San Francisco, CA 94102","VANGUARD PROPERTIES, Christopher P. Jurach","$329,000",1 bd,1 ba,448 sqft,- Condo for sale
+207,"181 Fremont St UNIT 63D, San Francisco, CA 94105","Jay Paul Company, COMPASS, Carmen Legarda","$3,840,000",2 bds,2 ba,"1,611 sqft",- New construction
+208,"695 Hamilton St, San Francisco, CA 94134",NaN,"$999,989",4 bds,2 ba,"1,412 sqft",- House for sale
+209,"223 Sanchez St, San Francisco, CA 94114","COLDWELL BANKER REALTY, Dan McLean","$1,249,000",2 bds,2 ba,"1,165 sqft",- Condo for sale
+210,"1000 N Point St APT 207, San Francisco, CA 94109",NaN,"$629,000",1 bd,1 ba,592 sqft,- Condo for sale
+211,"4132 3rd St #5, San Francisco, CA 94124","COLDWELL BANKER REALTY, Janice Lee","$949,500",2 bds,2 ba,"1,314 sqft",- Townhouse for sale
+212,"12 Auburn St, San Francisco, CA 94133","COMPASS, Faye Dibachi","$1,099,000",2 bds,1 ba,-- sqft,- House for sale
+213,"3259 Clay St #3261, San Francisco, CA 94115","COMPASS SF, Carolyn Adducci","$8,995,000",6 bds,7 ba,"6,000 sqft",- House for sale
+214,"744 Union St APT 2, San Francisco, CA 94133","COMPASS SF, Deborah Lopez","$799,000",2 bds,1 ba,720 sqft,- Condo for sale
+215,"588 Minna St #304, San Francisco, CA 94103","COMPASS, Douglas R. Shaw","$1,099,000",2 bds,2 ba,981 sqft,- New construction
+216,"2760 19th Ave UNIT 33, San Francisco, CA 94132","COMPASS SF, Thomas Cooke","$895,000",2 bds,2 ba,"1,200 sqft",- Condo for sale
+217,"1701 Jackson St APT 302, San Francisco, CA 94109","COMPASS SF, Marie M. Randall","$825,000",1 bd,1 ba,743 sqft,- Condo for sale
+218,"5104 Diamond Heights Blvd #B, San Francisco, CA 94131",NaN,"$1,629,000",4 bds,3 ba,"1,943 sqft",- Condo for sale
+219,"2002 California St, San Francisco, CA 94109","COMPASS SF, Helena Zaludova","$4,275,000",4 bds,4 ba,"2,750 sqft",- House for sale
+220,"109 Porter St, San Francisco, CA 94110","FAR EAST REALTY, George K. Lai","$1,338,800",3 bds,4 ba,"1,720 sqft",- House for sale
+221,"1465 Laguna St APT 5, San Francisco, CA 94115","COLDWELL BANKER REALTY, Jana B. Farrell","$620,000",2 bds,1 ba,850 sqft,- Condo for sale
+222,"2148 Union St #1, San Francisco, CA 94123","VANGUARD PROPERTIES, Frank A. Nolan","$1,599,000",2 bds,2 ba,-- sqft,- Condo for sale
+223,"156 Beaver St #158, San Francisco, CA 94114","HELM REAL ESTATE, Marcus Miller","$1,999,000",5 bds,4 ba,"3,035 sqft",- Multi-family home for sale
+224,"Plan C Plan, Lofton at Portola BMR",Tri Pointe Homes,"$532,720+",3 bds,4 ba,"1,628 sqft",- New construction
+225,"350 Broderick St APT 211, San Francisco, CA 94117","COMPASS, Fabrizio D'Angelo","$1,435,000",2 bds,2 ba,977 sqft,- New construction
+226,"2130 Filbert St, San Francisco, CA 94123","COMPASS, Nina Hatvany","$4,300,000",4 bds,4 ba,"2,564 sqft",- House for sale
+227,"1547 Revere Ave, San Francisco, CA 94124",NaN,"$1,388,000",5 bds,4 ba,"2,614 sqft",- House for sale
+228,"2100 Green St APT 104, San Francisco, CA 94123","COMPASS, Joan J. Smith","$2,450,000",3 bds,3 ba,"2,173 sqft",- Condo for sale
+229,"2137 Vicente St, San Francisco, CA 94116",NaN,"$1,650,000",6 bds,3 ba,"2,165 sqft",- House for sale
+230,"1921 Grant Ave, San Francisco, CA 94133","SOTHEBY'S INTERNATIONAL REALTY, Wendy M. Storch","$1,595,000",2 bds,2 ba,"1,473 sqft",- Condo for sale
+231,"2786 Jackson St #A, San Francisco, CA 94115","SOTHEBY'S INTERNATIONAL REALTY, Judy H. Karam","$535,000",Studio,1 ba,472 sqft,- Condo for sale
+232,"1075 Market St UNIT 307, San Francisco, CA 94103","HOME QUEST REALTY, Robert  Belli","$331,429",1 bd,1 ba,500 sqft,- Condo for sale
+233,"1823 Silliman St, San Francisco, CA 94134","REALTY WORLD BAY AREA R.E., Marlon Austria","$1,398,888",4 bds,4 ba,"2,524 sqft",- House for sale
+234,"1160 Mission St UNIT 1105, San Francisco, CA 94103","HOME QUEST REALTY, Robert  Belli","$307,950",1 bd,1 ba,664 sqft,- Condo for sale
+235,"2983 21st St #C, San Francisco, CA 94110","COMPASS, Claudia L. Siegel","$619,000",1 bd,1 ba,-- sqft,- New construction
+236,"918 Divisadero St, San Francisco, CA 94115","COMPASS, Kevin Swanigan","$3,999,999",7 bds,5 ba,"5,041 sqft",- House for sale
+237,"722 Girard St, San Francisco, CA 94134",NaN,"$998,000",5 bds,3 ba,"2,480 sqft",- House for sale
+238,"1308 Montgomery St, San Francisco, CA 94133","SOTHEBY'S INTERNATIONAL REALTY, Carol A. Goldberg","$3,995,000",3 bds,5 ba,"3,285 sqft",- Multi-family home for sale
+239,"1345 16th Ave APT 6, San Francisco, CA 94122","COMPASS SF, Lance Fulford","$799,000",2 bds,1 ba,-- sqft,- Condo for sale
+240,"814 Diamond St #818, San Francisco, CA 94114","COMPASS, Rachel E. Swann","$1,999,000",3 bds,2 ba,"2,642 sqft",- Multi-family home for sale
+241,"2830 22nd St, San Francisco, CA 94110","VANGUARD PROPERTIES, Sean Jeremy Weinstock","$1,225,000",2 bds,2 ba,"1,090 sqft",- House for sale
+242,"111 Chestnut St UNIT 704, San Francisco, CA 94111","COLDWELL BANKER REALTY, Bruce Lyon","$685,000",1 bd,1 ba,680 sqft,- Condo for sale
+243,"378 Collingwood St, San Francisco, CA 94114","SOTHEBY'S INTERNATIONAL REALTY, Neill S. Bassi","$5,700,000",3 bds,3 ba,"2,820 sqft",- House for sale
+244,"242 20th Ave, San Francisco, CA 94121",NaN,"$1,295,000",5 bds,2 ba,"2,120 sqft",- Multi-family home for sale
+245,"2707 Larkin St, San Francisco, CA 94109","SOTHEBY'S INTERNATIONAL REALTY, Janet F. Schindler","$9,995,000",4 bds,8 ba,"5,371 sqft",- House for sale
+246,"574 Waller St, San Francisco, CA 94117","SOTHEBY'S INTERNATIONAL REALTY, Allison Fortini Crawford","$1,399,000",2 bds,1 ba,"1,117 sqft",- Condo for sale
+247,"55 S Western Shore Ln UNIT 4, San Francisco, CA 94115",NaN,"$747,000",3 bds,2 ba,"1,050 sqft",- Condo for sale
+248,"1466 Waller St #1470, San Francisco, CA 94117","MARCUS & MILLICHAP, Dan M. McGivern","$1,700,000",4 bds,-- ba,"5,580 sqft",- Multi-family home for sale
+249,"2022 10th Ave, San Francisco, CA 94116",NaN,"$2,499,950",4 bds,5 ba,"2,618 sqft",- House for sale
+250,"701 Hampshire St #2, San Francisco, CA 94110","COMPASS, Mark A. Colwell","$595,000",1 bd,1 ba,609 sqft,- Condo for sale
+251,"3009 Webster St, San Francisco, CA 94123","COLDWELL BANKER REALTY, Daniel Hendel","$4,250,000",4 bds,3 ba,"2,774 sqft",- House for sale
+252,"234 Andover St, San Francisco, CA 94110","AVENUE 8 INC., Richard Rochon","$2,195,000",4 bds,3 ba,"2,040 sqft",- House for sale
+253,"6 Mint Plz APT 201A, San Francisco, CA 94103","COMPASS SF, L. Christine Irsfeld","$649,000",1 bd,1 ba,589 sqft,- Condo for sale
+254,"2119 25th Ave, San Francisco, CA 94116","CENTURY 21 BALDINI REALTY, Joseph A. Jajeh","$1,189,000",2 bds,1 ba,"1,400 sqft",- House for sale
+255,"207 Brussels St, San Francisco, CA 94134","RE/MAX GOLD DALY CITY, Bradford Huang","$1,288,000",6 bds,4 ba,"1,675 sqft",- House for sale
+256,"10 Sea Cliff Ave, San Francisco, CA 94121","PATRICIA AGUARISTI, BROKER, Fernando Quezada","$7,200,000",4 bds,4 ba,"3,420 sqft",- House for sale
+257,"172 Landers St #174, San Francisco, CA 94114","VANGUARD PROPERTIES, Allison Chapleau","$1,995,000",4 bds,-- ba,"2,240 sqft",- Multi-family home for sale
+258,"1910 Turk St #1912, San Francisco, CA 94115","COMPASS, Alex M. Shvartsman","$1,949,000",4 bds,-- ba,"2,490 sqft",- Multi-family home for sale
+259,"1567 Francisco St, San Francisco, CA 94123","SOTHEBY'S INTERNATIONAL REALTY, Darwin Tejada","$3,575,000",3 bds,4 ba,"3,072 sqft",- Condo for sale
+260,"179 San Carlos St #2, San Francisco, CA 94110",NaN,"$1,295,000",2 bds,2 ba,973 sqft,- Condo for sale
+261,"6038 Geary Blvd #6040, San Francisco, CA 94121","COMPASS, Carol L. Solfanelli","$1,395,000",4 bds,2 ba,"3,340 sqft",- House for sale
+262,"114 Coral Ct #26, San Francisco, CA 94124","CENTURY 21 REALTY ALLIANCE, Shu Pu","$699,000",3 bds,3 ba,"1,360 sqft",- Condo for sale
+263,"700 15th Ave, San Francisco, CA 94118","COMPASS, John M. Kirkpatrick","$2,995,000",5 bds,4 ba,"2,877 sqft",- House for sale
+264,"2626 Filbert St, San Francisco, CA 94123","COMPASS, Neal Allen Ward","$15,980,000",4 bds,5 ba,"4,185 sqft",- House for sale
+265,"2546 Sutter St, San Francisco, CA 94115",NaN,"$1,888,000",-- bds,-- ba,"1,920 sqft",- Multi-family home for sale
+266,"385 Tehama St, San Francisco, CA 94103","COMPASS, Adam I. Gavzer","$1,279,000",1 bd,1 ba,"1,566 sqft",- Condo for sale
+267,"686 28th Ave, San Francisco, CA 94121","DCP REALTY, Thanda Yap","$1,580,000",3 bds,2 ba,"1,350 sqft",- House for sale
+268,"349 S Van Ness Ave #3, San Francisco, CA 94103","VANGUARD PROPERTIES, Michael A. Gallin","$625,000",2 bds,1 ba,787 sqft,- Condo for sale
+269,"547 Sawyer St, San Francisco, CA 94134",NaN,"$798,000",3 bds,2 ba,"1,235 sqft",- House for sale
+270,"1441 Vallejo St, San Francisco, CA 94109","CORCORAN GLOBAL LIVING, Erik Reider","$1,699,000",2 bds,2 ba,"2,012 sqft",- Condo for sale
+271,"946 Stockton St APT 11C, San Francisco, CA 94108","UNITED ASSOCIATES INV., INC., King C. Hsiao","$760,000",2 bds,2 ba,690 sqft,- Condo for sale
+272,"901 Bayshore Blvd #206, San Francisco, CA 94124","CORCORAN GLOBAL LIVING, Julia Lo","$240,000",1 bd,1 ba,-- sqft,- Condo for sale
+273,"290 Red Rock Way #A, San Francisco, CA 94131","COMPASS, Katherine D. Tomassi","$995,000",4 bds,3 ba,"1,513 sqft",- Condo for sale
+274,"627 39th Ave, San Francisco, CA 94121","COMPASS, Carol Reen","$2,295,000",4 bds,5 ba,"2,387 sqft",- House for sale
+275,"280 Monterey Blvd, San Francisco, CA 94131","COMPASS SF, Pete Brannigan","$1,799,000",5 bds,3 ba,"2,589 sqft",- House for sale
+276,"74 Brady St UNIT 6, San Francisco, CA 94103","Sternberg-Benjamin Architects, AVENUE 8 INC., Justin F. Fichelson","$1,395,000",2 bds,3 ba,"1,668 sqft",- Condo for sale
+277,"709 Central Ave, San Francisco, CA 94117","PONTAR REAL ESTATE, Merri Pontar-Rawski","$1,225,000",3 bds,2 ba,"1,228 sqft",- Condo for sale
+278,"Plan B Plan, Lofton at Portola BMR",Tri Pointe Homes,"$532,720+",3 bds,4 ba,"1,789 sqft",- New construction
+279,"520 Natoma St APT 11, San Francisco, CA 94103","VANGUARD PROPERTIES, Robert Lane Gibson","$369,000",Studio,1 ba,347 sqft,- Condo for sale
+280,"81 Lansing St APT 303, San Francisco, CA 94105","COMPASS SF, John P. Twomey","$799,000",1 bd,1 ba,900 sqft,- Condo for sale
+281,"300 3rd St APT 318, San Francisco, CA 94107","COMPASS SF, Ruth Krishnan","$1,220,000",2 bds,2 ba,"1,399 sqft",- Condo for sale
+282,"875 California St #402, San Francisco, CA 94108","Grosvenor Americas, COMPASS, Victoria M. Stewart Davis","$2,320,000",2 bds,2 ba,"1,444 sqft",- New construction
+283,"3751 21st St, San Francisco, CA 94114","SOTHEBY'S INTERNATIONAL REALTY, Greg Fulford","$2,195,000",4 bds,4 ba,-- sqft,- House for sale
+284,"1146 Florida St, San Francisco, CA 94110","COMPASS, Brendon Kearney","$3,595,000",3 bds,4 ba,"2,954 sqft",- House for sale
+285,"50 Oakwood St, San Francisco, CA 94110","COMPASS, Nina Hatvany","$7,850,000",5 bds,5 ba,"4,665 sqft",- House for sale
+286,"1345 16th Ave APT 9, San Francisco, CA 94122","COMPASS SF, Lance Fulford","$675,000",1 bd,1 ba,691 sqft,- Condo for sale
+287,"1834 Mason St, San Francisco, CA 94133","COMPASS, John C. Farnham","$1,695,000",2 bds,2 ba,"1,594 sqft",- Condo for sale
+288,"260 King St UNIT 457, San Francisco, CA 94107","KELLER WILLIAMS SAN FRANCISCO, Miyuki Mia Takami","$949,000",1 bd,2 ba,"1,104 sqft",- Condo for sale
+289,"44 Stonecrest Dr, San Francisco, CA 94132",NaN,"$3,386,000",4 bds,5 ba,"4,084 sqft",- House for sale
+290,"310 Townsend St APT 206, San Francisco, CA 94107","MOSAIK REAL ESTATE, Ashley C. Petty","$699,000",1 bd,1 ba,689 sqft,- Condo for sale
+291,"555 Golden Gate Ave #6G, San Francisco, CA 94102","JS SULLIVAN SALES AND MARKETIN, Loring M. Aguillon-Racine","$879,000",2 bds,1 ba,834 sqft,- New construction
+292,"1324 Clement St #1326, San Francisco, CA 94118","RE/MAX GOLD DALY CITY, Beatrice S. Kopilenko","$1,888,000",4 bds,3 ba,"3,334 sqft",- Multi-family home for sale
+293,"214 States St, San Francisco, CA 94114","LAUREL REALTY & INVESTMENT, Jeff J. Appenrodt","$1,495,000",3 bds,-- ba,"1,500 sqft",- New construction
+294,"1290 23rd Ave, San Francisco, CA 94122",NaN,"$1,195,000",3 bds,2 ba,"1,200 sqft",- Condo for sale
+295,"3053 California St #3053, San Francisco, CA 94115","COMPASS, Ana T. L. Dierkhising","$2,095,000",3 bds,4 ba,"2,186 sqft",- Condo for sale
+296,"2555 Union St, San Francisco, CA 94123","W REAL ESTATE, Wendy W. Tam","$14,200,000",4 bds,4 ba,"6,024 sqft",- House for sale
+297,"821 Taraval St APT C, San Francisco, CA 94116","CORCORAN GLOBAL LIVING, Tanya S. Dzhibrailova","$1,195,000",3 bds,3 ba,"1,535 sqft",- Condo for sale
+298,"57 Woodward St #A, San Francisco, CA 94103","COMPASS, Duncan C. Wheeler","$719,000",2 bds,1 ba,892 sqft,- Condo for sale
+299,"666 Post St APT 902, San Francisco, CA 94109","VANGUARD PROPERTIES, Christian Buckley","$659,000",1 bd,1 ba,775 sqft,- Condo for sale
+300,"1087 De Haro St, San Francisco, CA 94107","COMPASS, Brian Anderson","$1,099,000",2 bds,2 ba,"1,088 sqft",- Condo for sale
+301,"1282 Hayes St #101, San Francisco, CA 94117","VANGUARD PROPERTIES, Michael R. Keane-Stack","$799,000",1 bd,1 ba,-- sqft,- New construction
+302,"9 Apollo St, San Francisco, CA 94124","INTERO REAL ESTATE SERVICES, Alex Y. Dabit","$798,000",3 bds,1 ba,987 sqft,- House for sale
+303,"2780 Broadway St, San Francisco, CA 94115","SOTHEBY'S INTERNATIONAL REALTY, Steven M. Gothelf","$19,995,000",4 bds,6 ba,"6,000 sqft",- House for sale
+304,"1787 Alabama St #1787, San Francisco, CA 94110",NaN,"$950,000",2 bds,1 ba,"1,200 sqft",- Condo for sale
+305,"898 Francisco St, San Francisco, CA 94109","COMPASS, Mark A. Levinson","$9,950,000",6 bds,7 ba,"6,305 sqft",- House for sale
+306,"2196 Jackson St, San Francisco, CA 94115","SOTHEBY'S INTERNATIONAL REALTY, Janet F. Schindler","$5,995,000",5 bds,5 ba,"5,025 sqft",- House for sale
+307,"3200 Judah St #3202, San Francisco, CA 94122","EXP REALTY OF CALIFORNIA, INC, Tyson Li","$1,595,000",6 bds,1 ba,"2,250 sqft",- Multi-family home for sale
+308,"22 Presidio Ave, San Francisco, CA 94115","COLDWELL BANKER REALTY, Joel Goodrich","$3,575,000",3 bds,3 ba,"2,380 sqft",- Condo for sale
+309,"181 Fremont St UNIT 68B, San Francisco, CA 94105","Jay Paul Company, COMPASS, Carmen Legarda","$15,500,000",2 bds,3 ba,"3,256 sqft",- New construction
+310,"1461 Kansas St, San Francisco, CA 94107","REDFIN, Miriam Westberg","$1,095,000",2 bds,1 ba,946 sqft,- House for sale
+311,"601 Van Ness Ave APT 45, San Francisco, CA 94102","SOTHEBY'S INTERNATIONAL REALTY, David E. Werboff","$799,000",2 bds,2 ba,"1,093 sqft",- Condo for sale
+312,"1510 Jackson St APT 2, San Francisco, CA 94109","CORCORAN GLOBAL LIVING, Jeremy Burnett","$768,000",2 bds,1 ba,-- sqft,- Condo for sale
+313,"2000 Washington St #7, San Francisco, CA 94109","COMPASS, Malin B. Giddings","$25,000,000",4 bds,4 ba,-- sqft,- Condo for sale
+314,"13 Abbey St, San Francisco, CA 94114","INTERO REAL ESTATE SERVICES, Steven Y. Fang","$1,495,000",2 bds,2 ba,-- sqft,- Multi-family home for sale
+315,"2232 Bush St, San Francisco, CA 94115","COMPASS, Steven Mavromihalis","$6,200,000",4 bds,4 ba,"6,374 sqft",- House for sale
+316,"2040 Franklin St APT 1209, San Francisco, CA 94109","COMPASS, Deborah L. Nguyen","$1,395,000",2 bds,2 ba,-- sqft,- Condo for sale
+317,"51 Wool St, San Francisco, CA 94110","FUTURA REALTY INC., Jorge E. Carcamo","$1,133,000",1 bd,1 ba,"1,175 sqft",- House for sale
+318,"940 Natoma St UNIT 5, San Francisco, CA 94103","CLARIN REALTY INC., Noreleen C. de Mesa","$799,000",1 bd,1 ba,965 sqft,- Condo for sale
+319,"1370 Broadway St, San Francisco, CA 94109","COMPASS SF, Helena Zaludova","$1,235,000",3 bds,1 ba,"1,340 sqft",- Condo for sale
+320,"425 1st St UNIT 905, San Francisco, CA 94105","REAL ESTATE ADVISOR GROUP, Tim M. Heffernan","$779,000",1 bd,1 ba,710 sqft,- Condo for sale
+321,"619 Shotwell St APT 6, San Francisco, CA 94110","CORCORAN GLOBAL LIVING, Stefano Dezerega","$799,000",2 bds,1 ba,685 sqft,- Condo for sale
+322,"620 Waller St, San Francisco, CA 94117","COMPASS SF, George L. Limperis","$2,395,000",4 bds,2 ba,"2,225 sqft",- Multi-family home for sale
+323,"2016 Pacific Ave APT 401, San Francisco, CA 94109","BRAVA REAL ESTATE, Sherri Howe","$1,539,000",2 bds,3 ba,"1,154 sqft",- Condo for sale
+324,"1310 Greenwich St APT 202, San Francisco, CA 94109","COMPASS, Kevin Wakelin","$1,195,000",2 bds,1 ba,-- sqft,- Condo for sale
+325,"301 Mission St APT 22G, San Francisco, CA 94105","COLDWELL BANKER REALTY, Dona Crowder","$1,398,000",2 bds,2 ba,"1,268 sqft",- Condo for sale
+326,"172 Langton St, San Francisco, CA 94103",NaN,"$699,000",1 bd,1 ba,616 sqft,- Condo for sale
+327,"52 Nebraska St, San Francisco, CA 94110","COMPASS SF, Lyle Chip McAllister","$1,495,000",2 bds,1 ba,"1,025 sqft",- House for sale
+328,"590 Chestnut St, San Francisco, CA 94133","COMPASS, Joshua A. Lawrence","$1,449,000",4 bds,2 ba,"1,335 sqft",- New construction
+329,"83 Mcallister St APT 405, San Francisco, CA 94102","KELLER WILLIAMS SAN FRANCISCO, Michael  Minson","$385,000",Studio,1 ba,254 sqft,- Condo for sale
+330,"139 Stillman St APT 4, San Francisco, CA 94107","ANDERSEN, JUNG & CO., Monica H. Chung","$705,000",1 bd,1 ba,715 sqft,- Condo for sale
+331,"1163 Shotwell St #1165, San Francisco, CA 94110","POLARIS REALTY, Ron Abta","$4,195,000",5 bds,5 ba,"4,021 sqft",- House for sale
+332,"1133 Church St, San Francisco, CA 94114","SOTHEBY'S INTERNATIONAL REALTY, Wendy M. Storch","$1,450,000",3 bds,1 ba,-- sqft,- Condo for sale
+333,"348 Austin St, San Francisco, CA 94109","COLDWELL BANKER REALTY, Andrea Govoni","$1,398,000",3 bds,2 ba,"1,584 sqft",- Multi-family home for sale
+334,"1367 41st Ave, San Francisco, CA 94122","COLDWELL BANKER REALTY, Florence H. Chang","$2,150,000",5 bds,4 ba,"2,461 sqft",- House for sale
+335,"1080 Chestnut St, San Francisco, CA 94109","SOTHEBY'S INTERNATIONAL REALTY, Gregg Lynn","$19,000,000",4 bds,5 ba,"5,445 sqft",- Condo for sale
+336,"45 Cleary Ct APT 4, San Francisco, CA 94109","COLDWELL BANKER REALTY, Luis P. Moran","$1,035,000",3 bds,2 ba,"1,395 sqft",- Condo for sale
+337,"388 Townsend St APT 16, San Francisco, CA 94107","COMPASS, Dennis R. Otto","$825,000",1 bd,2 ba,936 sqft,- Condo for sale
+338,"139 S Lake Merced Hls APT 3A, San Francisco, CA 94132","ALEX VARUM BROKER, Alexander S. Varum","$849,000",2 bds,2 ba,"1,297 sqft",- Condo for sale
+339,"470 Beacon St, San Francisco, CA 94131","CORCORAN GLOBAL LIVING, Michael H. Salstein","$3,495,000",3 bds,4 ba,"3,965 sqft",- House for sale
+340,"125 Precita Ave, San Francisco, CA 94110","COMPASS, Danielle H. Lazier","$995,000",3 bds,1 ba,"1,195 sqft",- Condo for sale
+341,"301 Mission St APT 5C, San Francisco, CA 94105",NaN,"$880,000",1 bd,1 ba,833 sqft,- Condo for sale
+342,"147 Caledonia St #149, San Francisco, CA 94103","COMPASS SF, Gary J. Snow","$825,000",4 bds,2 ba,"1,824 sqft",- Multi-family home for sale
+343,"2245 Franklin St, San Francisco, CA 94109","COMPASS, Amanda M. Jones","$1,635,000",2 bds,2 ba,"1,243 sqft",- Condo for sale
+344,"725 Pine St APT 307, San Francisco, CA 94108","SOTHEBY'S INTERNATIONAL REALTY, Roger S. Landry","$449,000",Studio,1 ba,328 sqft,- Condo for sale
+345,"888 7th St UNIT 304, San Francisco, CA 94107","SEQUOIA REAL ESTATE, Stephanie O. Mates","$383,277",1 bd,1 ba,535 sqft,- Condo for sale
+346,"430 7th Ave, San Francisco, CA 94118",NaN,"$2,695,000",4 bds,4 ba,"2,874 sqft",- House for sale
+347,"343 Russia Ave #345, San Francisco, CA 94112","MAVEN COMMERCIAL, INC., Dominic Morbidelli","$950,000",5 bds,3 ba,"2,250 sqft",- Multi-family home for sale
+348,"901 Bush St APT 207, San Francisco, CA 94109","COMPASS, Robert  Belli","$399,273",1 bd,1 ba,532 sqft,- Condo for sale
+349,"1942 44th Ave, San Francisco, CA 94116",NaN,"$1,688,000",5 bds,3 ba,"1,631 sqft",- House for sale
+350,"1383 37th Ave, San Francisco, CA 94122","CHOU EVERGREEN REALTY, INC., Anne Chou","$1,299,000",4 bds,2 ba,"2,250 sqft",- Multi-family home for sale
+351,"3428 22nd St, San Francisco, CA 94110","COMPASS, Marcus L. Grogans","$1,650,000",3 bds,2 ba,-- sqft,- New construction
+352,"1708 Lombard St #1710, San Francisco, CA 94123","COMPASS, Chris J. O'Connor","$1,900,000",4 bds,2 ba,"3,040 sqft",- Multi-family home for sale
+353,"380 14th St APT 205, San Francisco, CA 94103","IMPACT, Jaymee Faith Sagisi","$365,000",1 bd,1 ba,455 sqft,- Condo for sale
+354,"135 Alpha St, San Francisco, CA 94134",NaN,"$750,000",4 bds,2 ba,"1,110 sqft",- House for sale
+355,"317 29th St APT 201, San Francisco, CA 94131","COMPASS, Robert  Belli","$429,405",1 bd,1 ba,536 sqft,- Condo for sale
+356,"2135 California St #3, San Francisco, CA 94115","COMPASS SF, Helena Zaludova","$1,425,000",3 bds,2 ba,"1,177 sqft",- Condo for sale
+357,"275 Shipley St, San Francisco, CA 94107","SOTHEBY'S INTERNATIONAL REALTY, Wendy M. Storch","$4,000,000",3 bds,4 ba,"2,915 sqft",- House for sale
+358,"888 San Jose Ave, San Francisco, CA 94110","POLARIS REALTY, Ron Abta","$949,000",2 bds,2 ba,"1,040 sqft",- Condo for sale
+359,"2501 Cabrillo St, San Francisco, CA 94121","JODI GROUP, David T. Chan","$988,000",2 bds,1 ba,"1,174 sqft",- Condo for sale
+360,"2701 Van Ness Ave APT 503, San Francisco, CA 94109","VANGUARD PROPERTIES, Lisa Camozzi","$625,000",Studio,1 ba,551 sqft,- Condo for sale
+361,"601 Van Ness Ave APT 108, San Francisco, CA 94102","COMPASS, Lotus C. Hsiao","$470,000",1 bd,-- ba,518 sqft,- Condo for sale
+362,"1180 Eddy St UNIT B, San Francisco, CA 94109","VANGUARD PROPERTIES, Andrea F. Swetland","$849,999",2 bds,2 ba,816 sqft,- Condo for sale
+363,"224 Mississippi St, San Francisco, CA 94107","URBAN GROUP REAL ESTATE, Louis Cornejo","$2,400,000",2 bds,2 ba,"3,400 sqft",- House for sale
+364,"Plan D1 Plan, Lofton at Portola BMR",Tri Pointe Homes,"$532,720+",2 bds,3 ba,"1,393 sqft",- New construction
+365,"640 Davis St UNIT 46, San Francisco, CA 94111","SOTHEBY'S INTERNATIONAL REALTY, Dean Badessa","$1,598,000",2 bds,2 ba,"1,471 sqft",- Condo for sale
+366,"659 Page St, San Francisco, CA 94117","VANGUARD PROPERTIES, Jean-Paul Samaha","$1,995,000",2 bds,3 ba,"1,965 sqft",- New construction
+367,"333 Beale St APT 8F, San Francisco, CA 94105","RED ROSE REAL ESTATE SERVICES, Ah Soon Mah","$1,230,000",1 bd,1 ba,920 sqft,- Condo for sale
+368,"152 Lombard St APT 401, San Francisco, CA 94111","VANGUARD PROPERTIES, Derek M. Jackson","$999,995",2 bds,2 ba,"1,112 sqft",- Condo for sale
+369,"2744 Baker St, San Francisco, CA 94123",NaN,"$8,995,000",4 bds,6 ba,-- sqft,- Multi-family home for sale
+370,"355 Bryant St UNIT 102, San Francisco, CA 94107","SOTHEBY'S INTERNATIONAL REALTY, Lisa Miller","$2,195,000",2 bds,2 ba,"2,203 sqft",- Condo for sale
+371,"1775 Pacific Ave #1777, San Francisco, CA 94109","COMPASS, Mirella M. Webb","$2,735,000",4 bds,4 ba,"2,762 sqft",- Multi-family home for sale
+372,"1054 Divisadero St #1058, San Francisco, CA 94115","COMPASS COMMERCIAL, Morgan Thomas","$2,595,000",-- bds,-- ba,"3,875 sqft",- Multi-family home for sale
+373,"2 Everson St, San Francisco, CA 94131","COMPASS, Steven Mavromihalis","$12,000,000",4 bds,6 ba,"6,230 sqft",- House for sale
+374,"1880 Turk St, San Francisco, CA 94115","NORTH POINT REAL ESTATE, Oggi Kashi","$5,200,000",8 bds,9 ba,"7,500 sqft",- House for sale
+375,"675 Tennessee St #A, San Francisco, CA 94107","CORCORAN GLOBAL LIVING, Marsha K. Williams","$998,000",1 bd,2 ba,"1,092 sqft",- Condo for sale
+376,"202 Union St, San Francisco, CA 94133","KELLER WILLIAMS SAN FRANCISCO, Anthony L. Koutsos","$250,000","1,470 sqft lot",NaN,NaN,- Lot / Land for sale
+377,"2227 Beach St, San Francisco, CA 94123","GM GREEN REAL ESTATE, INC., George M. Green","$1,997,000",3 bds,-- ba,"2,250 sqft",- Condo for sale
+378,"65 Broad St, San Francisco, CA 94112","CORCORAN GLOBAL LIVING, Larry W. Stiffler","$1,495,000",5 bds,2 ba,"2,750 sqft",- Multi-family home for sale
+379,"123 Bernard St, San Francisco, CA 94109",NaN,"$1,727,888",3 bds,2 ba,"2,100 sqft",- House for sale
+380,"1387 19th Ave, San Francisco, CA 94122",NaN,"$1,499,000",4 bds,2 ba,"2,500 sqft",- Multi-family home for sale
+381,"2721 Pine St, San Francisco, CA 94115","IAN BERKE REAL ESTATE, Ian Berke","$1,390,000",2 bds,2 ba,"1,390 sqft",- Condo for sale
+382,"1230 Sacramento St, San Francisco, CA 94108","SOTHEBY'S INTERNATIONAL REALTY, Mary Lou Castellanos","$7,995,000",4 bds,3 ba,"4,822 sqft",- House for sale
+383,"1550 20th Ave, San Francisco, CA 94122","REALTY WORLD BAY AREA R.E., Marlon Austria","$1,888,888",5 bds,4 ba,"2,950 sqft",- Multi-family home for sale
+384,"701 Pennsylvania Ave APT 207, San Francisco, CA 94107","HARPER REAL ESTATE, Anthony R. Navarro","$850,000",1 bd,2 ba,897 sqft,- Condo for sale
+385,"850 Powell St APT 401, San Francisco, CA 94108","COMPASS, Michelle N. Englert","$1,149,000",2 bds,6 ba,"1,456 sqft",- Condo for sale
+386,"555 4th St UNIT 911, San Francisco, CA 94107","Webcor, COMPASS, Pam Godbold","$765,000",1 bd,1 ba,-- sqft,- Condo for sale
+387,"75 Howard St #1701, San Francisco, CA 94105","Paramount Group, Inc. and SRE Group Ltd., POLARIS PACIFIC, Kristin  Evans","$8,950,000",3 bds,3 ba,"2,337 sqft",- New construction
+388,"871 Foerster St, San Francisco, CA 94127",NaN,"$2,097,000",4 bds,4 ba,"2,996 sqft",- House for sale
+389,"953 Union St, San Francisco, CA 94133","COMPASS, Ivan Leung","$1,750,000",3 bds,2 ba,"1,584 sqft",- Condo for sale
+390,"3868 Jackson St #3870, San Francisco, CA 94118","COMPASS, Lisa M. Lyons","$5,750,000",6 bds,6 ba,"5,250 sqft",- Multi-family home for sale
+391,"335 27th Ave, San Francisco, CA 94121","WEST COAST PROPERTY MGT. CO., George L. Johnson","$1,388,000",3 bds,3 ba,"1,994 sqft",- Multi-family home for sale
+392,"2936 Scott St, San Francisco, CA 94123","COLDWELL BANKER REALTY, Joel Goodrich","$8,500,000",6 bds,5 ba,"5,780 sqft",- House for sale
+393,"333 Bush St APT 4104, San Francisco, CA 94104","LEVEL 5 REAL ESTATE, Mary L. Fenton","$1,500,000",2 bds,2 ba,"1,382 sqft",- Condo for sale
+394,"250 King St UNIT 628, San Francisco, CA 94107","COMPASS, Shaban A. Shakoori","$700,000",1 bd,1 ba,866 sqft,- Condo for sale
+395,"476 Hickory St, San Francisco, CA 94102","COMPASS, David J. Zimmerman","$1,695,000",2 bds,2 ba,"1,400 sqft",- House for sale
+396,"129 Ellert St, San Francisco, CA 94110","COMPASS, Frank A. Castaldini","$899,000",1 bd,1 ba,-- sqft,- Condo for sale
+397,"488 Folsom St #5602, San Francisco, CA 94105","RELATED CA RES. SALES, INC., Derec Lacio","$14,900,000",3 bds,4 ba,"4,312 sqft",- New construction
+398,"260 King St UNIT 729, San Francisco, CA 94107",NaN,"$660,000",Studio,1 ba,600 sqft,- Condo for sale
+399,"528 Noe St, San Francisco, CA 94114","CORCORAN GLOBAL LIVING, David W. Gowan","$3,600,000",4 bds,5 ba,-- sqft,- House for sale
+400,"1823 Turk St, San Francisco, CA 94115","REAL ESTATE ADVISOR GROUP, Tim M. Heffernan","$2,395,000",3 bds,3 ba,"1,925 sqft",- Condo for sale
+401,"850 Minnesota St UNIT 256, San Francisco, CA 94107","HEATH REAL ESTATE, Tyler  Stewart","$899,000",1 bd,2 ba,835 sqft,- Condo for sale
+402,"72 Bruce Ave, San Francisco, CA 94112","COMPASS, James S. Koh","$1,578,000",7 bds,4 ba,"2,416 sqft",- House for sale
+403,"333 Diamond St, San Francisco, CA 94114","COMPASS SF, Silvia Zeng","$5,995,000",5 bds,8 ba,"5,190 sqft",- New construction
+404,"1867 46th Ave, San Francisco, CA 94122","CHRIS ENOKAWA, BROKER, Chris H. Enokawa","$1,175,000",2 bds,1 ba,787 sqft,- House for sale
+405,"298 Baden St, San Francisco, CA 94131","PACIFIC EDGE, Cynthia M. Pagan","$995,000",2 bds,1 ba,"1,375 sqft",- Condo for sale
+406,"21 Roscoe St, San Francisco, CA 94110","W REAL ESTATE, Todd A. Parrish","$1,249,000",2 bds,2 ba,"1,191 sqft",- House for sale
+407,"Plan D2 Plan, Lofton at Portola BMR",Tri Pointe Homes,"$532,720+",2 bds,3 ba,"1,393 sqft",- New construction
+408,"1845 Pacheco St, San Francisco, CA 94116","BARBCO, Amy Yuen","$1,845,000",3 bds,2 ba,"1,951 sqft",- House for sale
+409,"1760 Pacific Ave APT 2, San Francisco, CA 94109",NaN,"$1,950,000",2 bds,2 ba,"1,722 sqft",- Condo for sale
+410,"1785 Alabama St #1785, San Francisco, CA 94110",NaN,"$1,150,000",3 bds,2 ba,"1,400 sqft",- Condo for sale
+411,"2423 Buchanan St #B, San Francisco, CA 94115","SOTHEBY'S INTERNATIONAL REALTY, Roberto Corpuz","$899,000",1 bd,1 ba,"1,117 sqft",- Condo for sale
+412,"1731 Larkin St APT 3, San Francisco, CA 94109",NaN,"$1,374,000",2 bds,2 ba,"1,084 sqft",- Condo for sale
+413,"210 Monterey Blvd, San Francisco, CA 94131","COMPASS SF, Ruth Krishnan","$1,295,000",2 bds,1 ba,-- sqft,- House for sale
+414,"555 Golden Gate Ave #8A, San Francisco, CA 94102","JS SULLIVAN SALES AND MARKETIN, Loring M. Aguillon-Racine","$799,000",1 bd,1 ba,568 sqft,- New construction
+415,"151 Alice B Toklas Pl UNIT 407, San Francisco, CA 94109","COMPASS, John M. Lee","$725,000",1 bd,1 ba,783 sqft,- Condo for sale
+416,"169 Shakespeare St, San Francisco, CA 94112","BERKSHIRE HATHAWAY-FRANCISCAN, Andrew de Vries","$299,000","2,788 sqft lot",NaN,NaN,- Lot / Land for sale
+417,"617 Minna St #619, San Francisco, CA 94103","BETTER HOMES AND GARDENS THRIV, Margaret Wong","$1,620,000",4 bds,4 ba,"3,158 sqft",- Multi-family home for sale
+418,"849 Sanchez St, San Francisco, CA 94114","COMPASS SF, Joseph A. Marko","$4,695,000",3 bds,4 ba,"2,925 sqft",- House for sale
+419,"400 Grove St UNIT 101, San Francisco, CA 94102","VANGUARD PROPERTIES, Andrea F. Swetland","$404,082",1 bd,1 ba,485 sqft,- Condo for sale
+420,"1800 Bryant St SUITE 102, San Francisco, CA 94110","VANGUARD PROPERTIES, Catherine Watson","$749,000",1 bd,2 ba,747 sqft,- Condo for sale
+421,"547 Missouri St, San Francisco, CA 94107","THE FRONT STEPS, Alexander T. Clark","$5,350,000",5 bds,6 ba,-- sqft,- House for sale
+422,"3774 Mission St, San Francisco, CA 94110","VANGUARD PROPERTIES, Edward R. Deleski","$995,000",4 bds,-- ba,"2,372 sqft",- House for sale
+423,"550 S Van Ness Ave APT 408, San Francisco, CA 94110","CORCORAN GLOBAL LIVING, Laura R. Kaufman","$699,000",1 bd,1 ba,796 sqft,- Condo for sale
+424,"550 Davis St UNIT 27, San Francisco, CA 94111","SOTHEBY'S INTERNATIONAL REALTY, Annie M. Williams","$2,699,000",3 bds,3 ba,"2,020 sqft",- Townhouse for sale
+425,"1001 Pine St UNIT 305, San Francisco, CA 94109","KELLER WILLIAMS SAN FRANCISCO, Michael  Minson","$829,000",2 bds,1 ba,840 sqft,- Condo for sale
+426,"161 Clifford Ter, San Francisco, CA 94117","KINDRED SF HOMES, Shelly L. Sutherland","$3,200,000",4 bds,3 ba,"2,415 sqft",- Condo for sale
+427,"20 Inca Ln APT 3, San Francisco, CA 94115","COLDWELL BANKER REALTY, Jana B. Farrell","$710,000",3 bds,2 ba,"1,050 sqft",- Condo for sale
+428,"405 Beacon St, San Francisco, CA 94131",NaN,"$1,595,000",3 bds,2 ba,"1,309 sqft",- House for sale
+429,"56 Cielito Dr, San Francisco, CA 94134","GREEN BANKER, Stanley Lo","$699,000",3 bds,1 ba,990 sqft,- House for sale
+430,"1465 York St, San Francisco, CA 94110",NaN,"$1,599,999",5 bds,2 ba,"1,599 sqft",- House for sale
+431,"1550 Hampshire St #1552, San Francisco, CA 94110","MATTEI PROPERTIES LTD, R. Robert Mattei","$1,949,000",4 bds,3 ba,"2,575 sqft",- Multi-family home for sale
+432,"735 Geary St APT 404, San Francisco, CA 94109","COMPASS SF, Subhi Barakat","$699,000",1 bd,1 ba,836 sqft,- Condo for sale
+433,"2177 3rd St #505, San Francisco, CA 94107","Woods Bagot, POLARIS PACIFIC, Garrett R. Frakes","$985,000",1 bd,1 ba,719 sqft,- New construction
+434,"485 Potrero Ave UNIT C, San Francisco, CA 94110","COMPASS, Kristen Stuecher","$1,100,000",3 bds,1 ba,"1,102 sqft",- Condo for sale
+435,"403 Main St APT 514N, San Francisco, CA 94105","KW PENINSULA ESTATES, Michelle Ye","$649,000",1 bd,1 ba,536 sqft,- Condo for sale
+436,"2229 Beach St, San Francisco, CA 94123","GM GREEN REAL ESTATE, INC., George M. Green","$1,998,000",3 bds,-- ba,"2,250 sqft",- Condo for sale
+437,"226 27th St APT 4, San Francisco, CA 94131","VANGUARD PROPERTIES, Franck Costa","$1,150,000",3 bds,2 ba,"1,204 sqft",- Condo for sale
+438,"1267 Chestnut St APT 4, San Francisco, CA 94109","COMPASS, Erin Thompson","$1,375,000",2 bds,2 ba,-- sqft,- Condo for sale
+439,"1405 Greenwich St APT 5, San Francisco, CA 94109",NaN,"$599,900",1 bd,-- ba,998 sqft,- Foreclosure
+440,"875 Vermont St APT 204, San Francisco, CA 94107","VANGUARD PROPERTIES, Kevin K. Ho","$699,000",1 bd,1 ba,-- sqft,- Condo for sale
+441,"542 Rhode Island St, San Francisco, CA 94107","REDFIN, Joanna A. Rose","$2,398,000",3 bds,2 ba,-- sqft,- House for sale
+442,"647 Hyde St, San Francisco, CA 94109","KELLER WILLIAMS SAN FRANCISCO, Tim A. Brown","$3,198,000",3 bds,4 ba,"3,944 sqft",- House for sale
+443,"749 Guerrero St, San Francisco, CA 94110","COLDWELL BANKER REALTY, Elizabeth A. Kraus","$1,750,000",3 bds,2 ba,"1,575 sqft",- House for sale
+444,"226 27th St APT 10, San Francisco, CA 94131",NaN,"$649,999",1 bd,1 ba,1 sqft,- Condo for sale
+445,"631 Ofarrell St APT 1206, San Francisco, CA 94109","CORCORAN GLOBAL LIVING, Lauren O'Brien","$479,000",Studio,1 ba,520 sqft,- Condo for sale
+446,"875 N Point St, San Francisco, CA 94109","BERKSHIRE HATHAWAY-FRANCISCAN, Edward F. Milestone","$2,995,000",3 bds,1 ba,-- sqft,- House for sale
+447,"725 Pine St APT 202, San Francisco, CA 94108","AVENUE 8 INC., Cynthia Kellogg","$485,000",Studio,1 ba,313 sqft,- Condo for sale
+448,"2120 Greenwich St, San Francisco, CA 94123","KINOKO, Marcell P. Neri","$2,345,000",3 bds,1 ba,"3,037 sqft",- Multi-family home for sale
+449,"701 Hampshire St #6, San Francisco, CA 94110","COMPASS, Mark A. Colwell","$479,000",Studio,1 ba,-- sqft,- Condo for sale
+450,"220 Beacon St, San Francisco, CA 94131","COMPASS SF, Pete Brannigan","$3,995,000",3 bds,4 ba,"3,408 sqft",- House for sale
+451,"42 Cameo Way, San Francisco, CA 94131","ALEX VARUM BROKER, Alexander S. Varum","$2,295,000",4 bds,3 ba,"2,518 sqft",- House for sale
+452,"2217 Pacific Ave APT 3, San Francisco, CA 94115","SOTHEBY'S INTERNATIONAL REALTY, Grant Edward Beggs","$810,000",1 bd,1 ba,612 sqft,- Condo for sale
+453,"280 Spear Street #12D Plan, MIRA",Tishman Speyer,"$1,495,000+",2 bds,2 ba,"1,097 sqft",- New construction
+454,"1258 Shafter Ave, San Francisco, CA 94124",NaN,"$1,060,000",3 bds,2 ba,995 sqft,- House for sale
+455,"4119-4121 Irving St, San Francisco, CA 94122",NaN,"$1,398,888",-- bds,-- ba,"2,647 sqft",- Multi-family home for sale
+456,"101 Crescent Way APT 2310, San Francisco, CA 94134",NaN,"$799,000",2 bds,2 ba,984 sqft,- Condo for sale
+457,"583 Corbett Ave, San Francisco, CA 94114","COMPASS, Shane R. Ray","$3,495,000",5 bds,6 ba,"4,370 sqft",- House for sale
+458,"325 China Basin St UNIT 410, San Francisco, CA 94158","COMPASS SF, Alicia Tam","$1,799,000",2 bds,2 ba,"1,392 sqft",- Condo for sale
+459,"329 Bay St APT 307, San Francisco, CA 94133",NaN,"$1,290,000",2 bds,2 ba,"1,225 sqft",- Condo for sale
+460,"855 Folsom St APT 316, San Francisco, CA 94107","GROUP MB, Michael S. Broermann","$445,815",1 bd,1 ba,642 sqft,- Condo for sale
+461,"334 Alemany Blvd APT 3, San Francisco, CA 94110","HERMAN, IRENE C., Kelson Herman","$503,000",1 bd,1 ba,530 sqft,- Condo for sale
+462,"815 Tennessee St UNIT 113, San Francisco, CA 94107","BLUE PROPERTY GROUP, Ron Gene Bennett","$849,000",1 bd,1 ba,682 sqft,- New construction
+463,"475 Hampshire St APT 6, San Francisco, CA 94110","THE FRONT STEPS, Alexander T. Clark","$1,495,000",2 bds,3 ba,"1,953 sqft",- Condo for sale
+464,"459 & 461 Potrero Ave, San Francisco, CA 94110",NaN,"$1,850,000",5 bds,4 ba,"2,592 sqft",- House for sale
+465,"1538-1540 Palou Ave, San Francisco, CA 94124",NaN,"$888,000",-- bds,-- ba,"1,550 sqft",- Multi-family home for sale
+466,"349 S Van Ness Ave APT 1, San Francisco, CA 94103","VANGUARD PROPERTIES, Michael A. Gallin","$775,000",2 bds,1 ba,765 sqft,- Condo for sale
+467,"11 Perego Ter APT 3, San Francisco, CA 94131",NaN,"$1,499,000",3 bds,2 ba,"1,470 sqft",- Condo for sale
+468,"1496 Silver Ave, San Francisco, CA 94134","GLOBAL REALTY, Lawrence Sam Chong","$1,450,000",3 bds,2 ba,"2,720 sqft",- House for sale
+469,"85 Duboce Ave APT 201, San Francisco, CA 94103","COMPASS, Priya Agrawal","$687,000",1 bd,1 ba,667 sqft,- Condo for sale
+470,"901 Bayshore Blvd #411, San Francisco, CA 94124",CORCORAN GLOBAL LIVING,"$456,000",1 bd,1 ba,-- sqft,- Foreclosure
+471,"601 Van Ness Ave APT 309, San Francisco, CA 94102","BERRI REAL ESTATE, Max Strang","$649,000",1 bd,1 ba,694 sqft,- Condo for sale
+472,"1805 Pine St APT 34, San Francisco, CA 94109","HOME QUEST REALTY, Robert  Belli","$356,509",Studio,-- ba,479 sqft,- Condo for sale
+473,"675 6th Ave, San Francisco, CA 94118","COLDWELL BANKER REALTY, Millie S. Lum","$1,799,000",5 bds,3 ba,"2,750 sqft",- Multi-family home for sale
+474,"44 Bonview St, San Francisco, CA 94110",NaN,"$1,599,950",4 bds,2 ba,"1,610 sqft",- House for sale
+475,"24 Powers Ave, San Francisco, CA 94110","COMPASS, Michael Freethy","$1,450,000",6 bds,3 ba,"2,315 sqft",- Multi-family home for sale
+476,"371 Haight St #375-373, San Francisco, CA 94102","AVENUE 8 INC., Sunae K. Chon","$1,595,000",3 bds,2 ba,-- sqft,- Condo for sale
+477,"653 28th St, San Francisco, CA 94131","SOTHEBY'S INTERNATIONAL REALTY, Greg Fulford","$6,195,000",5 bds,6 ba,"4,105 sqft",- New construction
+478,"50 Lansing St UNIT 111, San Francisco, CA 94105","SOTHEBY'S INTERNATIONAL REALTY, Ashley Barrington-Mace","$799,000",1 bd,2 ba,677 sqft,- Condo for sale
+479,"601 4th St UNIT 329, San Francisco, CA 94107","VANGUARD PROPERTIES, Colleen M. Cotter","$945,000",1 bd,1 ba,"1,104 sqft",- Condo for sale
+480,"1930 Taylor St, San Francisco, CA 94133","COMPASS, Maximillian D. Armour","$1,595,000",2 bds,2 ba,"1,060 sqft",- Condo for sale
+481,"70 Levant St, San Francisco, CA 94114","COMPASS, William A. Kitchen","$1,825,000",2 bds,2 ba,"1,273 sqft",- House for sale
+482,"630 Leavenworth St APT 5, San Francisco, CA 94109","CORCORAN GLOBAL LIVING, Stefano Dezerega","$929,000",2 bds,2 ba,966 sqft,- Condo for sale
+483,"2200 Pacific Ave APT 4A, San Francisco, CA 94115","MARKER LUXURY PROPERTIES, Jeffrey S. Marples","$1,488,000",2 bds,2 ba,"1,856 sqft",- Condo for sale
+484,"1885 Jackson St APT 101, San Francisco, CA 94109","COLDWELL BANKER REALTY, Luis P. Moran","$1,198,000",2 bds,2 ba,"1,028 sqft",- Condo for sale
+485,"1 Ignacio Ave, San Francisco, CA 94124","COMPASS SF, John R. Solaegui","$1,500,000",3 bds,3 ba,"2,044 sqft",- House for sale
+486,"631 Ofarrell St APT 910, San Francisco, CA 94109","COMPASS SF, Shannon L. Cronan","$469,000",Studio,1 ba,520 sqft,- Condo for sale
+487,"1461 Hayes St, San Francisco, CA 94117","NORTH POINT REAL ESTATE, Laura Lanzone","$1,495,000",2 bds,1 ba,"1,460 sqft",- Condo for sale
+488,"3228 Divisadero St #PH, San Francisco, CA 94123","JS SULLIVAN SALES AND MARKETIN, Loring M. Aguillon-Racine","$2,988,000",3 bds,3 ba,-- sqft,- New construction
+489,"461 Allison St, San Francisco, CA 94112","COMPASS, Michael Freethy","$795,000",2 bds,1 ba,925 sqft,- House for sale
+490,"606 Ellis St, San Francisco, CA 94109",NaN,"$1,449,888",3 bds,2 ba,"1,635 sqft",- House for sale
+491,"2049 15th Ave, San Francisco, CA 94116",NaN,"$1,888,888",3 bds,1 ba,"1,890 sqft",- House for sale
+492,"888 7th St #LL-45, San Francisco, CA 94107",NaN,"$828,000",1 bd,2 ba,714 sqft,- Condo for sale
+493,"80 Harriet St, San Francisco, CA 94103","COMPASS SF, Helena Zaludova","$2,400,000",4 bds,3 ba,"2,870 sqft",- Multi-family home for sale
+494,"110 Channel St UNIT 106, San Francisco, CA 94158","COMPASS, Crystal C. Injo","$1,485,000",2 bds,2 ba,"1,196 sqft",- Condo for sale
+495,"236 Linden St, San Francisco, CA 94102","S&L REALTY, Robert D. Link","$1,333,000",3 bds,2 ba,"1,409 sqft",- Condo for sale
+496,"2085 Ocean Ave, San Francisco, CA 94127","COLDWELL BANKER REALTY, Jian Ying Lin","$2,178,500",4 bds,3 ba,"2,729 sqft",- House for sale
+497,"383 Crescent Ave, San Francisco, CA 94110","VANGUARD PROPERTIES, Robin Hubinsky","$1,175,000",3 bds,1 ba,"1,000 sqft",- House for sale
+498,"1380 La Playa St, San Francisco, CA 94122","BRITTON & COMPANY, W.J., Jonathan G. Britton","$2,250,000",6 bds,3 ba,"3,384 sqft",- Multi-family home for sale
+499,"1366 Turk St APT 1C, San Francisco, CA 94115",NaN,"$949,888",2 bds,2 ba,"1,226 sqft",- Condo for sale
+500,"2755 Fillmore St, San Francisco, CA 94123","COMPASS, Betty A. Taisch","$13,999,000",4 bds,5 ba,"5,142 sqft",- House for sale
+501,"280 Spear St #22D, San Francisco, CA 94105","POLARIS PACIFIC, Garrett R. Frakes","$1,780,000",2 bds,2 ba,"1,086 sqft",- New construction
+502,"33 Bernard St, San Francisco, CA 94133","KELLER WILLIAMS SAN FRANCISCO, Michael  Minson","$2,249,000",5 bds,4 ba,"2,616 sqft",- Multi-family home for sale
+503,"1001 17th St #303, San Francisco, CA 94107","VANGUARD PROPERTIES, Catherine Watson","$699,000",1 bd,1 ba,-- sqft,- Condo for sale
+504,"357 Guerrero St, San Francisco, CA 94103","CORCORAN GLOBAL LIVING, Alan Natanson","$1,650,000",2 bds,2 ba,"1,660 sqft",- Condo for sale
+505,"2956 Arelious Walker Dr, San Francisco, CA 94124","COLDWELL BANKER REALTY, Karen A. Mai","$541,455",2 bds,1 ba,882 sqft,- Condo for sale
+506,"260 King St UNIT 607, San Francisco, CA 94107","VANGUARD PROPERTIES, Malin P. Kansal","$798,888",1 bd,1 ba,896 sqft,- Condo for sale
+507,"3965 24th St, San Francisco, CA 94114","PARK NORTH REAL ESTATE, Tim Hawko","$1,475,750",2 bds,2 ba,"2,700 sqft",- Multi-family home for sale
+508,"858 Capp St #8, San Francisco, CA 94110","VANGUARD PROPERTIES, Frank A. Nolan","$1,950,000",3 bds,3 ba,"1,638 sqft",- New construction
+509,"3878 Jackson St, San Francisco, CA 94118","SOTHEBY'S INTERNATIONAL REALTY, Ronni Garfield","$7,795,000",4 bds,4 ba,"4,609 sqft",- House for sale
+510,"1998 Broadway St #807, San Francisco, CA 94109",NaN,"$1,450,000",2 bds,2 ba,"1,030 sqft",- Condo for sale
+511,"4165 Cesar Chavez St, San Francisco, CA 94131","COMPASS, Emily Dunn","$1,595,000",3 bds,2 ba,-- sqft,- Condo for sale
+512,"45 Bartlett St UNIT 302, San Francisco, CA 94110","COMPASS, Todd D. Montgomery","$895,000",1 bd,1 ba,870 sqft,- Condo for sale
+513,"2177 3rd St #723, San Francisco, CA 94107","Woods Bagot, POLARIS PACIFIC, Garrett R. Frakes","$1,300,000",1 bd,1 ba,654 sqft,- New construction
+514,"280 Spear St #12D, San Francisco, CA 94105","Tishman Speyer, POLARIS PACIFIC, Garrett R. Frakes","$1,495,000",2 bds,2 ba,"1,097 sqft",- New construction
+515,"72 Macondray Ln APT 3, San Francisco, CA 94133","SOTHEBY'S INTERNATIONAL REALTY, David Parry","$825,000",Studio,1 ba,672 sqft,- Condo for sale
+516,"248 Myrtle St, San Francisco, CA 94109","REDFIN, Thomas A. Baumgartner","$875,000",2 bds,1 ba,975 sqft,- Condo for sale
+517,"Type 18 Plan, Serif",L37 Partners,"$498,250+",-- bds,1 ba,363 sqft,- New construction
+518,"2100 Pacific Ave, San Francisco, CA 94115","SOTHEBY'S INTERNATIONAL REALTY, Stacey E. Caen","$7,950,000",5 bds,4 ba,"5,180 sqft",- Condo for sale
+519,"4 Russian Hill Pl, San Francisco, CA 94133","COLDWELL BANKER REALTY, Joel Goodrich","$5,700,000",3 bds,3 ba,-- sqft,- House for sale
+520,"1310 California St, San Francisco, CA 94109","SOTHEBY'S INTERNATIONAL REALTY, Marla Moresi-Valdes","$2,050,000",3 bds,2 ba,"1,690 sqft",- Condo for sale
+521,"1495 11th Ave, San Francisco, CA 94122",VANGUARD PROPERTIES,"$3,409,000",5 bds,4 ba,"3,450 sqft",- Foreclosure
+522,"2830 22nd St #3, San Francisco, CA 94110","VANGUARD PROPERTIES, Sean Jeremy Weinstock","$1,225,000",2 bds,2 ba,"1,090 sqft",- Condo for sale
+523,"3877 Jackson St #3879, San Francisco, CA 94118","COMPASS, Dennis R. Otto","$6,495,000",8 bds,6 ba,"6,625 sqft",- Multi-family home for sale
+524,"666 Post St APT 603, San Francisco, CA 94109","ASCEND REAL ESTATE, Steven Huang","$699,000",1 bd,1 ba,831 sqft,- Condo for sale
+525,"648 Fillmore St, San Francisco, CA 94117","PACIFIC EDGE, Amy C. Clemens","$3,295,000",5 bds,3 ba,"4,477 sqft",- Condo for sale
+526,"224 Laidley St, San Francisco, CA 94131","SOTHEBY'S INTERNATIONAL REALTY, Rusty Wadatz","$5,895,000",4 bds,5 ba,-- sqft,- New construction
+527,"785 Golden Gate Ave APT 301, San Francisco, CA 94102","COMPASS, Colleen Wang","$980,000",3 bds,2 ba,"1,663 sqft",- Condo for sale
+528,"175 Russ St APT 1, San Francisco, CA 94103","COMPASS SF, Jessie Lee","$738,000",1 bd,2 ba,-- sqft,- Condo for sale
+529,"69 Clementina St UNIT 801, San Francisco, CA 94105","INDIGO REAL ESTATE, Mollie W. Poe","$1,049,000",2 bds,3 ba,"1,192 sqft",- Condo for sale
+530,"200 Brannan St APT 314, San Francisco, CA 94107",NaN,"$830,000",1 bd,1 ba,732 sqft,- Condo for sale
+531,"930 Pine St APT 303, San Francisco, CA 94108",NaN,"$1,098,000",2 bds,2 ba,"1,026 sqft",- Condo for sale
+532,"152 Lombard St APT 201, San Francisco, CA 94111",NaN,"$1,079,000",2 bds,2 ba,"1,112 sqft",- Condo for sale
+533,"776 Tehama St UNIT 9, San Francisco, CA 94103","BETTER HOMES AND GARDENS THRIV, Leilani Ishaan","$375,000",1 bd,1 ba,418 sqft,- Condo for sale
+534,"207 King St APT 411, San Francisco, CA 94107","KELLER WILLIAMS SAN FRANCISCO, Miyuki Mia Takami","$1,499,000",2 bds,2 ba,"1,461 sqft",- Condo for sale
+535,"77 Dow Pl APT 305, San Francisco, CA 94107","PACIFIC EDGE, Sean Komarmy","$829,000",1 bd,2 ba,985 sqft,- Condo for sale
+536,"388 Fulton St #603, San Francisco, CA 94102","COMPASS, Denise L. Paulson","$609,000",Studio,1 ba,326 sqft,- Condo for sale
+537,"201 Harrison St APT 805, San Francisco, CA 94105",NaN,"$700,000",1 bd,1 ba,544 sqft,- Condo for sale
+538,"388 Fulton St UNIT 212, San Francisco, CA 94102","HOME QUEST REALTY, Robert  Belli","$382,532",1 bd,1 ba,404 sqft,- Condo for sale
+539,"555 Innes Ave UNIT 312, San Francisco, CA 94124",Lennar,"$599,000",1 bd,1 ba,655 sqft,- Condo for sale
+540,"83 Mcallister St APT 504, San Francisco, CA 94102","DONNA L. NG, BROKER, Donna L. Ng","$488,000",1 bd,1 ba,261 sqft,- Condo for sale
+541,"101 Lombard St APT 114W, San Francisco, CA 94111","LEVEL 5 REAL ESTATE, Mary L. Fenton","$950,000",1 bd,1 ba,"1,062 sqft",- Condo for sale
+542,"Residence 205, 305, 405, 505, 605 Plan, OneEleven",Z&L Properties,"$599,000+",1 bd,1 ba,529 sqft,- New construction
+543,"3131 Pierce St #302, San Francisco, CA 94123","VANGUARD PROPERTIES, Edward R. Deleski","$1,095,000",1 bd,1 ba,719 sqft,- New construction
+544,"766 Harrison St UNIT 805, San Francisco, CA 94107","COMPASS, Jing Fang","$450,000",Studio,1 ba,334 sqft,- Condo for sale
+545,"3620 Cesar Chavez St #301, San Francisco, CA 94110","VANGUARD PROPERTIES, Massimo F. Loporto","$1,199,000",2 bds,2 ba,"1,144 sqft",- New construction
+546,"75 Folsom St APT 902, San Francisco, CA 94105","SKYBOX REALTY, Paul Hwang","$1,395,000",2 bds,2 ba,"1,177 sqft",- Condo for sale
+547,"488 Folsom St #4105, San Francisco, CA 94105","RELATED CA RES. SALES, INC., Derec Lacio","$3,085,000",2 bds,3 ba,"1,652 sqft",- New construction
+548,"550 Innes Ave #201, San Francisco, CA 94124","Lennar, CORCORAN GLOBAL LIVING, Scott A. Rose","$620,000",2 bds,1 ba,760 sqft,- New construction
+549,"1819 Stockton St, San Francisco, CA 94133","SOTHEBY'S INTERNATIONAL REALTY, Carol A. Goldberg","$1,595,000",2 bds,1 ba,"1,560 sqft",- Condo for sale
+550,"1494 Revere Ave, San Francisco, CA 94124",NaN,"$999,000",7 bds,3 ba,"2,700 sqft",- Multi-family home for sale
+551,"1160 Mission St UNIT 2105, San Francisco, CA 94103","COMPASS SF, Angelo F. Cosentino","$699,000",1 bd,1 ba,664 sqft,- Condo for sale
+552,"279 Laidley St, San Francisco, CA 94131","VANGUARD PROPERTIES, Kevin L. Kropp","$1,395,000",2 bds,1 ba,"1,303 sqft",- Condo for sale
+553,"164 Henry St #166, San Francisco, CA 94114","COLDWELL BANKER REALTY, Dan McLean","$3,495,000",5 bds,3 ba,"4,287 sqft",- Multi-family home for sale
+554,"Residence #219 Plan, Fulton 555",Z&L Properties,"$799,000+",1 bd,1 ba,705 sqft,- New construction
+555,"3241 Mission St APT 3, San Francisco, CA 94110",NaN,"$699,888",1 bd,1 ba,597 sqft,- Condo for sale
+556,"2227 Beach 2229 St, San Francisco, CA 94123","GM GREEN REAL ESTATE, INC., George M. Green","$3,995,000",6 bds,-- ba,"4,500 sqft",- Multi-family home for sale
+557,"1108 Treat Ave, San Francisco, CA 94103","VANGUARD PROPERTIES, Jack A. Burrows","$1,195,000",3 bds,-- ba,-- sqft,- Multi-family home for sale
+558,"988 Fulton St APT 114, San Francisco, CA 94117","KINDRED SF HOMES, Jamie Comer","$820,000",1 bd,1 ba,695 sqft,- Condo for sale
+559,"Residence #218 Plan, Fulton 555",Z&L Properties,"$1,047,000+",2 bds,1 ba,798 sqft,- New construction
+560,"2691 Alemany Blvd, San Francisco, CA 94112","COLDWELL BANKER INFINITI GROUP, David K. Lee","$850,000",2 bds,1 ba,"1,238 sqft",- House for sale
+561,"1840 Eddy St, San Francisco, CA 94115","COMPASS, Teresa A. Callan","$3,190,000",5 bds,4 ba,"3,400 sqft",- House for sale
+562,"400 Bristol Ct #225, San Francisco, CA 94130","Wilson Meany/Cahill, THE AGENCY, Thomas M. Gasbarre","$818,000",Studio,1 ba,749 sqft,- New construction
+563,"35 Dolores St APT 401, San Francisco, CA 94103","COMPASS, Becky Layton","$1,695,000",2 bds,2 ba,"1,227 sqft",- Condo for sale
+564,"201 Harrison St APT 526, San Francisco, CA 94105","COMPASS, Matthew W. Finley","$839,000",1 bd,1 ba,795 sqft,- Condo for sale
+565,"900 Gilman Ave #900-12, San Francisco, CA 94124","COLDWELL BANKER REALTY, Karen A. Mai","$541,455",2 bds,1 ba,882 sqft,- Condo for sale
+566,"280 Spear St #6B, San Francisco, CA 94105","Tishman Speyer, POLARIS PACIFIC, Garrett R. Frakes","$1,595,000",2 bds,2 ba,"1,260 sqft",- New construction
+567,"139 Dore St #145, San Francisco, CA 94103","TRIDENT REAL ESTATE, Justin N. Yonker","$4,750,000",12 bds,8 ba,"6,219 sqft",- Multi-family home for sale
+568,"2750 Cabrillo St, San Francisco, CA 94121","ANDERSEN, JUNG & CO., Alana Shi","$2,500,000",5 bds,5 ba,"4,800 sqft",- House for sale
+569,"3333 24th St #3343, San Francisco, CA 94110","COLLIERS INTERNATIONAL, Brad Lagomarsino","$2,500,000",5 bds,-- ba,"5,940 sqft",- Multi-family home for sale
+570,"201 Sansome St UNIT 605, San Francisco, CA 94104","COMPASS, Richard P. Kaluza","$679,000",1 bd,1 ba,565 sqft,- Condo for sale
+571,"2412 Harrison St APT 109, San Francisco, CA 94110","NORTH POINT REAL ESTATE, Laura Lanzone","$1,195,000",1 bd,2 ba,"1,352 sqft",- Condo for sale
+572,"2200 Pacific Ave APT 2C, San Francisco, CA 94115","COMPASS, Dena Aslanian-Williams","$1,550,000",2 bds,2 ba,"1,850 sqft",- Condo for sale
+573,"301 Main St UNIT 8F, San Francisco, CA 94105","COMPASS, Betty A. Taisch","$960,000",1 bd,1 ba,800 sqft,- Condo for sale
+574,"721 Randolph St, San Francisco, CA 94132","COMPASS, Michael B. Johnston","$1,289,000",4 bds,1 ba,"2,386 sqft",- Multi-family home for sale
+575,"588 Chestnut St, San Francisco, CA 94133","COMPASS, Joshua A. Lawrence","$1,649,000",4 bds,2 ba,"1,420 sqft",- New construction
+576,"71 Curtis St #71A, San Francisco, CA 94112","COMPASS, Burton Louie","$1,550,000",3 bds,2 ba,"2,177 sqft",- House for sale
+577,"1160 Mission St UNIT 612, San Francisco, CA 94103","HOME QUEST REALTY, Robert  Belli","$308,053",1 bd,1 ba,662 sqft,- Condo for sale
+578,"588 Minna St #203, San Francisco, CA 94103","Z&L Properties, COMPASS, Douglas R. Shaw","$649,000",1 bd,1 ba,644 sqft,- New construction
+579,"3321 26th St APT 4, San Francisco, CA 94110","VANGUARD PROPERTIES, Robin Hubinsky","$995,000",2 bds,2 ba,"1,034 sqft",- Condo for sale
+580,"601 Van Ness Ave APT 51, San Francisco, CA 94102","CORCORAN GLOBAL LIVING, Daniel P. Langford","$849,000",2 bds,2 ba,"1,037 sqft",- Condo for sale
+581,"8 Buchanan St UNIT 401, San Francisco, CA 94102","HARPER REAL ESTATE, Anthony R. Navarro","$898,000",2 bds,1 ba,789 sqft,- Condo for sale
+582,"655 Corbett Ave #102, San Francisco, CA 94114",NaN,"$600,000",1 bd,1 ba,619 sqft,- Condo for sale
+583,"140 S Van Ness Ave UNIT 1041, San Francisco, CA 94103","BETTER HOMES AND GARDENS THRIV, Joan H. Meyer","$639,000",1 bd,1 ba,630 sqft,- Condo for sale
+584,"1000 3rd St UNIT 508, San Francisco, CA 94158",NaN,"$998,000",1 bd,1 ba,830 sqft,- Condo for sale
+585,"555 4th St UNIT 105, San Francisco, CA 94107","INDIGO REAL ESTATE, Mollie W. Poe","$1,995,000",3 bds,3 ba,"2,279 sqft",- Condo for sale
+586,"54 Williams Ave, San Francisco, CA 94124","BAYCAL REALTY CORPORATION, Anthony C. Tsia","$899,000",4 bds,2 ba,"1,992 sqft",- Multi-family home for sale
+587,"1835 Franklin St APT 702, San Francisco, CA 94109","SOTHEBY'S INTERNATIONAL REALTY, Michael B. Harrington","$1,195,000",2 bds,2 ba,"1,500 sqft",- Condo for sale
+588,"218 Winfield St, San Francisco, CA 94110",NaN,"$1,799,000",4 bds,3 ba,"1,997 sqft",- Multi-family home for sale
+589,"439 28th Ave, San Francisco, CA 94121","BARBCO, David Yip","$1,980,000",3 bds,-- ba,"3,175 sqft",- Multi-family home for sale
+590,"5900 3rd St UNIT 2215, San Francisco, CA 94124","COMPASS, Alek Keytiyev","$949,000",3 bds,3 ba,"1,821 sqft",- Condo for sale
+591,"1310 Bowdoin St, San Francisco, CA 94134","COMPASS, James S. Koh","$1,099,000",4 bds,2 ba,"1,794 sqft",- House for sale
+592,"301 Mission St APT 10H, San Francisco, CA 94105","ANDERSEN, JUNG & CO., Ronny Budiutama","$750,000",1 bd,1 ba,666 sqft,- Condo for sale
+593,"272 Hermann St #276, San Francisco, CA 94117","COMPASS, Michael Freethy","$1,995,000",8 bds,3 ba,"3,750 sqft",- Multi-family home for sale
+594,"425 1st St UNIT 4705, San Francisco, CA 94105","COMPASS, Matthew W. Finley","$1,000,000",1 bd,1 ba,710 sqft,- Condo for sale
+595,"308 Crescent Ave, San Francisco, CA 94110",NaN,"$2,098,000",5 bds,3 ba,"2,069 sqft",- House for sale
+596,"250 King St UNIT 1214, San Francisco, CA 94107","REDFIN, Thomas A. Baumgartner","$869,000",1 bd,1 ba,962 sqft,- Condo for sale
+597,"614 Natoma St #616A, San Francisco, CA 94103","JOHN WARNER, BROKER, Angus N. MacDonald","$1,095,000",5 bds,4 ba,"1,508 sqft",- Condo for sale
+598,"720 Stockton St APT 6, San Francisco, CA 94108","COLDWELL BANKER REALTY, Jeffrey A. Silver","$1,175,000",2 bds,2 ba,-- sqft,- Condo for sale
+599,"1875 Mission St APT 203, San Francisco, CA 94103","KELLER WILLIAMS SAN FRANCISCO, Michael  Minson","$868,000",1 bd,1 ba,810 sqft,- Condo for sale
+600,"220 Grand View Ave, San Francisco, CA 94114","STERLING PREMIER PROPERTIES, Tito Avila","$1,899,000",3 bds,2 ba,"1,348 sqft",- House for sale
+601,"1177 California St APT 1422, San Francisco, CA 94108","COMPASS, Stephen K. Gomez","$655,000",1 bd,1 ba,538 sqft,- Condo for sale
+602,"201 Harrison St APT 802, San Francisco, CA 94105","LAUREL REALTY & INVESTMENT, Jeff J. Appenrodt","$499,000",Studio,1 ba,432 sqft,- Condo for sale
+603,"601 Van Ness Ave APT 230, San Francisco, CA 94102","COMPASS, Susan A. Getz","$549,000",1 bd,1 ba,677 sqft,- Condo for sale
+604,"1300 22nd St #206, San Francisco, CA 94107","ARTEMIS REAL ESTATE, Rochelle Vandermerwe","$1,365,000",2 bds,2 ba,920 sqft,- Condo for sale
+605,"646 Madrid St #648, San Francisco, CA 94112","FAR EAST REALTY, Daniel Lee","$989,000",4 bds,2 ba,"1,400 sqft",- Multi-family home for sale
+606,"75 Howard St #304, San Francisco, CA 94105","Paramount Group, Inc. and SRE Group Ltd., POLARIS PACIFIC, Kristin  Evans","$1,850,000",1 bd,2 ba,"1,082 sqft",- New construction
+607,"380 14th St APT 208, San Francisco, CA 94103","VANGUARD PROPERTIES, Olivia O. Ongpin","$699,000",1 bd,1 ba,486 sqft,- Condo for sale
+608,"1501 Greenwich St UNIT 302, San Francisco, CA 94123","COMPASS SF, Eric John Weaver","$1,395,000",2 bds,2 ba,"1,050 sqft",- New construction
+609,"2261 Bush St APT 3, San Francisco, CA 94115","COMPASS, Richard B. Teed","$1,049,000",2 bds,1 ba,750 sqft,- Condo for sale
+610,"1545 Pine St #202, San Francisco, CA 94109","COMPASS, Lisa J. Wolfe","$565,000",Studio,1 ba,423 sqft,- New construction
+611,"765 Market St APT 34A, San Francisco, CA 94103","SOTHEBY'S INTERNATIONAL REALTY, Gregg Lynn","$9,900,000",4 bds,5 ba,"4,550 sqft",- Condo for sale
+612,"338 Main St UNIT 36B, San Francisco, CA 94105","COLDWELL BANKER REALTY, Jayne L. Jones","$8,800,000",3 bds,4 ba,"3,800 sqft",- Condo for sale
+613,"1601 11th Ave, San Francisco, CA 94122","COLDWELL BANKER REALTY, Elisabeth Scheidl","$2,150,000",4 bds,4 ba,"2,792 sqft",- Multi-family home for sale
+614,"346 1st St APT 106, San Francisco, CA 94105","YAGER REALTY OF CALIFORNIA, Brandon Yager","$880,000",1 bd,2 ba,"1,060 sqft",- Condo for sale
+615,"1868 Van Ness Ave APT 401, San Francisco, CA 94109","SOTHEBY'S INTERNATIONAL REALTY, Anne M. Herrera","$1,198,000",2 bds,2 ba,989 sqft,- Condo for sale
+616,"401 Harrison St APT 24F, San Francisco, CA 94105","SKYBOX REALTY, Pablo M. Cela","$1,340,000",1 bd,1 ba,830 sqft,- Condo for sale
+617,"3126 Scott St APT 1, San Francisco, CA 94123","TRIDENT REAL ESTATE, Justin N. Yonker","$1,595,000",2 bds,2 ba,"1,367 sqft",- Condo for sale
+618,"1552 Fulton St, San Francisco, CA 94117",NaN,"$2,950,000",8 bds,3 ba,"4,200 sqft",- Foreclosure
+619,"248 Carl St, San Francisco, CA 94117","INDIGO REAL ESTATE, Mollie W. Poe","$3,995,000",3 bds,4 ba,"2,864 sqft",- Condo for sale
+620,"454 Greenwich St, San Francisco, CA 94133","JILL HACKER REAL ESTATE BROKER, Jill Hacker","$2,500,000",2 bds,2 ba,"1,700 sqft",- House for sale
+621,"26 Varennes St, San Francisco, CA 94133","MADISON HUNTER, John Ko","$1,699,000",84 bds,2 ba,"2,952 sqft",- Multi-family home for sale
+622,"2310 Hyde St #1, San Francisco, CA 94109","SOTHEBY'S INTERNATIONAL REALTY, Gregg Lynn","$4,950,000",3 bds,4 ba,"3,746 sqft",- Condo for sale
+623,"2177 3rd St #602, San Francisco, CA 94107","Woods Bagot, POLARIS PACIFIC, Garrett R. Frakes","$1,399,000",2 bds,2 ba,981 sqft,- New construction
+624,"2924 Sacramento St, San Francisco, CA 94115","VANGUARD PROPERTIES, Allison Chapleau","$3,450,000",7 bds,2 ba,"4,116 sqft",- Multi-family home for sale
+625,"1177 California St APT 224, San Francisco, CA 94108","COMPASS, Maximillian D. Armour","$1,695,000",2 bds,2 ba,"1,653 sqft",- Condo for sale
+626,"488 Folsom St #4704, San Francisco, CA 94105","RELATED CA RES. SALES, INC., Derec Lacio","$1,750,000",1 bd,2 ba,987 sqft,- New construction
+627,"712 Bryant St APT 4, San Francisco, CA 94107",NaN,"$1,649,999",2 bds,3 ba,"2,097 sqft",- Condo for sale
+628,"335 Berry St UNIT 402, San Francisco, CA 94158","COLDWELL BANKER REALTY, Rubi Kawamura","$1,099,000",2 bds,2 ba,917 sqft,- Condo for sale
+629,"501 Beale St UNIT 8D, San Francisco, CA 94105","BAY REAL ESTATE GROUP, Shao Ying ""Shirley"" Liang","$1,649,000",2 bds,2 ba,"1,259 sqft",- Condo for sale
+630,"1177 California St APT 311, San Francisco, CA 94108","GPK LUXURY REAL ESTATE, Stephen L. Patton","$475,000",Studio,1 ba,437 sqft,- Condo for sale
+631,"2860 22nd St #2864, San Francisco, CA 94110","TRUST REAL ESTATE, Tina C. Wong","$1,899,999",8 bds,5 ba,"2,849 sqft",- Multi-family home for sale
+632,"170 Pfeiffer St, San Francisco, CA 94133","CORCORAN GLOBAL LIVING, David W. Gowan","$4,850,000",6 bds,5 ba,"4,015 sqft",- Multi-family home for sale
+633,"300 Meadowbrook Dr #1, San Francisco, CA 94132","THE AGENCY, Thomas M. Gasbarre","$3,825,000",3 bds,4 ba,"2,379 sqft",- New construction
+634,"731 17th Ave, San Francisco, CA 94121","THE FRONT STEPS, Alexander T. Clark","$1,695,000",4 bds,-- ba,"3,330 sqft",- Multi-family home for sale
+635,"140 S Van Ness Ave UNIT 1101, San Francisco, CA 94103","VANGUARD PROPERTIES, Kevin L. Kropp","$1,365,000",3 bds,2 ba,"1,800 sqft",- Condo for sale
+636,"5700 Mission St APT 4, San Francisco, CA 94112","INTERO REAL ESTATE SERVICES, Edwin M. Camarao","$999,888",4 bds,2 ba,"2,444 sqft",- Condo for sale
+637,"555 Golden Gate Ave PENTHOUSE 11, San Francisco, CA 94102","JS SULLIVAN SALES AND MARKETIN, Loring M. Aguillon-Racine","$1,928,888",3 bds,2 ba,-- sqft,- New construction
+638,"149 Arleta Ave, San Francisco, CA 94134",NaN,"$1,399,000",5 bds,3 ba,"2,000 sqft",- House for sale
+639,"480 Kansas St, San Francisco, CA 94107","INDIGO REAL ESTATE, Mollie W. Poe","$2,099,000",3 bds,2 ba,-- sqft,- House for sale
+640,"177 Townsend St UNIT 422, San Francisco, CA 94107","COMPASS, Pam Godbold","$1,249,000",2 bds,2 ba,"1,025 sqft",- Condo for sale
+641,"305 Filbert St, San Francisco, CA 94133","COMPASS SF, Jim Fisher","$3,995,000",2 bds,3 ba,"1,968 sqft",- House for sale
+642,"355 1st St PENTHOUSE S2802, San Francisco, CA 94105",NaN,"$2,198,000",2 bds,2 ba,"1,480 sqft",- Condo for sale
+643,"250 King St UNIT 604, San Francisco, CA 94107","SOTHEBY'S INTERNATIONAL REALTY, Eric M. Johnson","$699,000",1 bd,1 ba,587 sqft,- Condo for sale
+644,"1268 Lombard St #2, San Francisco, CA 94109","COMPASS, Marianne Bacigalupi Schier","$3,299,000",3 bds,2 ba,-- sqft,- Condo for sale
+645,"2250 24th St UNIT 329, San Francisco, CA 94107","EPIC REAL ESTATE & ASSO. INC., Eugenia A. Mantzoros","$898,000",2 bds,2 ba,"1,030 sqft",- Condo for sale
+646,"870 Harrison St UNIT 602, San Francisco, CA 94107","AMSI, James R. Decker","$785,000",1 bd,1 ba,583 sqft,- Condo for sale
+647,"170 Ocean Ave, San Francisco, CA 94112",NaN,"$1,550,000",3 bds,2 ba,"1,950 sqft",- House for sale
+648,"201 Harrison St APT 708, San Francisco, CA 94105","PARK NORTH REAL ESTATE, Lisa M. Marroquin","$625,000",1 bd,1 ba,495 sqft,- Condo for sale
+649,"95 Farallones St, San Francisco, CA 94112","MAXREAL, Hung K. Kwok","$1,280,000",6 bds,3 ba,"1,950 sqft",- Multi-family home for sale
+650,"637 Powell St APT 102, San Francisco, CA 94108","COMPASS, Carey Clarke Nassano-Miller","$1,285,000",3 bds,2 ba,-- sqft,- Condo for sale
+651,"818 Van Ness Ave APT 802, San Francisco, CA 94109","VANGUARD PROPERTIES, Judson R. Cassels","$1,349,000",2 bds,2 ba,"1,128 sqft",- Condo for sale
+652,"6 Mint Plz APT 303A, San Francisco, CA 94103","COMPASS SF, Jessie Lee","$875,000",2 bds,1 ba,-- sqft,- Condo for sale
+653,"699 36th Ave APT 301, San Francisco, CA 94121","COMPASS, Zehra Ammar Ashary","$1,595,000",3 bds,3 ba,"1,935 sqft",- Condo for sale
+654,"1483 Sutter St UNIT 1001, San Francisco, CA 94109","RECIP. LISTING (MLS ONLY), Non -. Member","$1,188,000",1 bd,-- ba,"1,050 sqft",- Condo for sale
+655,"1800 Washington St APT 219, San Francisco, CA 94109","KELLER WILLIAMS SAN FRANCISCO, Miyuki Mia Takami","$1,299,000",2 bds,2 ba,"1,042 sqft",- Condo for sale
+656,"2125 Bryant St APT 316, San Francisco, CA 94110","VANGUARD PROPERTIES, Andrea F. Swetland","$1,798,000",3 bds,4 ba,"1,702 sqft",- Condo for sale
+657,"3122 23rd St, San Francisco, CA 94110","CORCORAN GLOBAL LIVING, Daniel R. Fernandez","$1,995,000",3 bds,3 ba,-- sqft,- Condo for sale
+658,"1238 Sutter St UNIT 801, San Francisco, CA 94109",NaN,"$775,000",1 bd,1 ba,-- sqft,- Condo for sale
+659,"2922 Franklin St, San Francisco, CA 94123","COMPASS, Amanda M. Jones","$3,800,000",3 bds,3 ba,"2,735 sqft",- New construction
+660,"195 7th St APT 309, San Francisco, CA 94103","COMPASS SF, Jessie Lee","$399,000",Studio,1 ba,307 sqft,- Condo for sale
+661,"3131 Pierce St #301, San Francisco, CA 94123","VANGUARD PROPERTIES, Edward R. Deleski","$1,649,000",2 bds,2 ba,-- sqft,- New construction
+662,"246 Carl St #248, San Francisco, CA 94117","INDIGO REAL ESTATE, Mollie W. Poe","$8,444,000",6 bds,-- ba,-- sqft,- Multi-family home for sale
+663,"999 Green St APT 1104, San Francisco, CA 94133","COMPASS, Gillian Toboni","$1,849,000",2 bds,2 ba,"1,681 sqft",- Condo for sale
+664,"2829 25th St #4, San Francisco, CA 94110","COMPASS, Jason H. Hoffman","$2,495,000",3 bds,4 ba,"1,975 sqft",- Condo for sale
+665,"280 Spear St #25F, San Francisco, CA 94105","KELLER WILLIAMS SAN FRANCISCO, Miyuki Mia Takami","$1,599,999",1 bd,1 ba,-- sqft,- New construction
+666,"325 Castro St #375, San Francisco, CA 94114","VANGUARD PROPERTIES, Matthew Tatsumi Gomez","$2,600,000",-- bds,-- ba,"3,300 sqft",- Multi-family home for sale
+667,"201 Harrison St APT 122, San Francisco, CA 94105",NaN,"$459,000",Studio,1 ba,347 sqft,- Condo for sale
+668,"601 Van Ness Ave APT 1045, San Francisco, CA 94102","PARK NORTH REAL ESTATE, Lauren A. Schultze","$799,000",2 bds,2 ba,894 sqft,- Condo for sale
+669,"858 Capp St #2, San Francisco, CA 94110","VANGUARD PROPERTIES, Frank A. Nolan","$1,199,000",2 bds,2 ba,"1,015 sqft",- New construction
+670,"1875 Mission St APT 106, San Francisco, CA 94103","COMPASS, Jason H. Hoffman","$675,000",1 bd,1 ba,618 sqft,- New construction
+671,"631 Ofarrell St APT 1210, San Francisco, CA 94109","VANGUARD PROPERTIES, Thomas Cacciotti","$479,000",Studio,1 ba,-- sqft,- Condo for sale
+672,"8 Octavia St UNIT 608, San Francisco, CA 94102","COMPASS, Morton Mah","$1,295,000",2 bds,2 ba,"1,001 sqft",- Condo for sale
+673,"223 Fair Oaks St #227, San Francisco, CA 94110","CORCORAN GLOBAL LIVING, Stefano Dezerega","$4,195,000",5 bds,6 ba,"4,000 sqft",- Multi-family home for sale
+674,"7 Juri St, San Francisco, CA 94110",NaN,"$2,295,000",3 bds,2 ba,"1,577 sqft",- House for sale
+675,"945 Green St #7, San Francisco, CA 94133","SOTHEBY'S INTERNATIONAL REALTY, Steven M. Gothelf","$8,950,000",3 bds,4 ba,"4,000 sqft",- Condo for sale
+676,"1268 Dolores St, San Francisco, CA 94110",NaN,"$1,389,000",2 bds,2 ba,"1,267 sqft",- Condo for sale
+677,"971 Le Conte Ave, San Francisco, CA 94124","CENTURY 21 REALTY ALLIANCE, Ying He","$914,000",2 bds,1 ba,841 sqft,- House for sale
+678,"75 Howard St #409, San Francisco, CA 94105","Paramount Group, Inc. and SRE Group Ltd., POLARIS PACIFIC, Kristin  Evans","$1,250,000",1 bd,1 ba,880 sqft,- New construction
+679,"718 Long Bridge St APT 218, San Francisco, CA 94158","COLDWELL BANKER REALTY, Leslie Bauer","$2,555,000",3 bds,3 ba,"1,893 sqft",- Condo for sale
+680,"1510 Newcomb Ave, San Francisco, CA 94124",NaN,"$1,129,000",5 bds,2 ba,"2,077 sqft",- House for sale
+681,"3159-3163 24th St, San Francisco, CA 94110",NaN,"$2,698,000",7 bds,3 ba,"5,040 sqft",- House for sale
+682,"1688 Pine St #WPH01, San Francisco, CA 94109","COMPASS, Carter Waite","$2,499,000",2 bds,3 ba,"1,427 sqft",- New construction
+683,"2256 19th Ave, San Francisco, CA 94116","BERKSHIRE HATHAWAY DRYSDALE PR, Lanting Chen","$2,690,000",8 bds,5 ba,"4,295 sqft",- Multi-family home for sale
+684,"1298 Treat Ave, San Francisco, CA 94110","COMPASS, Rachel E. Swann","$1,295,000",3 bds,2 ba,"1,250 sqft",- Condo for sale
+685,"8100 Oceanview Ter APT 224, San Francisco, CA 94132",NaN,"$835,000",2 bds,2 ba,950 sqft,- Condo for sale
+686,"254 Roosevelt Way, San Francisco, CA 94114","VANGUARD PROPERTIES, Jack A. Burrows","$2,495,000",5 bds,1 ba,"2,500 sqft",- House for sale
+687,"51 Innes Ct. #312 Plan, The San Francisco Shipyard : Monarch",Lennar,"$965,000+",2 bds,2 ba,"1,080 sqft",- New construction
+688,"488 Folsom St #4003, San Francisco, CA 94105","RELATED CA RES. SALES, INC., Derec Lacio","$1,630,000",1 bd,2 ba,921 sqft,- New construction
+689,"100 College Ave #104, San Francisco, CA 94112","MOSAIK REAL ESTATE, Christian V. Nguyen","$2,950,000",9 bds,3 ba,"5,472 sqft",- Multi-family home for sale
+690,"3460 22nd St, San Francisco, CA 94110","ENGEL & VOELKERS SAN FRANCISCO, Michelle K. Pender","$2,345,000",4 bds,-- ba,"2,260 sqft",- Multi-family home for sale
+691,"140 S Van Ness Ave UNIT 1029, San Francisco, CA 94103","COLDWELL BANKER REALTY, Lota de Castro","$899,000",2 bds,2 ba,"1,153 sqft",- Condo for sale
+692,"Plan B Plan, Lofton at Portola",Tri Pointe Homes,"$1,450,000+",3 bds,4 ba,"1,789 sqft",- New construction
+693,"135 Red Rock Way APT 107L, San Francisco, CA 94131","Ring Bros., PARK NORTH REAL ESTATE, Charles W. Mader","$609,000",Studio,1 ba,592 sqft,- Condo for sale
+694,"10 Reno Pl, San Francisco, CA 94133","COMPASS, Victoria A. Clemons","$6,995,000",7 bds,8 ba,-- sqft,- Multi-family home for sale
+695,"1655 Dolores St, San Francisco, CA 94110","PETER FATOOH REALTY, Peter J. Fatooh","$3,195,000",5 bds,4 ba,"3,430 sqft",- House for sale
+696,"480 Mission Bay Blvd #313, San Francisco, CA 94158","COMPASS, Dianne M. Hartnett","$1,599,000",2 bds,2 ba,"1,220 sqft",- New construction
+697,"355 1st St UNIT S2103, San Francisco, CA 94105","SKYBOX REALTY, Ksenia Jury","$949,000",1 bd,1 ba,722 sqft,- Condo for sale
+698,"45 Bartlett St UNIT 805, San Francisco, CA 94110","COMPASS, Houda Tanverakul","$1,195,000",2 bds,2 ba,916 sqft,- New construction
+699,"200 Brannan St APT 232, San Francisco, CA 94107",NaN,"$3,100,000",3 bds,3 ba,"2,391 sqft",- Condo for sale
+700,"725 Pine St APT 206, San Francisco, CA 94108","SOTHEBY'S INTERNATIONAL REALTY, Debi Green","$495,000",Studio,1 ba,353 sqft,- Condo for sale
+701,"1875 Mission St APT 109, San Francisco, CA 94103","COMPASS, George W. Langford","$1,200,000",2 bds,2 ba,"1,272 sqft",- Condo for sale
+702,"400 Bristol Ct #323, San Francisco, CA 94130","Wilson Meany/Cahill, THE AGENCY, Thomas M. Gasbarre","$1,152,000",1 bd,1 ba,965 sqft,- New construction
+703,"53-55 Pomona St, San Francisco, CA 94124","COMPASS, Marina Shiferman","$1,459,000",5 bds,3 ba,"2,763 sqft",- Multi-family home for sale
+704,"290 Meadow Dr #2, San Francisco, CA 94130","Wilson Meany/ Plant Construction, THE AGENCY, Thomas M. Gasbarre","$3,946,000",3 bds,4 ba,"2,510 sqft",- New construction
+705,"280 Spear St #10A, San Francisco, CA 94105","Tishman Speyer, POLARIS PACIFIC, Garrett R. Frakes","$1,649,000",2 bds,2 ba,"1,453 sqft",- New construction
+706,"276 9th Ave, San Francisco, CA 94118",NaN,"$2,195,000",6 bds,3 ba,"3,878 sqft",- Multi-family home for sale
+707,"1177 California St APT 503, San Francisco, CA 94108","COMPASS, Georgina McInerney","$529,000",Studio,1 ba,411 sqft,- Condo for sale
+708,"50 Lansing St UNIT 101, San Francisco, CA 94105","AFI REAL ESTATE, Afsaneh Valizadeh","$899,500",1 bd,1 ba,850 sqft,- Condo for sale
+709,"333 Main St UNIT 9B, San Francisco, CA 94105","COMPASS, Robyn L. Kaufman","$2,199,000",3 bds,3 ba,"1,462 sqft",- Condo for sale
+710,"930 Pine St APT 301, San Francisco, CA 94108","COLDWELL BANKER REALTY, Karen C. Dell'Isola","$790,000",1 bd,1 ba,-- sqft,- Condo for sale
+711,"2111 Hyde St #301, San Francisco, CA 94109","SOTHEBY'S INTERNATIONAL REALTY, Gregg Lynn","$1,995,000",2 bds,2 ba,"1,820 sqft",- Condo for sale
+712,"1616 Judah St #1618, San Francisco, CA 94122","SOTHEBY'S INTERNATIONAL REALTY, Dee Saroni","$1,295,000",2 bds,2 ba,"1,890 sqft",- Multi-family home for sale
+713,"1282 Hayes St #401, San Francisco, CA 94117","VANGUARD PROPERTIES, Michael R. Keane-Stack","$2,395,000",3 bds,3 ba,-- sqft,- Condo for sale
+714,"140 S Van Ness Ave UNIT 529, San Francisco, CA 94103","KELLER WILLIAMS SF MONTEREY, Karen Wong-Dunlap","$899,000",2 bds,2 ba,"1,160 sqft",- Condo for sale
+715,"3250 Judah St, San Francisco, CA 94122",NaN,"$1,599,000",2 bds,2 ba,"3,029 sqft",- House for sale
+716,"229-233 Whitney St, San Francisco, CA 94131",NaN,"$1,695,000",-- bds,-- ba,"2,505 sqft",- Multi-family home for sale
+717,"1747 Dolores St #1749, San Francisco, CA 94110","POLARIS REALTY, Ron Abta","$3,144,000",5 bds,6 ba,"3,155 sqft",- Condo for sale
+718,"1001 Pine St UNIT 708, San Francisco, CA 94109","COMPASS, Kevin Wakelin","$549,000",Studio,1 ba,454 sqft,- Condo for sale
+719,"854 Capp St UNIT 1, San Francisco, CA 94110","VANGUARD PROPERTIES, Rita V. Schmid","$2,199,000",3 bds,3 ba,-- sqft,- Condo for sale
+720,"236 Shipley St #304, San Francisco, CA 94107",NaN,"$998,000",2 bds,2 ba,825 sqft,- Condo for sale
+721,"229 Brannan St, San Francisco, CA 94107","COMPASS, Jason H. Hoffman","$3,995,000",4 bds,3 ba,"2,612 sqft",- New construction
+722,"280 Spear St #1B, San Francisco, CA 94105","Tishman Speyer, POLARIS PACIFIC, Garrett R. Frakes","$1,200,000",2 bds,1 ba,953 sqft,- New construction
+723,"832 Florida St, San Francisco, CA 94110",NaN,"$1,299,000",4 bds,2 ba,"1,920 sqft",- House for sale
+724,"250 King St UNIT 634, San Francisco, CA 94107","Beacon, ENGEL & VOELKERS SAN FRANCISCO, Masoumeh M. Pahlbod","$735,000",1 bd,1 ba,760 sqft,- Condo for sale
+725,"445 Francisco St #601F, San Francisco, CA 94133","COMPASS, Pamela R. Culp","$2,198,000",2 bds,2 ba,"1,311 sqft",- Condo for sale
+726,"3535 Wawona St #515, San Francisco, CA 94116",NaN,"$1,334,000",2 bds,2 ba,991 sqft,- Condo for sale
+727,"5800 3rd St UNIT 1211, San Francisco, CA 94124",NaN,"$680,000",1 bd,1 ba,817 sqft,- Condo for sale
+728,"3620 Cesar Chavez St #303, San Francisco, CA 94110","VANGUARD PROPERTIES, Massimo F. Loporto","$1,199,000",2 bds,2 ba,"1,038 sqft",- New construction
+729,"74 New Montgomery St UNIT 509, San Francisco, CA 94105","COMPASS, Ron Salter","$615,000",Studio,1 ba,486 sqft,- Condo for sale
+730,"690 Market St #201, San Francisco, CA 94104","COMPASS, Robyn L. Kaufman","$985,000",1 bd,2 ba,"1,290 sqft",- Condo for sale
+731,"555 Golden Gate Ave #5A, San Francisco, CA 94102","JS SULLIVAN SALES AND MARKETIN, Loring M. Aguillon-Racine","$729,000",1 bd,1 ba,568 sqft,- New construction
+732,"388 Fulton St #405, San Francisco, CA 94102",NaN,"$898,000",2 bds,1 ba,720 sqft,- Condo for sale
+733,"208 Dorland St #210, San Francisco, CA 94114","COMPASS, Todd Wiley","$4,500,000",7 bds,4 ba,"2,800 sqft",- Multi-family home for sale
+734,"72 Townsend St UNIT 504, San Francisco, CA 94107","SOTHEBY'S INTERNATIONAL REALTY, Lauren J. Fraser","$1,495,000",2 bds,2 ba,"1,260 sqft",- Condo for sale
+735,"601 Van Ness Ave APT 944, San Francisco, CA 94102","SOTHEBY'S INTERNATIONAL REALTY, Robert E. Merryman","$668,000",1 bd,1 ba,894 sqft,- Condo for sale
+736,"917 Bryant St, San Francisco, CA 94103","ARTEMIS REAL ESTATE, Payton R. Stiewe","$3,488,000",2 bds,2 ba,"3,550 sqft",- House for sale
+737,"555 4th St UNIT 447, San Francisco, CA 94107","COMPASS SF, Jessie Lee","$599,000",Studio,1 ba,454 sqft,- Condo for sale
+738,"72 Townsend St UNIT 702, San Francisco, CA 94107","KB Home, COLDWELL BANKER REALTY, Christopher Lim","$1,599,000",2 bds,2 ba,-- sqft,- New construction
+739,"201 Folsom St APT 6H, San Francisco, CA 94105",NaN,"$1,098,000",1 bd,1 ba,851 sqft,- Condo for sale
+740,"195 7th St APT 402, San Francisco, CA 94103","JSL REALTY, INC., Zev Y. Newman","$399,000",Studio,1 ba,-- sqft,- Condo for sale
+741,"195 7th St APT 407, San Francisco, CA 94103","COMPASS, Francis E. Somsel","$378,000",Studio,1 ba,298 sqft,- Condo for sale
+742,"1776 Sacramento St APT 305, San Francisco, CA 94109","BERRI REAL ESTATE, Dennis Sanchez","$1,095,000",2 bds,2 ba,"1,091 sqft",- Condo for sale
+743,"(undisclosed Address), San Francisco, CA 94124","BETTER HOMES AND GARDENS THRIV, Eve J. Combs-Cofer","$635,000",2 bds,2 ba,790 sqft,- Condo for sale
+744,"601 Van Ness Ave APT 802, San Francisco, CA 94102",NaN,"$625,000",1 bd,1 ba,676 sqft,- Condo for sale
+745,"751 Taraval St #755, San Francisco, CA 94116","BARBCO, Paul Barbagelata","$2,495,000",5 bds,1 ba,"5,627 sqft",- Multi-family home for sale
+746,"1875 Mission St APT 410, San Francisco, CA 94103","VANGUARD PROPERTIES, Malin P. Kansal","$980,000",1 bd,1 ba,794 sqft,- Condo for sale
+747,"855 Folsom St APT 519, San Francisco, CA 94107","SOTHEBY'S INTERNATIONAL REALTY, Gael Bruno","$1,595,000",2 bds,2 ba,"1,396 sqft",- Condo for sale
+748,"1438 Green St, San Francisco, CA 94109",NaN,"$2,300,000",3 bds,3 ba,"1,738 sqft",- Condo for sale
+749,"140 S Van Ness Ave UNIT 405, San Francisco, CA 94103",NaN,"$750,000",1 bd,2 ba,830 sqft,- Condo for sale
+750,"325 Wayland St, San Francisco, CA 94134","KC STRATEGY INC., James K. Pan","$1,799,000",5 bds,4 ba,"3,765 sqft",- House for sale
+751,"451 Kansas St UNIT 389, San Francisco, CA 94107",NaN,"$615,000",Studio,1 ba,495 sqft,- Condo for sale
+752,"52 Innes Ct UNIT 103, San Francisco, CA 94124",NaN,"$879,000",2 bds,2 ba,"1,185 sqft",- Condo for sale
+753,"718 Long Bridge St APT 1605, San Francisco, CA 94158","Malin Kansal, VANGUARD PROPERTIES, Malin P. Kansal","$2,550,008",2 bds,2 ba,"1,569 sqft",- Condo for sale
+754,"148 Fillmore St #152, San Francisco, CA 94117","URBAN GROUP REAL ESTATE, Louis Cornejo","$2,995,000",7 bds,3 ba,"3,801 sqft",- Multi-family home for sale
+755,"1160 Mission St UNIT 803, San Francisco, CA 94103","COMPASS, Crystal C. Injo","$748,000",1 bd,1 ba,755 sqft,- Condo for sale
+756,"5853 Mission St APT 4, San Francisco, CA 94112","EXP REALTY OF CALIFORNIA, INC, Allen K. Ho","$668,000",2 bds,1 ba,805 sqft,- Condo for sale
+757,"232 Minerva St, San Francisco, CA 94112",NaN,"$1,299,000",5 bds,3 ba,"2,661 sqft",- House for sale
+758,"201 Folsom St #41B, San Francisco, CA 94105","ENGEL & VOELKERS SAN FRANCISCO, Masoumeh M. Pahlbod","$6,800,000",4 bds,4 ba,"5,223 sqft",- Condo for sale
+759,"1070 Green St APT 801, San Francisco, CA 94133","SOTHEBY'S INTERNATIONAL REALTY, Daniel J. DerVartanian","$2,450,000",2 bds,2 ba,"1,616 sqft",- Condo for sale
+760,"2855 Folsom St #A, San Francisco, CA 94110","VANGUARD PROPERTIES, Jonathan B. Deason","$2,995,000",3 bds,3 ba,"2,290 sqft",- Condo for sale
+761,"1046 Sanchez St, San Francisco, CA 94114",NaN,"$1,795,000",3 bds,1 ba,"1,443 sqft",- Condo for sale
+762,"280 Spear St #1F, San Francisco, CA 94105","Tishman Speyer, POLARIS PACIFIC, Garrett R. Frakes","$1,100,000",2 bds,1 ba,823 sqft,- New construction
+763,"Type 02 Plan, Serif",L37 Partners,"$583,250+",-- bds,1 ba,467 sqft,- New construction
+764,"1360 Montgomery St, San Francisco, CA 94133",NaN,"$7,995,000",4 bds,4 ba,"2,618 sqft",- Condo for sale
+765,"974 Geneva Ave #3, San Francisco, CA 94112","VANGUARD PROPERTIES, Janine Hunn","$1,385,000",4 bds,4 ba,"1,397 sqft",- New construction
+766,"420 Mission Bay Blvd #104, San Francisco, CA 94158","Madrone, COMPASS, Trevor P. Leung","$1,838,000",2 bds,3 ba,"1,635 sqft",- Condo for sale
+767,"210 29th St, San Francisco, CA 94131","COMPASS, Natalie Rome","$2,150,000",5 bds,2 ba,"3,130 sqft",- Multi-family home for sale
+768,"435 Powell St #441, San Francisco, CA 94102","JEREMY FALK BLATTEIS, BROKER, Jeremy Blatteis","$20,000,000",1 bd,-- ba,"26,152 sqft",- Multi-family home for sale
+769,"401 Harrison St APT 30B, San Francisco, CA 94105","COMPASS, Joseph C. Silva Gonsalves","$1,999,000",2 bds,2 ba,"1,311 sqft",- Condo for sale
+770,"Type 17 Plan, Serif",L37 Partners,"$703,250+",-- bds,1 ba,503 sqft,- New construction
+771,"11 Franklin St UNIT 802, San Francisco, CA 94102","THE CANLAS BROTHERS, Neil  Canlas","$1,275,000",2 bds,2 ba,979 sqft,- Condo for sale
+772,"1000 3rd St UNIT 1506, San Francisco, CA 94158","COMPASS, Robyn L. Kaufman","$1,699,000",2 bds,2 ba,"1,267 sqft",- Condo for sale
+773,"1075 Market St UNIT 413, San Francisco, CA 94103","VANGUARD PROPERTIES, Abigail R. Picache","$949,000",2 bds,2 ba,844 sqft,- New construction
+774,"301 Mission St APT 3D, San Francisco, CA 94105","Handel Architects, COMPASS SF, Jonathan Ng","$899,000",1 bd,1 ba,789 sqft,- Condo for sale
+775,"5900 3rd St UNIT 2424, San Francisco, CA 94124","KELLER WILLIAMS SAN FRANCISCO, Michael  Minson","$639,000",1 bd,1 ba,775 sqft,- Condo for sale
+776,"201 Harrison St APT 401, San Francisco, CA 94105","CITILAND INVESTMENT CORP., Kathy Turnquist","$589,000",Studio,1 ba,432 sqft,- Condo for sale
+777,"1490 Ocean Ave APT 403, San Francisco, CA 94112",NaN,"$1,499,000",3 bds,2 ba,"1,258 sqft",- Condo for sale
+778,"2448 Lombard St PENTHOUSE 4, San Francisco, CA 94123","JS Sullivan Development, JS SULLIVAN SALES AND MARKETIN, Loring M. Aguillon-Racine","$2,598,000",3 bds,3 ba,-- sqft,- New construction
+779,"601 Van Ness Ave APT 132, San Francisco, CA 94102","CORCORAN GLOBAL LIVING, Peter Goss","$599,000",1 bd,1 ba,694 sqft,- Condo for sale
+780,"218 Union St APT 5, San Francisco, CA 94133","SOTHEBY'S INTERNATIONAL REALTY, Debi Green","$1,400,000",1 bd,1 ba,-- sqft,- Condo for sale
+781,"2658 22nd St, San Francisco, CA 94110","SOTHEBY'S INTERNATIONAL REALTY, Patricia A. Lawton","$2,480,000",3 bds,2 ba,"1,902 sqft",- House for sale
+782,"301 Mission St APT 11E, San Francisco, CA 94105","COLDWELL BANKER REALTY, Mark A. Venegas","$1,088,000",1 bd,2 ba,"1,027 sqft",- Condo for sale
+783,"3365 20th St APT 2, San Francisco, CA 94110","COMPASS SF, Robert J. Vernon","$1,995,000",4 bds,3 ba,"2,187 sqft",- Condo for sale
+784,"181 Fremont St UNIT 54E, San Francisco, CA 94105","SOTHEBY'S INTERNATIONAL REALTY, Gregg Lynn","$1,700,000",1 bd,1 ba,780 sqft,- New construction
+785,"1785-1787 Alabama St, San Francisco, CA 94110",NaN,"$1,995,000",-- bds,-- ba,"3,044 sqft",- Multi-family home for sale
+786,"2040 Franklin St APT 708, San Francisco, CA 94109",NaN,"$849,995",1 bd,2 ba,"1,040 sqft",- Condo for sale
+787,"210 Dorland St, San Francisco, CA 94114","COMPASS, Todd Wiley","$2,500,000",3 bds,1 ba,-- sqft,- Condo for sale
+788,"217 Gaven St, San Francisco, CA 94134",NaN,"$1,388,888",4 bds,3 ba,"2,200 sqft",- House for sale
+789,"301 Rhode Island St #B6, San Francisco, CA 94103","COMPASS, Natalie Rome","$1,033,000",1 bd,2 ba,"1,291 sqft",- Condo for sale
+790,"190 Albion St #192, San Francisco, CA 94110","ACKERMAN REALTY GROUP, Nick Flageollet","$2,500,000",5 bds,2 ba,"3,180 sqft",- Multi-family home for sale
+791,"3733 San Bruno Ave, San Francisco, CA 94134",NaN,"$1,888,000",6 bds,5 ba,"5,084 sqft",- House for sale
+792,"1160 Mission St UNIT 1106, San Francisco, CA 94103","CORCORAN GLOBAL LIVING, Cooper Gaines","$1,350,000",2 bds,2 ba,"1,146 sqft",- Condo for sale
+793,"2829 25th St #3, San Francisco, CA 94110","COMPASS, Jason H. Hoffman","$1,649,000",3 bds,3 ba,"1,464 sqft",- Condo for sale
+794,"1388 Gough St APT 1005, San Francisco, CA 94109","COMPASS, Morton Mah","$1,495,000",2 bds,2 ba,"1,285 sqft",- Condo for sale
+795,"555 Golden Gate Ave #5F, San Francisco, CA 94102","JS SULLIVAN SALES AND MARKETIN, Loring M. Aguillon-Racine","$1,059,000",2 bds,2 ba,977 sqft,- New construction
+796,"601 Van Ness Ave APT 812, San Francisco, CA 94102","CORCORAN GLOBAL LIVING, Daniel P. Langford","$679,000",1 bd,1 ba,708 sqft,- Condo for sale
+797,"170 King St UNIT 601, San Francisco, CA 94107","REAL ESTATE ADVISOR GROUP, Tim M. Heffernan","$1,250,000",2 bds,2 ba,-- sqft,- Condo for sale
+798,"1439 S Van Ness Ave #1441, San Francisco, CA 94110","COMPASS, Nicholas J. Thornton","$1,725,000",5 bds,3 ba,"2,650 sqft",- Multi-family home for sale
+799,"401 Harrison St APT 40B, San Francisco, CA 94105","COMPASS SF, Jason Gorski","$2,450,000",2 bds,2 ba,"1,419 sqft",- Condo for sale
