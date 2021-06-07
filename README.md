@@ -2,21 +2,21 @@ For this project, Miguel Morales and I (Jennifer Li) were interested in what fac
 
 **Located in the /code/ folder:**
 
-* Zillow-Scraper.py: This file was used to collect data from Zillow.com by scraping and parsing through each webpage for San Francisco, CA properties listed as sold, and for sale in the past month (May 2021-June 2021) and converting them to a .csv file to make the data more easily accessible throughout this project.
+* Zillow-Scraper-Sold.py: This file was used to collect data from Zillow.com by scraping and parsing through each webpage for San Francisco, CA properties listed as sold in the past month (May 2021-June 2021) and converting them to a .csv file to make the data more easily accessible throughout this project.
+* * Zillow-Scraper.py: This file was used to collect data from Zillow.com by scraping and parsing through each webpage for San Francisco, CA properties currently listed for sale and converting them to a .csv file to make the data more easily accessible throughout this project.
   * The data was collected by running this file and loading each page from 20 pages for each of the following URLS:
     * www.zillow.com/san-francisco-ca/sold/
     * www.zillow.com/san-francisco-ca/sale/
 
-* Zillow_SF.py: This file includes the code used for our final written report.
+* For-Sale_Analysis.py: This file includes the code used for our final written report.
+* Sold_Analysis.py: This file includes the code used for our final written report.
 
 **Located in the /data/ folder:**
 
-* Zillow_Sold.csv: This file includes homes that have sold on Zillow.com in the past month (May 2021-June 2021), their address including zip code, the company that listed the property on Zillow.com, the price the property sold for, the amount of bedrooms and bathrooms the property has, the square footage of the property (sq. ft.), and the price per sq. ft.
+* sold.csv: This file includes homes that have sold on Zillow.com in the past month (May 2021-June 2021), their address including zip code, the company that listed the property on Zillow.com, the price the property sold for, the amount of bedrooms and bathrooms the property has, the square footage of the property (sq. ft.), and the price per sq. ft.
 
-* ZillowData.csv: This file includes homes that are currently listed on Zillow.com for sale, and includes their address including zip code, listing agent and their company, price per month, amount of bedrooms and bathrooms, the square footage of the property, the building type (condo, apartment, home), and the price per sq. ft.
+* for_sale.csv: This file includes homes that are currently listed on Zillow.com for sale, and includes their address including zip code, listing agent and their company, price per month, amount of bedrooms and bathrooms, the square footage of the property, the building type (condo, apartment, home), and the price per sq. ft.
 
 **Located in the /notebooks/ folder:**
-
-* Zillow_SF.pdf: This file includes our final written report with our code output for legibility.
 
 * Zillow_SF.ipynb: This file includes our final written report with its accompanying code and output.
