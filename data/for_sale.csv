@@ -1,0 +1,801 @@
+,address,zip,building_type,price,beds,baths,sqft,agent,brokerage
+0,480 Mission Bay Blvd #1008,94158,- Sold,1.91M,2 ,2 ,1361 , Robyn L. Kaufman,COMPASS
+1,152 Lombard St APT 403,94111,- Sold,1.12M,2 ,2 ,1272 , Gail Y. Grendahl,COMPASS
+2,109 S Lake Merced Hls APT 3C,94132,- Sold,846000,2 ,2 ,1247 , Joanna A. Rose,REDFIN
+3,3620 Cesar Chavez St #404,94110,- Sold,1.27M,2 ,2 ,1038 , Massimo F. Loporto,VANGUARD PROPERTIES
+4,65 Joost Ave,94131,- Sold,1.02M,-- ,-- ,1869 , Allison Chapleau,VANGUARD PROPERTIES
+5,570 Page St APT 4,94117,- Sold,1.51M,2 ,3 ,1346 , Carlos D. Cabarcos,VANGUARD PROPERTIES
+6,460 Francisco St APT 302,94133,- Sold,715000,1 ,1 ,585 , Steve Gallagher,COLDWELL BANKER REALTY
+7,1200 Gough St UNIT 7F,94109,- Sold,789000,1 ,1 ,840 ,0,0
+8,201 Harrison St UNIT 806,94105,- Sold,540000,Studio,1 ,432 ,0,0
+9,2284 Cayuga Ave,94112,- Sold,1.30M,3 ,1 ,1300 ,0,0
+10,20 Powers Ave,94110,- Sold,1.55M,4 ,2 ,2510 , Michael Freethy,COMPASS
+11,829 Folsom St UNIT 516,94107,- Sold,1.26M,2 ,2 ,924 , Omar Abu-Hajar,COMPASS
+12,762 29th Ave,94121,- Sold,2.25M,3 ,3 ,1804 ,0,0
+13,175 Bluxome St UNIT 220,94107,- Sold,780000,2 ,1 ,0 , Michael A. Leonardo,PACIFICA REAL ESTATE
+14,400 Beale St APT 1202,94105,- Sold,780000,1 ,1 ,675 , Olivera Jusufagic,INTERO REAL ESTATE SERVICES
+15,170 Pfeiffer St,94133,- Sold,4.40M,6 ,5 ,4015 , David W. Gowan,CORCORAN GLOBAL LIVING
+16,1377 Post St APT 306,94109,- Sold,1.09M,3 ,3 ,1448 , INC.,RESIDENTIAL AGENT
+17,7 Edna St,94112,- Sold,1.07M,2 ,1 ,915 , Sandra  Onken Fiek,CORCORAN GLOBAL LIVING
+18,1738 Lombard St APT 8,94123,- Sold,1.80M,3 ,3 ,1717 , Mary Lou Castellanos,SOTHEBY'S INTERNATIONAL REALTY
+19,1944 Bush St,94115,- Sold,2.48M,4 ,2 ,2130 , Trim T. Wellbeloved,COMPASS
+20,1332 A South Van Ness Ave #1334,94110,- Sold,2.17M,6 ,2 ,2599 , Daniel R. Fernandez,CORCORAN GLOBAL LIVING
+21,766 30th Ave,94121,- Sold,3.30M,6 ,5 ,3642 , Brandon S. Chen,COMPASS
+22,200 Brannan St APT 405,94107,- Sold,1.61M,2 ,2 ,1500 , Donna Solen,CORCORAN GLOBAL LIVING
+23,545 Ashbury St APT 2,94117,- Sold,865000,1 ,1 ,0 , Joanna A. Rose,REDFIN
+24,770 Capp St #772,94110,- Sold,1.88M,6 ,3 ,2184 , Jason S. Tam,CORCORAN GLOBAL LIVING
+25,1835 19th Ave #B,94122,- Sold,1.62M,5 ,4 ,2747 , Gillian Toboni,COMPASS
+26,2068 3rd St APT 16,94107,- Sold,1.32M,2 ,3 ,0 , David Anderson,THE SOURCE REAL ESTATE COMPANY
+27,268 Lombard St APT 4,94133,- Sold,1.30M,1 ,1 ,832 , Marla Moresi-Valdes,SOTHEBY'S INTERNATIONAL REALTY
+28,1901 Scott St,94115,- Sold,13.0M,5 ,7 ,0 , Stacey E. Caen,SOTHEBY'S INTERNATIONAL REALTY
+29,2983 21st St #B,94110,- Sold,445000,1 ,1 ,0 , Claudia L. Siegel,COMPASS
+30,0,0,0,0,0,0,0,0,0
+31,401 Sloat Blvd,94132,- Sold,1.96M,3 ,2 ,2228 , Pat Rock,CORCORAN GLOBAL LIVING
+32,2267 39th Ave,94116,- Sold,1.56M,2 ,1 ,1137 , Michael L. Lewin,WIENER & ASSOC./A. LEWIN PROP.
+33,1183 Munich St,94112,- Sold,1.41M,2 ,1 ,1272 , Lamisse Droubi,GENERATION REAL ESTATE
+34,555 Moultrie St,94110,- Sold,1.82M,4 ,2 ,1415 , Mary Macpherson,COMPASS SF
+35,0,0,0,0,0,0,0,0,0
+36,0,0,0,0,0,0,0,0,0
+37,0,0,0,0,0,0,0,0,0
+38,0,0,0,0,0,0,0,0,0
+39,0,0,0,0,0,0,0,0,0
+40,119 Buena Vista Ter,94117,- Sold,1.85M,2 ,2 ,1115 , Tim J. Gullicksen,CORCORAN GLOBAL LIVING
+41,1998 Broadway St #706,94109,- Sold,1.55M,2 ,2 ,1170 , Travis C. Hale,COMPASS SF
+42,2983 21st St #B,94110,- Sold,445000,1 ,1 ,0 , Claudia L. Siegel,COMPASS
+43,1914 Funston Ave,94116,- Sold,2.35M,4 ,3 ,2127 ,0,0
+44,3375 17th St APT 308,94110,- Sold,1.20M,1 ,2 ,1294 , Jessica Branson,COMPASS
+45,8 Mateo St,94131,- Sold,2.17M,3 ,3 ,0 , Jessica Branson,COMPASS
+46,1626 21st Ave,94122,- Sold,1.85M,3 ,2 ,2033 , Andrew de Vries,BERKSHIRE HATHAWAY-FRANCISCAN
+47,515 12th Ave,94118,- Sold,1.95M,2 ,2 ,1825 , Scott Whelan,COMPASS SF
+48,2346 41st Ave,94116,- Sold,1.68M,3 ,2 ,1174 ,0,0
+49,1000 3rd St UNIT 713,94158,- Sold,1.20M,2 ,2 ,1004 , Vi N. Pavlicevich,SKYBOX REALTY
+50,1177 California St APT 1525,94108,- Sold,900000,1 ,1 ,653 , Ric A. Rocchiccioli,COMPASS SF
+51,425 14th St APT 2,94103,- Sold,1.20M,2 ,2 ,1099 , Vanessa R. Gamp,CORCORAN GLOBAL LIVING
+52,109 Willard North St #111,94118,- Sold,2.00M,4 ,2 ,2130 , Paul Barbagelata,BARBCO
+53,1310 Fillmore St APT 701,94115,- Sold,1.30M,3 ,3 ,1513 , Yu Ying Huang,NORCAL REALTY
+54,70 Heather Ave #70,94118,- Sold,1.15M,1 ,1 ,870 , Anthony R. Navarro,HARPER REAL ESTATE
+55,401 Harrison St APT 18B,94105,- Sold,1.75M,2 ,2 ,1311 , Denise L. Paulson,COMPASS
+56,57 Blair Ter,94107,- Sold,1.18M,3 ,1 ,1109 , Ric A. Rocchiccioli,COMPASS SF
+57,4761 18th St,94114,- Sold,1.60M,2 ,1 ,1245 , Ruth Krishnan,COMPASS SF
+58,1901 Scott St,94115,- Sold,13.0M,5 ,7 ,0 , Stacey E. Caen,SOTHEBY'S INTERNATIONAL REALTY
+59,128 Elsie St,94110,- Sold,4.0M,4 ,5 ,0 , Catherine Watson,VANGUARD PROPERTIES
+60,451 Kansas St UNIT 402,94107,- Sold,399233,1 ,1 ,656 , Robert  Belli,HOME QUEST REALTY
+61,700 Victoria St,94127,- Sold,2.25M,3 ,2 ,2075 ,0,0
+62,1700 Funston Ave,94122,- Sold,1.7M,-- ,-- ,2506 ,0,0
+63,364 17th Ave,94121,- Sold,3.5M,4 ,3 ,2405 , Helena Zaludova,COMPASS SF
+64,1593 Treat Ave,94110,- Sold,1.51M,2 ,1 ,1130 , Shelly L. Sutherland,KINDRED SF HOMES
+65,3471 Mission St #3475,94110,- Sold,2.03M,6 ,3 ,4125 , Joseph V. Levy,MARCUS & MILLICHAP
+66,3095 23rd Ave,94132,- Sold,3.1M,6 ,3 ,3365 , Richard B. Teed,COMPASS
+67,278 Monterey Blvd,94131,- Sold,1.3M,3 ,3 ,1776 , Pete Brannigan,COMPASS SF
+68,212 Putnam St,94110,- Sold,875000,Studio,-- ,0 , Robert R. Callan Jr.,SOTHEBY'S INTERNATIONAL REALTY
+69,1814 Webster St #1816,94115,- Sold,2.2M,4 ,3 ,2390 , Dona Crowder,COLDWELL BANKER REALTY
+70,1439 Page St,94117,- Sold,1.95M,3 ,2 ,1924 , Judson B. Gregory,COMPASS
+71,109 S Lake Merced Hls APT 2B,94132,- Sold,805000,3 ,2 ,1474 , Tim Hawko,PARK NORTH REAL ESTATE
+72,24 Woodland Ave #A,94117,- Sold,1.95M,4 ,3 ,0 , Gillian S. Pontes,COMPASS
+73,24 Woodland Ave,94117,- Sold,1.8M,3 ,2 ,0 , Gillian S. Pontes,COMPASS
+74,3190 Scott St APT 302,94123,- Sold,1.45M,2 ,2 ,1037 , Vanessa Kitchen,COMPASS
+75,1010 Silliman St,94134,- Sold,2.15M,5 ,4 ,2417 , Karen Mendelsohn Gould,COMPASS
+76,75 Folsom St APT 800,94105,- Sold,959500,1 ,1 ,1019 , Paul Hwang,SKYBOX REALTY
+77,1767 43rd Ave,94122,- Sold,1.3M,3 ,2 ,1525 ,0,0
+78,175 28th St,94131,- Sold,2.6M,6 ,4 ,3630 , Steve M. Dells,CORCORAN GLOBAL LIVING
+79,135 Hearst Ave,94131,- Sold,1.34M,2 ,1 ,0 , Kalok Law,SEQUOIA REAL ESTATE
+80,70 Cerritos Ave,94127,- Sold,3.23M,5 ,3 ,3397 , Marianne Bacigalupi Schier,COMPASS
+81,201 Harrison St APT 405,94105,- Sold,600000,1 ,1 ,544 , Neil  Canlas,THE CANLAS BROTHERS
+82,250 Clara St UNIT 15,94107,- Sold,840000,1 ,2 ,864 , Ronald B. Whitney,CORCORAN GLOBAL LIVING
+83,55 Red Rock Way APT 107O,94131,- Sold,612000,-- ,1 ,592 ,0,0
+84,300 Ivy St APT 513,94102,- Sold,925000,1 ,1 ,677 ,0,0
+85,2831 Kirkham St,94122,- Sold,1.83M,3 ,2 ,1828 , Jason C. Chan,BARBCO
+86,530 Chestnut St #C308,94133,- Sold,1.41M,2 ,2 ,1313 , INC.,HATCH REALTY GROUP
+87,1521 Sutter St APT 307,94109,- Sold,1.10M,2 ,2 ,957 , Ivan T. Fujinaka,LEFT COAST PROPERTIES
+88,435 China Basin St UNIT 218,94158,- Sold,968000,1 ,1 ,838 , Dianne M. Hartnett,COMPASS
+89,2148 Union St #2,94123,- Sold,1.43M,2 ,2 ,0 , Frank A. Nolan,VANGUARD PROPERTIES
+90,262 Missouri St,94107,- Sold,1.80M,6 ,3 ,3630 , Mimi A. Bruce,COMPASS
+91,1250 Clay St APT 204,94108,- Sold,740000,1 ,1 ,0 , Bistra V. Bejanski,COMPASS
+92,4319 25th St,94114,- Sold,4.00M,4 ,5 ,2893 , Michael Freethy,COMPASS
+93,75 Folsom St APT 901,94105,- Sold,1.43M,2 ,2 ,1287 , Shalini R. Sadda,CITY REAL ESTATE
+94,75 Santa Barbara Ave,94112,- Sold,1.29M,4 ,3 ,1880 ,0,0
+95,400 Beale St APT 1403,94105,- Sold,1.14M,2 ,2 ,1074 , Michelle Stephens,COLDWELL BANKER REALTY
+96,2071 18th Ave,94116,- Sold,2.23M,5 ,5 ,2143 , Bryan Au,BETTER HOMES AND GARDENS REAL
+97,1367 Natoma St,94103,- Sold,715000,2 ,1 ,713 , Anthony L. Koutsos,KELLER WILLIAMS SAN FRANCISCO
+98,2531 34th Ave,94116,- Sold,1.55M,4 ,2 ,1458 , Jason C. Chan,BARBCO
+99,2064 Jackson St,94109,- Sold,7.60M,3 ,3 ,0 , Annie M. Williams,SOTHEBY'S INTERNATIONAL REALTY
+100,745 39th Ave,94121,- Sold,3.00M,4 ,2 ,2990 , Robert N. Moffatt,SOTHEBY'S INTERNATIONAL REALTY
+101,730 Anderson St,94110,- Sold,1.05M,2 ,2 ,960 , Jeff Tepermeyster,MAXXREALTY
+102,355 Buena Vista Ave #505W,94117,- Sold,832500,1 ,1 ,719 , Steve M. Dells,CORCORAN GLOBAL LIVING
+103,268 Wawona St,94127,- Sold,4.25M,5 ,6 ,3553 , Paul Barbagelata,BARBCO
+104,74 Levant St,94114,- Sold,1.32M,3 ,2 ,2019 , Darwin Tejada,SOTHEBY'S INTERNATIONAL REALTY
+105,80 San Andreas Way,94127,- Sold,3.35M,3 ,4 ,2435 , Jane R. Poppelreiter,COMPASS SF
+106,3500 19th St #203,94110,- Sold,2.08M,2 ,3 ,1589 , Frank A. Nolan,VANGUARD PROPERTIES
+107,2044 Green St,94123,- Sold,4.15M,3 ,4 ,2877 , Dennis R. Otto,COMPASS
+108,202 Ripley St,94110,- Sold,1.75M,3 ,2 ,1670 , Justina M. Colunga,VANGUARD PROPERTIES
+109,1960 Baker St,94115,- Sold,3.40M,5 ,4 ,3989 , Edward F. Milestone,BERKSHIRE HATHAWAY-FRANCISCAN
+110,1150 Wayland St,94134,- Sold,1.30M,2 ,1 ,1473 , Carlos D. Cabarcos,VANGUARD PROPERTIES
+111,1868 Van Ness Ave APT 301,94109,- Sold,1.27M,2 ,2 ,0 ,0,0
+112,255 Berry St APT 413,94158,- Sold,1.20M,2 ,2 ,1050 , Jina Kang,COMPASS
+113,601 Van Ness Ave APT 123,94102,- Sold,420000,1 ,1 ,550 , Daniel P. Langford,CORCORAN GLOBAL LIVING
+114,1558 Clay St #1560,94109,- Sold,1.48M,4 ,4 ,2266 , John K. Ngau,NEW PACIFIC RLTY. & INV.
+115,41 Ora Way,94131,- Sold,3.75M,4 ,3 ,2865 , Daniel R. Fernandez,CORCORAN GLOBAL LIVING
+116,54-56 Elizabeth St #56,94110,- Sold,675000,-- ,-- ,0 ,0,0
+117,178 Brewster St,94110,- Sold,1.95M,4 ,4 ,1981 , Michael H. Shaw,VANGUARD PROPERTIES
+118,995 Clayton St #997,94117,- Sold,1.90M,4 ,2 ,3050 , Zhen Bang Yu,FADCAL HOME & MORTGAGES
+119,24 Woodland Ave #B,94117,- Sold,849000,1 ,2 ,0 , Gillian S. Pontes,COMPASS
+120,873 Union St,94133,- Sold,2.10M,4 ,3 ,2090 , John C. Fitzgerald,COMPASS
+121,1817 California St APT 105,94109,- Sold,600000,1 ,1 ,542 , Gary J. Snow,COMPASS SF
+122,555 Bartlett St APT 304,94110,- Sold,1.17M,2 ,2 ,1056 , Mollie W. Poe,INDIGO REAL ESTATE
+123,1043 Alabama St,94110,- Sold,850000,3 ,1 ,1470 , Paul Warrin,GOLDEN GATE SOTHEBY'S INTL
+124,1 Hawthorne St UNIT 20A,94105,- Sold,1.02M,1 ,1 ,909 , Leslie Bauer,COLDWELL BANKER REALTY
+125,408 Sweeny St,94134,- Sold,1.35M,Studio,-- ,1170 , Richard Cairo,INTERO REAL ESTATE SERVICES
+126,170 Summit Way,94132,- Sold,1.23M,3 ,2 ,1547 , JUNG & CO.,ANDERSEN
+127,950 Kansas St #1,94107,- Sold,1.38M,3 ,2 ,1645 , Edward Ong,CORPEN REAL ESTATE GROUP
+128,3380 22nd St #A,94110,- Sold,1.35M,2 ,2 ,0 , Laura A. Rogers,COMPASS
+129,201 Folsom St APT 21A,94105,- Sold,1.91M,2 ,2 ,1368 , Crystal C. Injo,COMPASS
+130,20 Parkridge Dr APT 12,94131,- Sold,849000,2 ,1 ,0 , Michael H. Shaw,VANGUARD PROPERTIES
+131,546 43rd Ave,94121,- Sold,1.21M,2 ,1 ,0 , Scott E-Li Yeh,COLDWELL BANKER REALTY
+132,3620 19th St APT 5,94110,- Sold,1.57M,2 ,3 ,0 , Michael H. Shaw,VANGUARD PROPERTIES
+133,4547 18th St #B,94114,- Sold,2.40M,4 ,3 ,2100 , Jean-Paul Samaha,VANGUARD PROPERTIES
+134,4351 17th St,94114,- Sold,1.31M,2 ,-- ,1230 , Michael L. Bellings,COMPASS
+135,370 De Haro St APT A8,94103,- Sold,1.20M,1 ,2 ,1334 , Anthony Kwiecien,COMPASS
+136,1595 Treat Ave,94110,- Sold,2.00M,3 ,3 ,1760 , Shelly L. Sutherland,KINDRED SF HOMES
+137,457 Duncan St,94131,- Sold,1.70M,2 ,1 ,870 , Tal Klein,COMPASS
+138,66 Gould St,94124,- Sold,1.05M,3 ,2 ,1250 , Gary Lo,COLDWELL BANKER REALTY
+139,455 Buena Vista Ave,94117,- Sold,6.20M,4 ,7 ,6035 , Dino Zuzic,COMPASS
+140,1041 Alabama St,94110,- Sold,950000,2 ,1 ,1430 , Paul Warrin,GOLDEN GATE SOTHEBY'S INTL
+141,201 Folsom St APT 35A,94105,- Sold,2.83M,2 ,2 ,1568 , Emma Aslanian,COLDWELL BANKER REALTY
+142,280 Spear St #3U,94105,- Sold,710000,1 ,1 ,671 , POLARIS PACIFIC,Tishman Speyer
+143,534 Shotwell St APT 1,94110,- Sold,975000,2 ,1 ,0 , Radha Tomassetti,COMPASS
+144,467 Naples St,94112,- Sold,1.10M,2 ,2 ,1242 , INC,EXP REALTY OF CALIFORNIA
+145,2145 15th Ave,94116,- Sold,2.08M,3 ,2 ,1884 , Edward F. Milestone,BERKSHIRE HATHAWAY-FRANCISCAN
+146,32 Hartford St,94114,- Sold,2.50M,2 ,1 ,0 , Shannon L. Hughes,COMPASS
+147,28 Beideman St,94115,- Sold,1.32M,2 ,2 ,934 , Michael H. Shaw,VANGUARD PROPERTIES
+148,1554 Dolores St,94110,- Sold,1.75M,3 ,2 ,1832 , C.M. Foo,COMPASS
+149,555 Golden Gate Ave #302,94102,- Sold,799000,2 ,1 ,830 , Loring M. Aguillon-Racine,JS SULLIVAN SALES AND MARKETIN
+150,255 Berry St APT 115,94158,- Sold,1.65M,3 ,3 ,1707 ,0,0
+151,455 Vallejo St APT 304,94133,- Sold,1.25M,2 ,2 ,1009 , Dale T. Boutiette,COMPASS SF
+152,165 Ripley St,94110,- Sold,1.65M,2 ,1 ,1225 , Calvin M. Kam,COMPASS
+153,3620 Cesar Chavez St #103,94110,- Sold,735000,1 ,1 ,0 , Massimo F. Loporto,VANGUARD PROPERTIES
+154,1000 3rd St #412,94158,- Sold,987000,1 ,1 ,767 , Dunja Green,COMPASS
+155,1310 Fillmore St APT 501,94115,- Sold,1.38M,3 ,3 ,1513 , Lisa M. Lyons,COMPASS
+156,50 Lansing St UNIT 505,94105,- Sold,1.10M,2 ,2 ,995 , Yelena Laudati,COMPASS
+157,242 San Jose Ave,94110,- Sold,5.55M,4 ,4 ,3350 , Missy Wyant Smit,COMPASS
+158,227 Flood Ave,94112,- Sold,1.70M,2 ,1 ,2129 , Deborah Lynn Rutledge,COMPASS
+159,74 New Montgomery St UNIT 203,94105,- Sold,575000,1 ,1 ,592 , Justin Goldberg,COMPASS
+160,74 New Montgomery St UNIT 203,94105,- Sold,575000,1 ,1 ,592 , Justin Goldberg,COMPASS
+161,291 Hearst Ave,94131,- Sold,1.25M,2 ,2 ,1525 ,0,0
+162,1554 Dolores St,94110,- Sold,1.75M,3 ,2 ,1832 , C.M. Foo,COMPASS
+163,28 Beideman St,94115,- Sold,1.32M,2 ,2 ,934 , Michael H. Shaw,VANGUARD PROPERTIES
+164,50 Lansing St UNIT 505,94105,- Sold,1.10M,2 ,2 ,995 , Yelena Laudati,COMPASS
+165,573 14th Ave,94118,- Sold,1.83M,2 ,2 ,1788 , Missy Wyant Smit,COMPASS
+166,555 Golden Gate Ave #204,94102,- Sold,649000,1 ,1 ,573 , Loring M. Aguillon-Racine,JS SULLIVAN SALES AND MARKETIN
+167,1504 Mcallister St #B,94115,- Sold,1.40M,3 ,2 ,1318 , Alan F. Morcos,COMPASS
+168,555 Golden Gate Ave #302,94102,- Sold,799000,2 ,1 ,830 , Loring M. Aguillon-Racine,JS SULLIVAN SALES AND MARKETIN
+169,1310 Fillmore St APT 501,94115,- Sold,1.38M,3 ,3 ,1513 , Lisa M. Lyons,COMPASS
+170,32 Hartford St,94114,- Sold,2.50M,2 ,1 ,0 , Shannon L. Hughes,COMPASS
+171,2350 42nd Ave,94116,- Sold,1.90M,4 ,3 ,1960 , Jeremy A. Rushton,COLDWELL BANKER REALTY
+172,0,0,0,0,0,0,0,0,0
+173,0,0,0,0,0,0,0,0,0
+174,0,0,0,0,0,0,0,0,0
+175,0,0,0,0,0,0,0,0,0
+176,0,0,0,0,0,0,0,0,0
+177,0,0,0,0,0,0,0,0,0
+178,0,0,0,0,0,0,0,0,0
+179,0,0,0,0,0,0,0,0,0
+180,0,0,0,0,0,0,0,0,0
+181,0,0,0,0,0,0,0,0,0
+182,0,0,0,0,0,0,0,0,0
+183,0,0,0,0,0,0,0,0,0
+184,0,0,0,0,0,0,0,0,0
+185,0,0,0,0,0,0,0,0,0
+186,0,0,0,0,0,0,0,0,0
+187,0,0,0,0,0,0,0,0,0
+188,0,0,0,0,0,0,0,0,0
+189,0,0,0,0,0,0,0,0,0
+190,0,0,0,0,0,0,0,0,0
+191,0,0,0,0,0,0,0,0,0
+192,0,0,0,0,0,0,0,0,0
+193,0,0,0,0,0,0,0,0,0
+194,1239 19th Ave,94122,- Sold,1.91M,6 ,4 ,2717 , Marcus A. Lee,COMPASS
+195,1450 Greenwich St APT 103,94109,- Sold,1.42M,1 ,1 ,900 , Kevin Wakelin,COMPASS
+196,1905 Laguna St APT 104,94115,- Sold,751000,Studio,1 ,0 , Eduardo Aguire,CORCORAN GLOBAL LIVING
+197,2299 Market St APT 201,94114,- Sold,900000,1 ,1 ,688 , Mollie W. Poe,INDIGO REAL ESTATE
+198,0,0,0,0,0,0,0,0,0
+199,900 Bush St APT 717,94109,- Sold,730000,2 ,2 ,901 , Lauren O'Brien,CORCORAN GLOBAL LIVING
+200,419 27th St,94131,- Sold,1.65M,3 ,2 ,1962 , Pete Brannigan,COMPASS SF
+201,900 Bush St APT 717,94109,- Sold,730000,2 ,2 ,901 , Lauren O'Brien,CORCORAN GLOBAL LIVING
+202,170 Fairmount St,94131,- Sold,1.73M,3 ,2 ,1761 , Dylan Hunter,COMPASS
+203,1239 19th Ave,94122,- Sold,1.91M,6 ,4 ,2717 , Marcus A. Lee,COMPASS
+204,3915 20th St,94114,- Sold,1.60M,2 ,2 ,1301 , John L. LePage,CORCORAN GLOBAL LIVING
+205,61 Hallam St,94103,- Sold,660000,1 ,1 ,762 , Frank A. Nolan,VANGUARD PROPERTIES
+206,435 China Basin St UNIT 213,94158,- Sold,995000,1 ,1 ,843 , Alexander S. Varum,ALEX VARUM BROKER
+207,129 Divisadero St,94117,- Sold,2.30M,2 ,2 ,1755 , Tyler  Stewart,HEATH REAL ESTATE
+208,169 Collingwood St APT 1,94114,- Sold,1.57M,3 ,2 ,1305 , Gregg Lynn,SOTHEBY'S INTERNATIONAL REALTY
+209,265 Arkansas St,94107,- Sold,3.00M,4 ,3 ,2890 , Eric D. Altree,COMPASS
+210,330 Mission Bay Blvd N UNIT 903,94158,- Sold,1.57M,2 ,2 ,0 , Kevin Gueco,KINOKO
+211,4069 26th St,94131,- Sold,2.80M,4 ,4 ,0 , Marcell P. Neri,KINOKO
+212,729 Moraga St,94122,- Sold,2.48M,4 ,4 ,2732 , Ashley Barrington-Mace,SOTHEBY'S INTERNATIONAL REALTY
+213,140 S Van Ness Ave UNIT 630,94103,- Sold,675000,1 ,1 ,795 , SCOTT,KELLER
+214,17 Olympia Way,94131,- Sold,1.97M,5 ,3 ,1533 , INC.,ELITE REALTY GROUP
+215,2736 Ortega St,94122,- Sold,1.50M,3 ,2 ,1705 ,0,0
+216,173 Beaver St,94114,- Sold,3.80M,3 ,3 ,0 , Stephen Bartlett,COMPASS
+217,55 Page St APT 321,94102,- Sold,1.07M,1 ,1 ,746 , Priya Agrawal,COMPASS
+218,115 Diamond Cove Ter,94134,- Sold,980000,2 ,3 ,1336 , Thomas A. Baumgartner,REDFIN
+219,47 Dolores Ter,94110,- Sold,1.27M,1 ,1 ,0 , Chris J. Panou,SOTHEBY'S INTERNATIONAL REALTY
+220,2200 Beach St APT 204,94123,- Sold,1.32M,1 ,1 ,980 , Carol A. Goldberg,SOTHEBY'S INTERNATIONAL REALTY
+221,400 Avila St APT 202,94123,- Sold,1.12M,1 ,1 ,0 , David B. Bellings,COMPASS
+222,601 Van Ness Ave APT 1009,94102,- Sold,580000,1 ,1 ,672 , Astrid Lacitis,VANGUARD PROPERTIES
+223,5900 3rd St UNIT 2221,94124,- Sold,775000,2 ,2 ,0 , Jessie Lee,COMPASS SF
+224,3375 17th St APT 208,94110,- Sold,1.10M,1 ,2 ,1294 , Brandon Yager,YAGER REALTY OF CALIFORNIA
+225,55 Page St APT 523,94102,- Sold,1.24M,2 ,2 ,947 ,0,0
+226,809 Goettingen St,94134,- Sold,1.27M,3 ,3 ,1353 , Judson R. Cassels,VANGUARD PROPERTIES
+227,1526 Palou Ave,94124,- Sold,1.45M,4 ,4 ,2138 ,0,0
+228,150 Lombard St APT 209,94111,- Sold,1.07M,2 ,2 ,1116 , Gail Y. Grendahl,COMPASS
+229,918 Kansas St,94107,- Sold,3.20M,4 ,4 ,3200 , John L. LePage,CORCORAN GLOBAL LIVING
+230,1334 Potrero Ave,94110,- Sold,1.62M,2 ,3 ,1365 , Amanda B. Sharp,COMPASS
+231,6418 California St,94121,- Sold,2.24M,3 ,2 ,1780 , Winnie W. Fok,SOTHEBY'S INTERNATIONAL REALTY
+232,2519 Chestnut St,94123,- Sold,2.70M,3 ,3 ,2045 , Bryant R. Kowalczyk,MARKER LUXURY PROPERTIES
+233,1371 Dolores St,94110,- Sold,1.77M,3 ,2 ,1506 , Sherri Howe,BRAVA REAL ESTATE
+234,2148 Union St #4,94123,- Sold,1.30M,1 ,1 ,0 , Frank A. Nolan,VANGUARD PROPERTIES
+235,250 King St UNIT 730,94107,- Sold,1.36M,2 ,2 ,1415 , Miyuki Mia Takami,KELLER WILLIAMS SAN FRANCISCO
+236,937 Dolores St APT 4,94110,- Sold,975000,1 ,1 ,885 , Scott P. Brittain,SOTHEBY'S INTERNATIONAL REALTY
+237,1901 Union St #1907,94123,- Sold,5.80M,3 ,4 ,5060 , Damon M. Knox,CORCORAN GLOBAL LIVING
+238,7 Capp St,94103,- Sold,975000,2 ,1 ,882 , Deborah Lopez,COMPASS SF
+239,1904 9th Ave,94116,- Sold,2.48M,4 ,4 ,2395 , Dylan Hunter,COMPASS
+240,2009 17th St,94103,- Sold,1.98M,2 ,3 ,1247 , Tara C. Donohue,CORCORAN GLOBAL LIVING
+241,318 Spear St UNIT 5G,94105,- Sold,642000,1 ,1 ,538 ,0,0
+242,344 Utah St,94103,- Sold,575000,Studio,1 ,0 , Gael Bruno,SOTHEBY'S INTERNATIONAL REALTY
+243,488 Folsom St #4702,94105,- Sold,4.55M,3 ,3 ,2064 , INC.,RELATED CA RES. SALES
+244,1895 Pacific Ave APT 203,94109,- Sold,1.01M,1 ,1 ,1044 , Kyle Algeo,MARKER LUXURY PROPERTIES
+245,860 De Haro St,94107,- Sold,3.38M,3 ,4 ,0 , Matthew J. Woebcke,COMPASS SF
+246,348 Church St APT 202,94114,- Sold,1.54M,2 ,2 ,1211 , Joseph A. Marko,COMPASS SF
+247,443 Chestnut St,94133,- Sold,2.80M,9 ,5 ,4542 , Scott Whelan,COMPASS SF
+248,526 Ulloa St,94127,- Sold,2.05M,2 ,2 ,0 , Linda R. LeBlanc,COMPASS SF
+249,0,0,0,0,0,0,0,0,0
+250,0,0,0,0,0,0,0,0,0
+251,0,0,0,0,0,0,0,0,0
+252,0,0,0,0,0,0,0,0,0
+253,0,0,0,0,0,0,0,0,0
+254,0,0,0,0,0,0,0,0,0
+255,0,0,0,0,0,0,0,0,0
+256,0,0,0,0,0,0,0,0,0
+257,0,0,0,0,0,0,0,0,0
+258,0,0,0,0,0,0,0,0,0
+259,0,0,0,0,0,0,0,0,0
+260,0,0,0,0,0,0,0,0,0
+261,0,0,0,0,0,0,0,0,0
+262,0,0,0,0,0,0,0,0,0
+263,0,0,0,0,0,0,0,0,0
+264,0,0,0,0,0,0,0,0,0
+265,0,0,0,0,0,0,0,0,0
+266,1783 San Jose Ave,94112,- Sold,1.55M,3 ,2 ,1649 , Carren S. Shagley,LEGACY REAL ESTATE
+267,2407 Harrison St APT 17,94110,- Sold,1.15M,2 ,3 ,1825 , Victor G. Makras,MAKRAS REAL ESTATE
+268,3178 Washington St,94115,- Sold,2.45M,3 ,2 ,1875 , Silvia E. Damen,COMPASS
+269,3058 Polk St #1,94109,- Sold,1.68M,3 ,2 ,1471 , Amanda B. Sharp,COMPASS
+270,429 Carl St,94117,- Sold,1.52M,2 ,2 ,1131 , John G. Dallas,CITY REAL ESTATE
+271,675 39th Ave,94121,- Sold,1.40M,2 ,1 ,1455 , Alfred S. Lee,P Y LEE REALTY
+272,515 Masonic Ave APT 3,94117,- Sold,830000,1 ,1 ,707 ,0,0
+273,640 Davis St UNIT 48,94111,- Sold,1.76M,2 ,2 ,1471 , Dean Badessa,SOTHEBY'S INTERNATIONAL REALTY
+274,1905 Eddy St #1,94115,- Sold,1.61M,3 ,2 ,1265 , Alexander F. Lurie,COMPASS
+275,2875 Jackson St APT 4,94115,- Sold,1.42M,2 ,1 ,1208 , Ronald Sebahar,COMPASS
+276,0,0,0,0,0,0,0,0,0
+277,0,0,0,0,0,0,0,0,0
+278,0,0,0,0,0,0,0,0,0
+279,0,0,0,0,0,0,0,0,0
+280,640 Davis St UNIT 48,94111,- Sold,1.76M,2 ,2 ,1471 , Dean Badessa,SOTHEBY'S INTERNATIONAL REALTY
+281,3178 Washington St,94115,- Sold,2.45M,3 ,2 ,1875 , Silvia E. Damen,COMPASS
+282,318 Spear St UNIT 5G,94105,- Sold,642000,1 ,1 ,538 ,0,0
+283,1454 Church St,94131,- Sold,2.27M,2 ,1 ,1416 , Lamisse Droubi,GENERATION REAL ESTATE
+284,989 20th St UNIT 569,94107,- Sold,1.25M,1 ,2 ,1274 , Wendy Ann Watkins,CORCORAN GLOBAL LIVING
+285,470 Hearst Ave,94112,- Sold,2.25M,4 ,3 ,2915 , Wendy M. Storch,SOTHEBY'S INTERNATIONAL REALTY
+286,429 Carl St,94117,- Sold,1.52M,2 ,2 ,1131 , John G. Dallas,CITY REAL ESTATE
+287,2401 Green St,94123,- Sold,4.50M,4 ,4 ,2930 , Neill S. Bassi,SOTHEBY'S INTERNATIONAL REALTY
+288,2009 17th St,94103,- Sold,1.98M,2 ,3 ,1247 , Tara C. Donohue,CORCORAN GLOBAL LIVING
+289,3233 Jackson St APT 3,94118,- Sold,2.60M,2 ,2 ,1850 , Betsy A. Linder,COMPASS
+290,1538 Visitacion Ave,94134,- Sold,930000,Studio,1 ,1260 ,0,0
+291,1205 Alemany Blvd,94112,- Sold,1.19M,3 ,2 ,1520 , Jess R. Williams,GENERATION REAL ESTATE
+292,2465 Filbert St,94123,- Sold,4.25M,6 ,4 ,6003 , Payam J. Nejad,COLLIERS INTERNATIONAL
+293,1425 Vallejo St APT 206,94109,- Sold,960000,1 ,1 ,786 , Ali A. Mafi,REDFIN
+294,1895 Pacific Ave APT 203,94109,- Sold,1.01M,1 ,1 ,1044 , Kyle Algeo,MARKER LUXURY PROPERTIES
+295,1001 Pine St UNIT 1301,94109,- Sold,725000,1 ,1 ,650 , Betty Sun Wong,COMPASS
+296,52 Homestead St,94114,- Sold,4.89M,5 ,6 ,4110 , Lucy  Yeung,SF CITY PROPERTIES
+297,31 Ellington Ave,94112,- Sold,1.40M,4 ,3 ,2046 , Janice Lee,COLDWELL BANKER REALTY
+298,1427 Quesada Ave,94124,- Sold,1.00M,4 ,2 ,1340 ,0,0
+299,1286 Treat Ave #1298-1288,94110,- Sold,1.00M,2 ,1 ,981 , Susan F. Ferry,COLDWELL BANKER REALTY
+300,1584 Fulton St,94117,- Sold,875000,-- ,-- ,0 ,0,0
+301,5330 Diamond Heights Blvd APT J301,94131,- Sold,732500,1 ,1 ,657 , Eva Stoyanov,COMPASS SF
+302,148 Huntington Dr,94132,- Sold,1.61M,3 ,1 ,1215 ,0,0
+303,1233 Howard St APT 3I,94103,- Sold,1.35M,2 ,2 ,1531 , Marcus Miller,HELM REAL ESTATE
+304,892 Green St,94133,- Sold,1.25M,2 ,2 ,980 , Laura Taylor,GENERATION REAL ESTATE
+305,647 Grand View Ave APT 4,94114,- Sold,1.90M,3 ,4 ,2226 , Tim Johnson,COMPASS SF
+306,2429 Franklin St,94123,- Sold,2.31M,3 ,3 ,2100 , James Testa,COMPASS
+307,1486 44th Ave,94122,- Sold,1.30M,3 ,2 ,1222 ,0,0
+308,1228 Grove St APT 2,94117,- Sold,1.18M,2 ,1 ,866 , Jessica Branson,COMPASS
+309,724 16th Ave APT 6,94118,- Sold,1.06M,2 ,2 ,0 , Aaron M Bellings,COMPASS
+310,388 Fulton St UNIT 502,94102,- Sold,775000,1 ,1 ,559 , Justin Goldberg,COMPASS
+311,1700 Jones St APT 5,94109,- Sold,2.45M,3 ,3 ,1882 , Tim Carrico,COLDWELL BANKER REALTY
+312,2812 21st St,94110,- Sold,1.47M,3 ,2 ,1475 , Edward R. Deleski,VANGUARD PROPERTIES
+313,426 Victoria St,94132,- Sold,1.00M,1 ,1 ,819 , Frank Daniele,DANIELE REALTY
+314,555 Fulton St #312,94102,- Sold,1.30M,2 ,2 ,1051 , Zachary Wheeler,COMPASS
+315,1001 California St #TOWNHOUSE,94108,- Sold,3.30M,3 ,4 ,3465 , Gregg Lynn,SOTHEBY'S INTERNATIONAL REALTY
+316,5901 Geary Blvd #5907,94121,- Sold,2.82M,8 ,-- ,10825 , Michael R. Lalanne,LUXE PLACES INTERNATIONAL REAL
+317,1767 40th Ave,94122,- Sold,2.21M,4 ,3 ,2183 , Shu Pu,CENTURY 21 REALTY ALLIANCE
+318,29 Woodward St,94103,- Sold,750000,3 ,1 ,1100 , Anthony L. Koutsos,KELLER WILLIAMS SAN FRANCISCO
+319,255 Berry St APT 518,94158,- Sold,1.25M,2 ,2 ,1050 ,0,0
+320,645 Duncan St,94131,- Sold,6.70M,4 ,5 ,5165 , Nina Hatvany,COMPASS
+321,1818 Broadway APT 201,94109,- Sold,768000,1 ,1 ,625 , Anthony R. Navarro,HARPER REAL ESTATE
+322,140 S Van Ness Ave UNIT 524,94103,- Sold,699000,1 ,2 ,830 , Sergio R. Giannoni,VANGUARD PROPERTIES
+323,424 Frederick St #426,94117,- Sold,3.55M,3 ,-- ,3608 , John M. Kirkpatrick,COMPASS
+324,331 Joost Ave,94131,- Sold,2.23M,3 ,3 ,2052 , Laura A. Rogers,COMPASS
+325,820 Mendell St,94124,- Sold,1.20M,2 ,2 ,1150 , Osman A. Dost,COMPASS
+326,2626 38th Ave,94116,- Sold,1.25M,2 ,1 ,1200 ,0,0
+327,2263 Fulton St,94117,- Sold,1.58M,2 ,1 ,1302 , Michael Lee,COMPASS
+328,380 10th St UNIT 27,94103,- Sold,1.17M,2 ,2 ,1305 ,0,0
+329,0,0,0,0,0,0,0,0,0
+330,631 Ofarrell St APT 605,94109,- Sold,415000,Studio,1 ,520 , Thomas Cacciotti,VANGUARD PROPERTIES
+331,300 Berry St UNIT 809,94158,- Sold,808000,1 ,1 ,597 , BROKER,MARY LEE
+332,1250 12th Ave,94122,- Sold,2.31M,4 ,2 ,1960 , Patricia Lee,MOSAIK REAL ESTATE
+333,1832 Lyon St,94115,- Sold,2.65M,3 ,3 ,3100 , Neal Allen Ward,COMPASS
+334,0,0,0,0,0,0,0,0,0
+335,0,0,0,0,0,0,0,0,0
+336,0,0,0,0,0,0,0,0,0
+337,338 Main St UNIT 17F,94105,- Sold,1.55M,2 ,2 ,1181 , Gertrude Villanueva Itchon,COMPASS
+338,234 Arch St,94132,- Sold,1.15M,3 ,2 ,1380 , INC,EXP REALTY OF CALIFORNIA
+339,520 Clayton St,94117,- Sold,2.19M,-- ,5 ,4562 ,0,0
+340,380 10th St UNIT 3,94103,- Sold,1.15M,1 ,2 ,1343 , Frank A. Nolan,VANGUARD PROPERTIES
+341,0,0,0,0,0,0,0,0,0
+342,0,0,0,0,0,0,0,0,0
+343,0,0,0,0,0,0,0,0,0
+344,0,0,0,0,0,0,0,0,0
+345,0,0,0,0,0,0,0,0,0
+346,0,0,0,0,0,0,0,0,0
+347,0,0,0,0,0,0,0,0,0
+348,0,0,0,0,0,0,0,0,0
+349,0,0,0,0,0,0,0,0,0
+350,0,0,0,0,0,0,0,0,0
+351,0,0,0,0,0,0,0,0,0
+352,0,0,0,0,0,0,0,0,0
+353,0,0,0,0,0,0,0,0,0
+354,0,0,0,0,0,0,0,0,0
+355,0,0,0,0,0,0,0,0,0
+356,0,0,0,0,0,0,0,0,0
+357,0,0,0,0,0,0,0,0,0
+358,0,0,0,0,0,0,0,0,0
+359,0,0,0,0,0,0,0,0,0
+360,270 London St,94112,- Sold,1.49M,3 ,2 ,1915 , Tanya S. Dzhibrailova,CORCORAN GLOBAL LIVING
+361,115 Mountain Spring Ave,94114,- Sold,3.81M,3 ,4 ,0 , Dona Crowder,COLDWELL BANKER REALTY
+362,1212 Egbert Ave,94124,- Sold,1.55M,4 ,4 ,3330 , Raul Castro,BERKSHIRE HATHAWAY-FRANCISCAN
+363,3410 Washington St,94118,- Sold,7.00M,5 ,4 ,4447 , Nina Hatvany,COMPASS
+364,1485 Chestnut St,94123,- Sold,1.20M,1 ,1 ,880 , Isabelle Grotte,COMPASS
+365,2070 Pine St,94115,- Sold,5.40M,5 ,4 ,4400 , Bridget R. Cannata Denning,COMPASS
+366,488 Folsom St #4201,94105,- Sold,3.63M,3 ,3 ,1934 , INC.,RELATED CA RES. SALES
+367,848 Kansas St #1,94107,- Sold,1.99M,3 ,4 ,1858 , Gregg Lynn,SOTHEBY'S INTERNATIONAL REALTY
+368,75 San Lorenzo Way,94127,- Sold,4.90M,5 ,4 ,4005 , Jane R. Poppelreiter,COMPASS SF
+369,130 Acadia St,94131,- Sold,3.39M,1 ,-- ,7060 , Kent B Kockos,COLDWELL BANKER COMMERCIAL REA
+370,2731 38th Ave,94116,- Sold,1.63M,3 ,1 ,1335 , Juanita C. Leung,JODI GROUP
+371,25 Sierra St APT W302,94107,- Sold,1.31M,2 ,3 ,2009 , Laura R. Kaufman,CORCORAN GLOBAL LIVING
+372,255 Farallones St,94112,- Sold,1.35M,4 ,3 ,1777 , Wayne M. Ho,TRUST REAL ESTATE
+373,631 Ofarrell St APT 1604,94109,- Sold,488000,Studio,1 ,520 , Thomas Cacciotti,VANGUARD PROPERTIES
+374,77 Beaver St,94114,- Sold,1.75M,3 ,1 ,1255 , Isabelle Grotte,COMPASS
+375,3189 Cesar Chavez,94110,- Sold,1.62M,3 ,2 ,1807 , Rebecca Brooks,THE AGENCY
+376,2209 Lincoln Way,94122,- Sold,1.58M,4 ,2 ,2400 , Elizabeth Quijada,QUIJADA REALTY GROUP
+377,415 Cornwall St,94118,- Sold,2.90M,4 ,4 ,2584 , Bert  Keane,VANGUARD PROPERTIES
+378,559 Alvarado St #561,94114,- Sold,6.00M,4 ,5 ,0 , Frank A. Nolan,VANGUARD PROPERTIES
+379,160 Stoneridge Ln,94134,- Sold,808888,2 ,2 ,1068 , Rafael Lucatero,COLDWELL BANKER REALTY
+380,2857 Folsom St,94110,- Sold,1.50M,3 ,2 ,1537 , Jean-Paul Samaha,VANGUARD PROPERTIES
+381,1001 Pine St UNIT 502,94109,- Sold,876000,2 ,1 ,815 , Julie Xie,STERLING REAL ESTATE
+382,555 Golden Gate Ave #203,94102,- Sold,649000,1 ,1 ,568 , Loring M. Aguillon-Racine,JS SULLIVAN SALES AND MARKETIN
+383,601 Van Ness Ave APT 16,94102,- Sold,846000,2 ,2 ,1022 ,0,0
+384,2940 22nd St,94110,- Sold,870000,2 ,1 ,895 , Eduardo Aguire,CORCORAN GLOBAL LIVING
+385,5140 Diamond Heights Blvd APT 106A,94131,- Sold,700000,1 ,1 ,744 ,0,0
+386,217 Montana St,94112,- Sold,1.85M,5 ,4 ,2606 , Yevgeniy Zinchik,COMPASS
+387,1525 Newhall St,94124,- Sold,818000,2 ,2 ,973 , INC.,TRINITY REALTY
+388,425 1st St UNIT 3304,94105,- Sold,765000,1 ,1 ,605 , Neil  Canlas,THE CANLAS BROTHERS
+389,1520 Jerrold Ave,94124,- Sold,960000,3 ,1 ,0 , Tyler D. Cassacia,COMPASS
+390,2050 20th Ave,94116,- Sold,1.66M,2 ,2 ,1350 , James S. Koh,COMPASS
+391,1275 Rhode Island St,94107,- Sold,1.05M,2 ,2 ,1058 , Faye Dibachi,COMPASS
+392,418 Joost Ave,94127,- Sold,1.25M,2 ,1 ,0 ,0,0
+393,239 Brannan St UNIT 17J,94107,- Sold,2.02M,2 ,2 ,1393 , Eric Turner,COMPASS
+394,3643 Folsom St,94110,- Sold,1.78M,3 ,2 ,0 , Shelley D. Trew,VANGUARD PROPERTIES
+395,3045 Jackson St APT 501,94115,- Sold,1.18M,1 ,1 ,1089 , Ronni Garfield,SOTHEBY'S INTERNATIONAL REALTY
+396,3755 20th St,94110,- Sold,4.20M,4 ,3 ,3900 , Nathan K. Churchill,COLDWELL BANKER REALTY
+397,309 Oak Park Dr,94131,- Sold,1.73M,3 ,2 ,1603 , Tim A. Brown,KELLER WILLIAMS SAN FRANCISCO
+398,1231 Bosworth St,94131,- Sold,1.05M,1 ,1 ,677 ,0,0
+399,682 Clarendon Ave,94131,- Sold,1.40M,2 ,3 ,1485 , Kevin Birmingham,PARK NORTH REAL ESTATE
+400,1275 Rhode Island St,94107,- Sold,1.05M,2 ,2 ,1058 , Faye Dibachi,COMPASS
+401,79 Everson St,94131,- Sold,3.33M,3 ,3 ,0 , Jessica Branson,COMPASS
+402,682 Clarendon Ave,94131,- Sold,1.40M,2 ,3 ,1485 , Kevin Birmingham,PARK NORTH REAL ESTATE
+403,418 Joost Ave,94127,- Sold,1.25M,2 ,1 ,0 ,0,0
+404,555 Golden Gate Ave #306,94102,- Sold,998000,2 ,2 ,977 , Loring M. Aguillon-Racine,JS SULLIVAN SALES AND MARKETIN
+405,1164 Church St,94114,- Sold,2.95M,5 ,5 ,2965 , Lisa J. Thompson,DWELL REAL ESTATE SF
+406,3045 Jackson St APT 501,94115,- Sold,1.18M,1 ,1 ,1089 , Ronni Garfield,SOTHEBY'S INTERNATIONAL REALTY
+407,420 Mission Bay Blvd #1403,94158,- Sold,2.00M,2 ,-- ,1562 , David D. Huynh,COMPASS
+408,2050 20th Ave,94116,- Sold,1.66M,2 ,2 ,1350 , James S. Koh,COMPASS
+409,500 Masonic Ave APT 3,94117,- Sold,1.31M,2 ,3 ,1235 , Gary G. Beyrouti,SOTHEBY'S INTERNATIONAL REALTY
+410,3855 18th St #B,94114,- Sold,903700,1 ,1 ,717 , Ronald Sebahar,COMPASS
+411,274 21st Ave,94121,- Sold,2.01M,4 ,2 ,1900 , Aaron M Bellings,COMPASS
+412,3643 Folsom St,94110,- Sold,1.78M,3 ,2 ,0 , Shelley D. Trew,VANGUARD PROPERTIES
+413,649 Fillmore St #653,94117,- Sold,2.60M,8 ,4 ,4650 , David W. Gowan,CORCORAN GLOBAL LIVING
+414,18 Lapidge St,94110,- Sold,1.50M,2 ,1 ,1083 , Ruth Krishnan,COMPASS SF
+415,35 Lucerne St #C,94103,- Sold,1.00M,1 ,2 ,1446 , Rob J. Costabile,KELLER WILLIAMS SAN FRANCISCO
+416,111 Chestnut St UNIT 302,94111,- Sold,1.03M,2 ,2 ,1033 , Gail Y. Grendahl,COMPASS
+417,115 Gennessee St,94112,- Sold,1.50M,3 ,2 ,1590 , Sandra Gandolfo,BARBCO
+418,403 Main St APT 117N,94105,- Sold,875000,1 ,1 ,922 , Michelle Ye,KW PENINSULA ESTATES
+419,3755 20th St,94110,- Sold,4.20M,4 ,3 ,3900 , Nathan K. Churchill,COLDWELL BANKER REALTY
+420,525 Franconia St,94110,- Sold,1.80M,5 ,3 ,2753 , Sean Jeremy Weinstock,VANGUARD PROPERTIES
+421,1000 Rhode Island St APT 2,94107,- Sold,1.43M,2 ,2 ,1077 , Michael B. Harrington,SOTHEBY'S INTERNATIONAL REALTY
+422,245 Lakeshore Dr,94132,- Sold,2.15M,4 ,2 ,1774 , Burton Louie,COMPASS
+423,190 Emmett Ct,94110,- Sold,1.51M,2 ,1 ,1209 , Wendy M. Storch,SOTHEBY'S INTERNATIONAL REALTY
+424,2907 Octavia St,94123,- Sold,905000,2 ,1 ,0 , Drew N. Wilkerson,VANGUARD PROPERTIES
+425,309 Oak Park Dr,94131,- Sold,1.73M,3 ,2 ,1603 , Tim A. Brown,KELLER WILLIAMS SAN FRANCISCO
+426,469 Tehama St APT 1,94103,- Sold,653000,1 ,1 ,695 , Sherry Juneja,KELLER WILLIAMS SAN FRANCISCO
+427,972 Plymouth Ave,94112,- Sold,1.40M,2 ,2 ,1100 , James P. Cullen,KELLER WILLIAMS SAN FRANCISCO
+428,1954 Golden Gate Ave,94115,- Sold,1.38M,2 ,1 ,0 , Claire Myers,CORCORAN GLOBAL LIVING
+429,308 Corbett Ave,94114,- Sold,2.16M,4 ,5 ,2365 , Judson B. Gregory,COMPASS
+430,88 Townsend St APT 312,94107,- Sold,780000,1 ,1 ,591 , Tommy E. Gallegos,FOUR DOORS REAL ESTATE
+431,820 Cayuga Ave,94112,- Sold,1.81M,3 ,3 ,2159 , Marcus Miller,HELM REAL ESTATE
+432,104 Robinhood Dr,94127,- Sold,3.92M,5 ,4 ,3332 , Claudia L. Siegel,COMPASS
+433,207 Caselli Ave,94114,- Sold,1.57M,2 ,1 ,1161 , Patricia A. Lawton,SOTHEBY'S INTERNATIONAL REALTY
+434,555 Golden Gate Ave #402,94102,- Sold,829000,2 ,1 ,830 ,0,0
+435,1725 Washington St APT 3,94109,- Sold,1.31M,2 ,2 ,0 , Gregg Lynn,SOTHEBY'S INTERNATIONAL REALTY
+436,67 Los Palmos Dr,94127,- Sold,1.90M,3 ,2 ,1428 , Jessica Mussallem Rucker,LEGACY REAL ESTATE
+437,2253 California St,94115,- Sold,2.60M,4 ,3 ,2490 , Victoria M. Stewart Davis,COMPASS
+438,1545 Pine St APT 504,94109,- Sold,625000,Studio,1 ,630 ,0,0
+439,1 Stanyan Blvd #43,94118,- Sold,1.32M,2 ,2 ,0 , Frank A. Nolan,VANGUARD PROPERTIES
+440,8 Octavia St UNIT 604,94102,- Sold,1.30M,2 ,2 ,1001 , Deborah Svoboda,SOTHEBY'S INTERNATIONAL REALTY
+441,2271 35th Ave,94116,- Sold,1.80M,3 ,2 ,1661 , Craig L. Epstein,COMPASS
+442,195 San Anselmo Ave,94127,- Sold,5.00M,5 ,4 ,3660 , Robert R. Callan Jr.,SOTHEBY'S INTERNATIONAL REALTY
+443,1450 Greenwich St APT 401,94109,- Sold,1.23M,1 ,1 ,858 , Ryan Richard,COMPASS
+444,59 Robblee Ave,94124,- Sold,1.01M,2 ,2 ,0 , Terrence McCarthy,W REAL ESTATE
+445,3140 Baker St,94123,- Sold,3.20M,4 ,3 ,2489 , Lyle Chip McAllister,COMPASS SF
+446,8137 Geary Blvd #8139,94121,- Sold,1.72M,4 ,-- ,2600 , Myrick Tantiado,SF DWELL
+447,1000 3rd St UNIT 820,94158,- Sold,988000,1 ,1 ,804 ,0,0
+448,1725 Washington St APT 3,94109,- Sold,1.31M,2 ,2 ,0 , Gregg Lynn,SOTHEBY'S INTERNATIONAL REALTY
+449,0,0,0,0,0,0,0,0,0
+450,0,0,0,0,0,0,0,0,0
+451,0,0,0,0,0,0,0,0,0
+452,0,0,0,0,0,0,0,0,0
+453,0,0,0,0,0,0,0,0,0
+454,0,0,0,0,0,0,0,0,0
+455,0,0,0,0,0,0,0,0,0
+456,2253 California St,94115,- Sold,2.6M,4 ,3 ,2490 , Victoria M. Stewart Davis,COMPASS
+457,1439 Oakdale Ave,94124,- Sold,910000,2 ,1 ,1125 ,0,0
+458,18 Manzanita Ave,94118,- Sold,3.88M,4 ,4 ,2982 , Greg Fulford,SOTHEBY'S INTERNATIONAL REALTY
+459,1144 Treat Ave,94110,- Sold,1.59M,2 ,2 ,1633 , Mike Hood,COMPASS
+460,0,0,0,0,0,0,0,0,0
+461,0,0,0,0,0,0,0,0,0
+462,0,0,0,0,0,0,0,0,0
+463,0,0,0,0,0,0,0,0,0
+464,0,0,0,0,0,0,0,0,0
+465,0,0,0,0,0,0,0,0,0
+466,0,0,0,0,0,0,0,0,0
+467,0,0,0,0,0,0,0,0,0
+468,0,0,0,0,0,0,0,0,0
+469,0,0,0,0,0,0,0,0,0
+470,767 Panorama Dr,94131,- Sold,2.3M,3 ,3 ,1849 , Heidi I. Rossi,COMPASS
+471,1332 Chestnut St,94123,- Sold,1.86M,3 ,3 ,1770 , Paul Warrin,GOLDEN GATE SOTHEBY'S INTL
+472,324 Howth St,94112,- Sold,1.14M,3 ,2 ,1100 , Danielle H. Lazier,COMPASS
+473,11 Clarendon Ave,94114,- Sold,4.1M,4 ,4 ,3920 , Michael H. Shaw,VANGUARD PROPERTIES
+474,2114 Divisadero St,94115,- Sold,1.85M,2 ,2 ,1438 , Gretchen Levin,VANGUARD PROPERTIES
+475,3237 17th St,94110,- Sold,1.3M,2 ,2 ,1134 , Lucy  Yeung,SF CITY PROPERTIES
+476,324 Arguello Blvd APT 3,94118,- Sold,1.48M,2 ,1 ,1257 , Amanda M. Jones,COMPASS
+477,250 King St UNIT 468,94107,- Sold,792000,1 ,1 ,795 , Arthur T. Zendarski,CORCORAN GLOBAL LIVING
+478,3514 Pierce St,94123,- Sold,2.35M,2 ,2 ,1521 , Paul Warrin,GOLDEN GATE SOTHEBY'S INTL
+479,1520 Kirkwood Ave,94124,- Sold,1.25M,-- ,-- ,2863 ,0,0
+480,210 Pelican Cove Ter,94134,- Sold,1.07M,3 ,4 ,1525 , Kelly Quon Lutz,CORCORAN GLOBAL LIVING
+481,2114 Divisadero St,94115,- Sold,1.85M,2 ,2 ,1438 , Gretchen Levin,VANGUARD PROPERTIES
+482,2720 35th Ave,94116,- Sold,1.80M,3 ,2 ,1935 , Tanya S. Dzhibrailova,CORCORAN GLOBAL LIVING
+483,74 Francis St,94112,- Sold,1.17M,2 ,1 ,1106 , Venturi & Paolini Real Estate,VENTURI & PAOLINI REAL ESTATE
+484,1520 Kirkwood Ave,94124,- Sold,1.25M,-- ,-- ,2863 ,0,0
+485,950 Tennessee St #227,94107,- Sold,1.14M,2 ,2 ,973 , Garrett R. Frakes,POLARIS PACIFIC
+486,333 Main St UNIT 6D,94105,- Sold,979000,1 ,1 ,824 , Paul Hwang,SKYBOX REALTY
+487,1150 Dolores St APT 3,94110,- Sold,1.08M,1 ,1 ,864 , Dan McLean,COLDWELL BANKER REALTY
+488,4353 18th St,94114,- Sold,1.51M,3 ,4 ,1363 , Ryan B. Rudnick,GROBECKER HOLLAND INTERNATIONA
+489,1532 Hayes St #1532,94117,- Sold,1.59M,3 ,2 ,1804 , Edmond D. O'Sullivan,ELEVATION REAL ESTATE
+490,5428 Anza St,94121,- Sold,2.45M,3 ,3 ,2332 , Jessica J. Wynne,SOTHEBY'S INTERNATIONAL REALTY
+491,320 Alabama St APT 3,94110,- Sold,1.75M,3 ,2 ,1948 , Julie E. Peisner,SOTHEBY'S INTERNATIONAL REALTY
+492,1156 Stanyan St,94117,- Sold,1.73M,2 ,1 ,0 , Michelle C. Long,COMPASS
+493,607 Texas St,94107,- Sold,1.75M,2 ,1 ,0 , Claudia L. Siegel,COMPASS
+494,324 Howth St,94112,- Sold,1.14M,3 ,2 ,1100 , Danielle H. Lazier,COMPASS
+495,3514 Pierce St,94123,- Sold,2.35M,2 ,2 ,1521 , Paul Warrin,GOLDEN GATE SOTHEBY'S INTL
+496,1190 Sacramento St #8,94108,- Sold,1.73M,2 ,2 ,0 , John O. Asdourian,SOTHEBY'S INTERNATIONAL REALTY
+497,338 Potrero Ave UNIT 508,94103,- Sold,950000,2 ,2 ,873 , Deborah L. Nguyen,COMPASS
+498,250 King St UNIT 468,94107,- Sold,792000,1 ,1 ,795 , Arthur T. Zendarski,CORCORAN GLOBAL LIVING
+499,2326 Ulloa St,94116,- Sold,2.30M,5 ,3 ,2870 , Alexander S. Varum,ALEX VARUM BROKER
+500,11 Clarendon Ave,94114,- Sold,4.10M,4 ,4 ,3920 , Michael H. Shaw,VANGUARD PROPERTIES
+501,2801 Jackson St APT 201,94115,- Sold,1.47M,1 ,1 ,1139 , David S. Ayerdi,SOTHEBY'S INTERNATIONAL REALTY
+502,260 King St UNIT 525,94107,- Sold,930000,2 ,2 ,979 , Masoumeh M. Pahlbod,ENGEL & VOELKERS SAN FRANCISCO
+503,451 Kansas St UNIT 458,94107,- Sold,1.23M,2 ,2 ,962 , Kendra A. Wall,COLDWELL BANKER REALTY
+504,1332 Chestnut St,94123,- Sold,1.86M,3 ,3 ,1770 , Paul Warrin,GOLDEN GATE SOTHEBY'S INTL
+505,668 Banks St,94110,- Sold,999990,4 ,2 ,1245 , Ying He,JENNY HE REALTY ASSOCIATES
+506,324 Arguello Blvd APT 3,94118,- Sold,1.48M,2 ,1 ,1257 , Amanda M. Jones,COMPASS
+507,1234 Grove St #1238,94117,- Sold,2.58M,-- ,-- ,5080 , Adam D. Filly,COMPASS
+508,483 28th St #485,94131,- Sold,2.04M,5 ,3 ,2428 , Brandon Tran,COMPASS SF
+509,114 Rousseau St,94112,- Sold,1.73M,5 ,4 ,2156 , Renee M. Gonsalves,COMPASS
+510,240 Lombard St APT 437,94111,- Sold,525000,1 ,1 ,566 , Edward G. Bate,SOTHEBY'S INTERNATIONAL REALTY
+511,5118 Diamond Heights Blvd #A,94131,- Sold,1.17M,3 ,2 ,1500 , Mollie W. Poe,INDIGO REAL ESTATE
+512,2201 Sacramento St APT 102,94115,- Sold,1.60M,2 ,2 ,1533 , Nina Style,COLDWELL BANKER REALTY
+513,55 Casa Way,94123,- Sold,4.65M,10 ,4 ,6642 , Jay H. Greenberg,COMPASS
+514,1805 Fillmore St APT 304,94115,- Sold,1.40M,2 ,2 ,1215 , Drew N. Wilkerson,VANGUARD PROPERTIES
+515,563 38th Ave,94121,- Sold,2.70M,4 ,3 ,2376 , Bair Malunov,BETTER HOMES AND GARDENS THRIV
+516,50 Liberty St,94110,- Sold,4.00M,4 ,4 ,0 , Jason D. Gomez,ARG REAL ESTATE
+517,1575 26th Ave,94122,- Sold,1.70M,2 ,1 ,1462 ,0,0
+518,2204 Green St,94123,- Sold,2.80M,3 ,2 ,2188 , Nina Hatvany,COMPASS
+519,3817 Folsom St,94110,- Sold,1.16M,3 ,-- ,0 , Anthony T. Christen,COLDWELL BANKER REALTY
+520,555 Golden Gate Ave #201,94102,- Sold,775000,1 ,1 ,753 , Loring M. Aguillon-Racine,JS SULLIVAN SALES AND MARKETIN
+521,563 38th Ave,94121,- Sold,2.70M,4 ,3 ,2376 , Bair Malunov,BETTER HOMES AND GARDENS THRIV
+522,1688 Pine St #W906,94109,- Sold,800000,1 ,1 ,689 ,0,0
+523,2204 Green St,94123,- Sold,2.80M,3 ,2 ,2188 , Nina Hatvany,COMPASS
+524,483 28th St #485,94131,- Sold,2.04M,5 ,3 ,2428 , Brandon Tran,COMPASS SF
+525,240 Lombard St APT 437,94111,- Sold,525000,1 ,1 ,566 , Edward G. Bate,SOTHEBY'S INTERNATIONAL REALTY
+526,55 Casa Way,94123,- Sold,4.65M,10 ,4 ,6642 , Jay H. Greenberg,COMPASS
+527,114 Rousseau St,94112,- Sold,1.73M,5 ,4 ,2156 , Renee M. Gonsalves,COMPASS
+528,68 Richardson Ave,94123,- Sold,975000,1 ,1 ,989 ,0,0
+529,956 Ashbury St,94117,- Sold,3.08M,4 ,3 ,2555 , INC.,BILL HARKINS BROKERAGE
+530,2739 Larkin St,94109,- Sold,3.85M,3 ,3 ,0 , Maximillian D. Armour,COMPASS
+531,135 Manor Dr,94127,- Sold,1.55M,2 ,2 ,1212 , Patrick Lowell,COMPASS
+532,301 Main St UNIT 35A,94105,- Sold,2.12M,2 ,2 ,1268 , David  Virella,COMPASS
+533,2278 14th Ave,94116,- Sold,2.00M,5 ,6 ,2388 , Beatrice S. Kopilenko,RE/MAX GOLD DALY CITY
+534,1742 28th Ave,94122,- Sold,2.40M,2 ,1 ,1275 ,0,0
+535,3 Capp St,94103,- Sold,1.01M,2 ,1 ,977 , INC.,HATCH REALTY GROUP
+536,875 Union St,94133,- Sold,1.65M,3 ,2 ,1715 , John C. Fitzgerald,COMPASS
+537,782 36th Ave,94121,- Sold,1.65M,3 ,2 ,1815 ,0,0
+538,366 Melrose Ave,94127,- Sold,1.40M,3 ,2 ,1229 , Judson B. Gregory,COMPASS
+539,2407 Harrison St APT 4,94110,- Sold,1.00M,1 ,2 ,976 , Pamela Parker Souza,CORCORAN GLOBAL LIVING
+540,1108 Dolores St,94110,- Sold,1.73M,2 ,2 ,0 , Rob J. Costabile,KELLER WILLIAMS SAN FRANCISCO
+541,15 Cityview Way,94131,- Sold,1.90M,2 ,2 ,1655 , Rochelle Vandermerwe,ARTEMIS REAL ESTATE
+542,1001 Saddleback Dr,94134,- Sold,850000,3 ,2 ,1332 , Dexter Lim,COLDWELL BANKER REALTY
+543,69 Jersey St,94114,- Sold,1.64M,2 ,1 ,0 , Miyuki Mia Takami,KELLER WILLIAMS SAN FRANCISCO
+544,1954 48th Ave,94116,- Sold,1.49M,3 ,1 ,1179 , Kenneth A. Hagan,PINNACLE PROPERTIES
+545,2999 California St #604,94115,- Sold,680000,1 ,1 ,653 ,0,0
+546,102 Webster St,94117,- Sold,1.22M,2 ,1 ,1062 , Dale T. Boutiette,COMPASS SF
+547,69 Summit Way,94132,- Sold,1.44M,3 ,3 ,2133 , Daniel Hendel,COLDWELL BANKER REALTY
+548,890 Dolores St,94110,- Sold,2.37M,2 ,2 ,0 , Jean-Paul Samaha,VANGUARD PROPERTIES
+549,1 Crescent Way APT 1104,94134,- Sold,608000,1 ,1 ,814 ,0,0
+550,1909 Vallejo St,94123,- Sold,4.60M,4 ,4 ,2900 , Robert R. Callan Jr.,SOTHEBY'S INTERNATIONAL REALTY
+551,146 Beaver St,94114,- Sold,1.27M,1 ,1 ,895 , Isabelle Grotte,COMPASS
+552,986 Guerrero St,94110,- Sold,3.20M,3 ,2 ,0 , Lamisse Droubi,GENERATION REAL ESTATE
+553,200 Brannan St APT 430,94107,- Sold,2.10M,2 ,2 ,1892 , Amy Yuen,BARBCO
+554,690 Market St UNIT 1803,94104,- Sold,1.57M,2 ,2 ,1431 , Betty Xu,BARBCO
+555,249 Shipley St APT 7,94107,- Sold,760000,1 ,2 ,893 , Carrie Buchanan-Goodman,SOTHEBY'S INTERNATIONAL REALTY
+556,338 Main St UNIT 35A,94105,- Sold,2.65M,2 ,2 ,1572 , Justin Goldberg,COMPASS
+557,683 Miramar Ave,94112,- Sold,2.20M,5 ,4 ,2753 , Janice Lee,COLDWELL BANKER REALTY
+558,818 Van Ness Ave APT 704,94109,- Sold,1.19M,2 ,2 ,1147 , Robert N. Moffatt,SOTHEBY'S INTERNATIONAL REALTY
+559,199 New Montgomery St UNIT 1608,94105,- Sold,839000,1 ,1 ,653 ,0,0
+560,42 Clairview Ct,94131,- Sold,2.40M,5 ,2 ,2250 , Mary Macpherson,COMPASS SF
+561,1200 California St UNIT 15A,94109,- Sold,1.80M,1 ,2 ,1450 , Stephen K. Gomez,GPK LUXURY REAL ESTATE
+562,101 Lombard St APT 403W,94111,- Sold,1.23M,2 ,2 ,1423 , Lisa M. Marroquin,PARK NORTH REAL ESTATE
+563,522 France Ave,94112,- Sold,1.42M,3 ,1 ,1352 , Juanjuan Huang,COMPASS
+564,4194 17th St,94114,- Sold,1.90M,3 ,2 ,1361 ,0,0
+565,440 Panorama Dr,94131,- Sold,1.77M,3 ,2 ,1684 , Deborah L. Nguyen,COMPASS
+566,839 Hayes St,94117,- Sold,1.60M,4 ,2 ,1997 , Dan Dodd,INSPIRE REAL ESTATE
+567,649 Darien Way,94127,- Sold,2.58M,3 ,2 ,2103 , Erik Reider,CORCORAN GLOBAL LIVING
+568,1205 4th Ave APT A,94122,- Sold,965000,2 ,1 ,963 , REALTORS®,WEST & PRASZKER
+569,300 Beale St APT 418,94105,- Sold,1.10M,1 ,1 ,1015 ,0,0
+570,715 Ellsworth St,94110,- Sold,1.35M,3 ,2 ,1400 , Danielle H. Lazier,COMPASS
+571,41 Littlefield Ter,94107,- Sold,899000,3 ,1 ,956 , Stanley Lo,GREEN BANKER
+572,1000 N Point St APT 1106,94109,- Sold,908000,1 ,1 ,0 , Liliana M. DeMello,COMPASS
+573,3731 Divisadero St,94123,- Sold,3.65M,4 ,3 ,2577 , Butch Haze,COMPASS
+574,2691 22nd Ave,94116,- Sold,2.36M,4 ,4 ,2230 , Leon De-Levi,COMPASS
+575,338 Spear St UNIT 42E,94105,- Sold,3.00M,3 ,2 ,1686 , Nina Hatvany,COMPASS
+576,821 Folsom St APT 107,94107,- Sold,980000,2 ,2 ,1102 , Teresa A. Callan,COMPASS
+577,1789 Washington St #403,94109,- Sold,1.37M,2 ,2 ,1050 , Taña M. Recacho,COMPASS
+578,730 22nd Ave,94121,- Sold,1.10M,2 ,1 ,1425 ,0,0
+579,330 Mission Bay Blvd #116,94158,- Sold,1.60M,2 ,2 ,1569 , Robyn L. Kaufman,COMPASS
+580,570 Moscow St,94112,- Sold,1.91M,4 ,5 ,2115 , Juanjuan Huang,COMPASS
+581,2162 31st Ave,94116,- Sold,1.56M,2 ,1 ,1485 , Sonny Chan,SEQUOIA REAL ESTATE
+582,221 Warren Dr,94131,- Sold,1.95M,3 ,3 ,1770 , John M. Kirkpatrick,COMPASS
+583,3975 Cesar Chavez St #3977,94131,- Sold,3.45M,4 ,4 ,0 , Ruth Krishnan,COMPASS SF
+584,45 Dolores Ter,94110,- Sold,1.36M,2 ,2 ,0 , Chris J. Panou,SOTHEBY'S INTERNATIONAL REALTY
+585,250 King St UNIT 1504,94107,- Sold,630000,1 ,1 ,595 , Miyuki Mia Takami,KELLER WILLIAMS SAN FRANCISCO
+586,4101 23rd St,94114,- Sold,1.62M,4 ,2 ,1525 , Steven M. Crane,MORLEY FREDERICKS REAL ESTATE
+587,270 Bayview Cir,94124,- Sold,970000,2 ,2 ,1601 , Matthew Tatsumi Gomez,VANGUARD PROPERTIES
+588,2339 Laguna St,94115,- Sold,4.45M,4 ,5 ,3405 , Joan F. Gordon,CITY REAL ESTATE
+589,176 Merced Ave,94127,- Sold,2.32M,2 ,2 ,1674 , Andrew Herrera II,BERKSHIRE HATHAWAY-FRANCISCAN
+590,1155 Filbert St APT 402,94109,- Sold,1.30M,2 ,2 ,850 , Bridget R. Cannata Denning,COMPASS
+591,273 Chattanooga St,94114,- Sold,1.71M,3 ,2 ,1253 , Connie Chung,COMPASS
+592,1905 Laguna St APT 305,94115,- Sold,1.08M,1 ,1 ,768 , Eduardo Aguire,CORCORAN GLOBAL LIVING
+593,175 Bluxome St UNIT 211,94107,- Sold,925000,2 ,2 ,1076 ,0,0
+594,401 Crescent Ct APT 4306,94134,- Sold,680000,2 ,2 ,935 , Brian Ngai,FAR EAST REALTY
+595,43 Downey St,94117,- Sold,2.10M,3 ,2 ,1558 , John R. Solaegui,COMPASS SF
+596,355 1st St UNIT 1208,94105,- Sold,738000,1 ,1 ,0 , Robyn L. Kaufman,COMPASS
+597,336 Bradford St,94110,- Sold,1.10M,3 ,2 ,1450 , Thomas A. Baumgartner,REDFIN
+598,539 42nd Ave,94121,- Sold,1.72M,4 ,1 ,2100 , Michael B. Soon,COMPASS
+599,3627 21st St,94114,- Sold,4.50M,3 ,3 ,3003 , Mollie W. Poe,INDIGO REAL ESTATE
+600,1155 Filbert St APT 402,94109,- Sold,1.30M,2 ,2 ,850 , Bridget R. Cannata Denning,COMPASS
+601,3627 21st St,94114,- Sold,4.50M,3 ,3 ,3003 , Mollie W. Poe,INDIGO REAL ESTATE
+602,2339 Laguna St,94115,- Sold,4.45M,4 ,5 ,3405 , Joan F. Gordon,CITY REAL ESTATE
+603,330 Mission Bay Blvd #116,94158,- Sold,1.60M,2 ,2 ,1569 , Robyn L. Kaufman,COMPASS
+604,338 Spear St UNIT 42E,94105,- Sold,3.00M,3 ,2 ,1686 , Nina Hatvany,COMPASS
+605,712 10th Ave,94118,- Sold,2.00M,3 ,2 ,2612 , Robert N. Moffatt,SOTHEBY'S INTERNATIONAL REALTY
+606,95 Mccoppin St APT E304,94103,- Sold,711500,1 ,1 ,760 , Anna G. Spathis,STERLING HOMES
+607,1437 Cabrillo St #1439,94118,- Sold,1.86M,4 ,-- ,2550 , Annie M. Williams,SOTHEBY'S INTERNATIONAL REALTY
+608,1650 Jackson St APT 602,94109,- Sold,1.30M,2 ,2 ,1103 , Marianne Bacigalupi Schier,COMPASS
+609,1940 Anza St APT 5,94118,- Sold,987000,1 ,2 ,850 , Erica S Levin,COMPASS SF
+610,2223 27th Ave,94116,- Sold,2.33M,3 ,2 ,2378 ,0,0
+611,2224 Clement St #108,94121,- Sold,1.38M,3 ,2 ,1457 , Michael L. Annunziata,NORTH POINT REAL ESTATE
+612,26 Presidio Ter,94118,- Sold,13.6M,6 ,9 ,9405 , Neal Allen Ward,COMPASS
+613,80 Summit Way,94132,- Sold,1.29M,3 ,2 ,1547 , Mary Ann Montano,COLDWELL BANKER REALTY
+614,0,0,0,0,0,0,0,0,0
+615,0,0,0,0,0,0,0,0,0
+616,0,0,0,0,0,0,0,0,0
+617,0,0,0,0,0,0,0,0,0
+618,0,0,0,0,0,0,0,0,0
+619,0,0,0,0,0,0,0,0,0
+620,0,0,0,0,0,0,0,0,0
+621,0,0,0,0,0,0,0,0,0
+622,0,0,0,0,0,0,0,0,0
+623,0,0,0,0,0,0,0,0,0
+624,0,0,0,0,0,0,0,0,0
+625,0,0,0,0,0,0,0,0,0
+626,0,0,0,0,0,0,0,0,0
+627,0,0,0,0,0,0,0,0,0
+628,0,0,0,0,0,0,0,0,0
+629,0,0,0,0,0,0,0,0,0
+630,0,0,0,0,0,0,0,0,0
+631,3675 Clay St,94118,- Sold,5.35M,5 ,4 ,5003 , Linda F. Mayne,MAYNE AND COMPANY
+632,749 Congo St,94131,- Sold,1.85M,2 ,2 ,1534 , Julie F. Rogers,COMPASS
+633,360 Country Club Dr,94132,- Sold,1.78M,4 ,2 ,1903 , Vivian  Lee,CITY REAL ESTATE
+634,173 Coleridge St,94110,- Sold,750000,2 ,2 ,831 , Faye Dibachi,COMPASS
+635,0,0,0,0,0,0,0,0,0
+636,0,0,0,0,0,0,0,0,0
+637,126 Milton St,94112,- Sold,1.25M,2 ,2 ,1276 , Priscilla Bettencourt Rodrigues,ENGEL & VOELKERS SAN FRANCISCO
+638,788 Minna St UNIT 505,94103,- Sold,665000,1 ,1 ,0 , Catherine Watson,VANGUARD PROPERTIES
+639,2710 Scott St,94123,- Sold,5.35M,4 ,4 ,4235 , Marianne Bacigalupi Schier,COMPASS
+640,173 Coleridge St,94110,- Sold,750000,2 ,2 ,831 , Faye Dibachi,COMPASS
+641,900 Bush St APT 518,94109,- Sold,485000,1 ,1 ,643 , Samantha R. Hailer,CORCORAN GLOBAL LIVING
+642,217 Montcalm St,94110,- Sold,2.15M,2 ,1 ,1643 , Mary E. Lace,SOTHEBY'S INTERNATIONAL REALTY
+643,95 Mccoppin St APT E304,94103,- Sold,711500,1 ,1 ,760 , Anna G. Spathis,STERLING HOMES
+644,2224 Clement St #108,94121,- Sold,1.38M,3 ,2 ,1457 , Michael L. Annunziata,NORTH POINT REAL ESTATE
+645,360 Country Club Dr,94132,- Sold,1.78M,4 ,2 ,1903 , Vivian  Lee,CITY REAL ESTATE
+646,1437 Cabrillo St #1439,94118,- Sold,1.86M,4 ,-- ,2550 , Annie M. Williams,SOTHEBY'S INTERNATIONAL REALTY
+647,3675 Clay St,94118,- Sold,5.35M,5 ,4 ,5003 , Linda F. Mayne,MAYNE AND COMPANY
+648,105 Prospect Ave #A,94110,- Sold,960000,1 ,1 ,753 , Denis Lancerin,VANGUARD PROPERTIES
+649,1755 39th Ave,94122,- Sold,1.67M,3 ,2 ,800 ,0,0
+650,59 Manor Dr,94127,- Sold,2.14M,4 ,3 ,3071 , Mikhail Kurgatnikov,NEW AGE REALTY & MORTGAGE
+651,3615 Buchanan St APT 204,94123,- Sold,1.45M,2 ,2 ,1169 ,0,0
+652,2057 15th St APT D,94114,- Sold,1.20M,3 ,1 ,1312 , Christian Buckley,VANGUARD PROPERTIES
+653,2409 Scott St APT 2,94115,- Sold,1.84M,2 ,1 ,0 , Jason H. Hoffman,COMPASS
+654,1515 15th St APT 401,94103,- Sold,292001,Studio,1 ,383 , Robert Belli,HOME QUEST REALTY
+655,204 Dore St,94103,- Sold,1.75M,8 ,4 ,5118 , Carolyn A. Goeldner,VANGUARD PROPERTIES
+656,12 Carson St,94114,- Sold,2.33M,3 ,2 ,1905 , Shane R. Ray,COMPASS
+657,333 Beale St #C3C,94105,- Sold,1.12M,1 ,2 ,916 , BROKER,HELENA GENG
+658,563 Lisbon St,94112,- Sold,1.38M,3 ,3 ,1623 , D. Paul Brown,COMPASS SF
+659,465 10th St APT 306,94103,- Sold,815000,1 ,2 ,694 , Richard Hurwitz,CORCORAN GLOBAL LIVING
+660,3461 17th St #A,94110,- Sold,800000,2 ,1 ,757 , Alexander F. Lurie,COMPASS
+661,1688 Pine St #E510,94109,- Sold,775000,1 ,1 ,638 , Deborah L. Nguyen,COMPASS
+662,1025 Lake St,94118,- Sold,630000,1 ,1 ,561 , Christina Ciccone,VANGUARD PROPERTIES
+663,162 Byxbee St,94132,- Sold,888000,2 ,1 ,812 , Beatrice S. Kopilenko,RE/MAX GOLD DALY CITY
+664,735 Geary St APT 201,94109,- Sold,639000,1 ,1 ,822 , Amanda M. Jones,COMPASS
+665,100 San Felipe Ave,94127,- Sold,3.40M,4 ,4 ,3465 ,0,0
+666,177 Baltimore Way,94112,- Sold,1.28M,3 ,2 ,1225 ,0,0
+667,1300 22nd St APT 413,94107,- Sold,1.31M,2 ,2 ,952 , Rochelle Vandermerwe,ARTEMIS REAL ESTATE
+668,663 7th Ave,94118,- Sold,1.50M,2 ,2 ,1355 , Jonathan E. Dearman,KELLER WILLIAMS SAN FRANCISCO
+669,3960 18th St,94114,- Sold,1.57M,3 ,1 ,1289 , Ric A. Rocchiccioli,COMPASS SF
+670,555 Fulton St UNIT 433,94102,- Sold,1.08M,2 ,2 ,887 ,0,0
+671,712 21st Ave,94121,- Sold,1.07M,2 ,1 ,849 , Patrick Lowell,COMPASS
+672,1834 Mason St #A,94133,- Sold,2.00M,3 ,3 ,2179 , Victoria M. Stewart Davis,COMPASS
+673,631 24th Ave,94121,- Sold,2.20M,3 ,2 ,1920 , Wendy M. Storch,SOTHEBY'S INTERNATIONAL REALTY
+674,1155 Leavenworth St APT 22,94109,- Sold,555000,1 ,1 ,0 , Dena Aslanian-Williams,COMPASS
+675,250 King St UNIT 1606,94107,- Sold,905000,1 ,1 ,982 , Sean Jeremy Weinstock,VANGUARD PROPERTIES
+676,181 Fremont St UNIT 65A,94105,- Sold,24000,2 ,3 ,1827 , Kyle Algeo,MARKER LUXURY PROPERTIES
+677,401 Harrison St APT 12H,94105,- Sold,949000,1 ,1 ,759 , Pablo M. Cela,SKYBOX REALTY
+678,345 Molimo Dr,94127,- Sold,1.82M,3 ,2 ,1800 , Randall N. Kostick,CORCORAN GLOBAL LIVING
+679,768 Junipero Serra Blvd,94127,- Sold,1.56M,2 ,1 ,1513 , Mary Lou Castellanos,SOTHEBY'S INTERNATIONAL REALTY
+680,181 Fremont St UNIT 65A,94105,- Sold,24000,2 ,3 ,1827 , Kyle Algeo,MARKER LUXURY PROPERTIES
+681,162 Byxbee St,94132,- Sold,888000,2 ,1 ,812 , Beatrice S. Kopilenko,RE/MAX GOLD DALY CITY
+682,250 King St UNIT 1606,94107,- Sold,905000,1 ,1 ,982 , Sean Jeremy Weinstock,VANGUARD PROPERTIES
+683,768 Junipero Serra Blvd,94127,- Sold,1.56M,2 ,1 ,1513 , Mary Lou Castellanos,SOTHEBY'S INTERNATIONAL REALTY
+684,100 San Felipe Ave,94127,- Sold,3.40M,4 ,4 ,3465 ,0,0
+685,1688 Pine St #E510,94109,- Sold,775000,1 ,1 ,638 , Deborah L. Nguyen,COMPASS
+686,401 Harrison St APT 12H,94105,- Sold,949000,1 ,1 ,759 , Pablo M. Cela,SKYBOX REALTY
+687,465 10th St APT 306,94103,- Sold,815000,1 ,2 ,694 , Richard Hurwitz,CORCORAN GLOBAL LIVING
+688,1 Stanford Heights Ave,94127,- Sold,1.60M,3 ,2 ,1411 , John L. LePage,CORCORAN GLOBAL LIVING
+689,3461 17th St #A,94110,- Sold,800000,2 ,1 ,757 , Alexander F. Lurie,COMPASS
+690,370 Monterey Blvd APT 207,94131,- Sold,700000,1 ,1 ,757 , Courtney Cohan,COMPASS
+691,162 Beaver St,94114,- Sold,1.95M,2 ,1 ,1685 , Dino Zuzic,COMPASS
+692,734 14th St APT 3,94114,- Sold,1.05M,2 ,1 ,0 , Dan Dodd,INSPIRE REAL ESTATE
+693,615 Alvarado St,94114,- Sold,3.25M,3 ,3 ,0 , Stephanie A. Johnson,COMPASS
+694,2754 Octavia St,94123,- Sold,5.87M,5 ,4 ,4310 , Nina Hatvany,COMPASS
+695,247 Noe St,94114,- Sold,1.52M,2 ,2 ,1394 , Daniel Yadegar,GENERATION REAL ESTATE
+696,1746 Bay St,94123,- Sold,2.65M,3 ,2 ,2135 , Paul Warrin,GOLDEN GATE SOTHEBY'S INTL
+697,929 Bush St APT 3,94109,- Sold,599000,Studio,1 ,5235 , Lauren O'Brien,CORCORAN GLOBAL LIVING
+698,719 Moultrie St,94110,- Sold,2.02M,3 ,2 ,0 , Daniel A. Fernandez,COMPASS SF
+699,945 Steiner St,94117,- Sold,3.10M,4 ,3 ,2635 , Mary Macpherson,COMPASS SF
+700,2448 Lombard St #410,94123,- Sold,1.66M,2 ,2 ,1141 , Loring M. Aguillon-Racine,JS SULLIVAN SALES AND MARKETIN
+701,900 Bush St PH 5,94109,- Sold,1.50M,2 ,2 ,1110 , Lyle Chip McAllister,COMPASS SF
+702,221 Noe St APT 9,94114,- Sold,1.18M,2 ,1 ,832 ,0,0
+703,355 1st St UNIT S710,94105,- Sold,775000,1 ,1 ,675 , Masanori C. Sugimoto,BETTER HOMES AND GARDENS THRIV
+704,1246 Sanchez St,94114,- Sold,2.23M,3 ,4 ,1750 , Greg Fulford,SOTHEBY'S INTERNATIONAL REALTY
+705,60 Rausch St APT 203,94103,- Sold,1.23M,2 ,2 ,1498 , Michael H. Shaw,VANGUARD PROPERTIES
+706,330 Mission Bay Blvd N UNIT 506,94158,- Sold,1.32M,2 ,2 ,1028 , Marcell P. Neri,KINOKO
+707,1727 23rd Ave,94122,- Sold,1.73M,-- ,1 ,1400 ,0,0
+708,1500 Francisco St APT 4,94123,- Sold,920000,1 ,1 ,745 , Todd D. Montgomery,COMPASS
+709,803 Red Leaf Ct,94134,- Sold,800000,3 ,2 ,1200 , Dorothy Figueroa Rahal,COMPASS
+710,1688 Pine St UNIT E805,94109,- Sold,965000,1 ,1 ,738 , Sherry Juneja,KELLER WILLIAMS SAN FRANCISCO
+711,2135 California St #2,94115,- Sold,960000,2 ,1 ,962 , Helena Zaludova,COMPASS SF
+712,1376 Natoma St,94103,- Sold,780000,2 ,1 ,838 , Anthony L. Koutsos,KELLER WILLIAMS SAN FRANCISCO
+713,114 Noe St #124,94114,- Sold,3.50M,-- ,-- ,0 ,0,0
+714,2546 Folsom St,94110,- Sold,1.80M,3 ,3 ,1980 , Arrian C. Binnings,ARTEMIS REAL ESTATE
+715,2400 Steiner St #4,94115,- Sold,2.05M,2 ,2 ,0 , Faye Dibachi,COMPASS
+716,2978 20th Ave,94132,- Sold,2.90M,4 ,4 ,3023 , Daniel J. Risman-Jones,ASCEND REAL ESTATE
+717,544 Clipper St,94114,- Sold,2.20M,3 ,2 ,1731 , Pete Brannigan,COMPASS SF
+718,1932 Fell St APT 4,94117,- Sold,400000,Studio,1 ,0 , Connie Chung,COMPASS
+719,77 Van Ness Ave APT 809,94102,- Sold,690000,1 ,1 ,555 , Lorraine Meier,NOVA REAL ESTATE
+720,8400 Oceanview Ter APT 111,94132,- Sold,600000,1 ,1 ,669 , Heather R. Stoltz,BERKSHIRE HATHAWAY-FRANCISCAN
+721,150 Sylvan Dr,94132,- Sold,1.60M,3 ,2 ,1432 , Richerson P. Farnsworth,COMPASS
+722,1440 Broadway APT 101,94109,- Sold,820000,1 ,1 ,0 , Danielle L. Bales,SOTHEBY'S INTERNATIONAL REALTY
+723,255 Dalewood Way,94127,- Sold,1.50M,4 ,2 ,1625 , Rimma G. Ludovico,RIMMA REALTY
+724,250 King St UNIT 912,94107,- Sold,780000,1 ,1 ,888 , Masoumeh M. Pahlbod,ENGEL & VOELKERS SAN FRANCISCO
+725,722 46th Ave,94121,- Sold,2.10M,3 ,2 ,2186 , John M. Kirkpatrick,COMPASS
+726,1239 Scott St,94115,- Sold,--,5 ,3 ,2549 ,0,0
+727,667 Campbell Ave,94134,- Sold,1.22M,3 ,2 ,1248 , Timothy J. Cannon,SANFRANREALESTATE.COM
+728,351 Lakeshore Dr,94132,- Sold,1.88M,4 ,4 ,1863 , Howard Reinstein,VANGUARD PROPERTIES
+729,374 11th St UNIT 3,94103,- Sold,890000,1 ,2 ,1137 , Kirk M. Dahle,VANGUARD PROPERTIES
+730,733 Front St UNIT 209,94111,- Sold,900000,1 ,1 ,0 , Dean R. Sereni,COMPASS SF
+731,580 Missouri St #B,94107,- Sold,1.90M,3 ,4 ,1660 , Daniel J. Risman-Jones,ASCEND REAL ESTATE
+732,572 Valencia St,94110,- Sold,2.96M,-- ,-- ,5990 , Joseph V. Levy,MARCUS & MILLICHAP
+733,400 Beale St APT 1901,94105,- Sold,1.33M,2 ,2 ,1223 , Michelle Ye,KW PENINSULA ESTATES
+734,247 27th Ave #B,94121,- Sold,1.51M,3 ,2 ,1297 , Jamie Comer,KINDRED SF HOMES
+735,2999 California St #203,94115,- Sold,670000,1 ,1 ,613 , Jennifer Rosdail,KELLER WILLIAMS SAN FRANCISCO
+736,488 Roosevelt Way,94114,- Sold,1.63M,3 ,2 ,1530 , John L. Woodruff III,AETHOS REAL ESTATE
+737,679 Athens St,94112,- Sold,1.58M,4 ,2 ,1300 , Robert R. Wall,COMPASS
+738,1188 Green St #10,94109,- Sold,505000,Studio,1 ,0 , Miyuki Mia Takami,KELLER WILLIAMS SAN FRANCISCO
+739,215 Arguello Blvd,94118,- Sold,1.78M,3 ,2 ,1854 , Linda Bettencourt,SOTHEBY'S INTERNATIONAL REALTY
+740,1970 Sacramento St APT 101,94109,- Sold,1.35M,2 ,1 ,1444 ,0,0
+741,69 Joost Ave,94131,- Sold,1.28M,2 ,2 ,1347 , Ken L. Glidewell,COMPASS
+742,3550 Market St APT 101,94131,- Sold,1.15M,2 ,2 ,1143 , Andrea F. Swetland,VANGUARD PROPERTIES
+743,25 Anzavista Ave,94115,- Sold,2.31M,4 ,3 ,0 , Ruth Krishnan,COMPASS SF
+744,1155 Broderick St,94115,- Sold,1.19M,1 ,2 ,900 , Shane R. Ray,COMPASS
+745,77 Dow Pl APT 710,94107,- Sold,888000,1 ,2 ,1164 , Jonathan F. Iddings,CORCORAN GLOBAL LIVING
+746,1230 46th Ave,94122,- Sold,1.60M,2 ,1.5 ,1312 ,0,0
+747,0,0,0,0,0,0,0,0,0
+748,0,0,0,0,0,0,0,0,0
+749,0,0,0,0,0,0,0,0,0
+750,1299 Bush St APT 701,94109,- Sold,675000,1 ,1 ,624 , Par Hanji,COMPASS SF
+751,811 Carolina St,94107,- Sold,4.50M,5 ,4 ,3565 , Helena Zaludova,COMPASS SF
+752,337 Webster St,94117,- Sold,2.10M,-- ,-- ,5157 , Steve Bach,BAYVIEW REAL ESTATE & MORTGAGE
+753,151 Bartlett St #153,94110,- Sold,1.80M,4 ,2 ,2803 , Gene Gorokhovsky,LUXE PLACES INTERNATIONAL REAL
+754,1420 Guerrero St #1424,94110,- Sold,2.00M,5 ,3 ,3200 , Karen Wong-Dunlap,KW PENINSULA ESTATES
+755,5124 Diamond Heights Blvd #A,94131,- Sold,1.32M,3 ,2 ,1482 , Frank A. Nolan,VANGUARD PROPERTIES
+756,2835 Larkin St,94109,- Sold,4.11M,4 ,4 ,3500 , Ted Bartlett,COMPASS
+757,151 Alice B Toklas Pl UNIT 601,94109,- Sold,1.02M,1 ,1 ,933 , John M. Lee,COMPASS
+758,1 Burnett Ave N #9,94131,- Sold,1.80M,3 ,3 ,2157 , Mark N. Shumway,CORE7 REAL ESTATE
+759,2336 Bay St,94123,- Sold,2.90M,3 ,2 ,1748 , Linda Bettencourt,SOTHEBY'S INTERNATIONAL REALTY
+760,79 Bemis St,94131,- Sold,2.40M,3 ,2 ,0 , Kira K. Mead,CORCORAN GLOBAL LIVING
+761,334 Holladay Ave,94110,- Sold,1.40M,3 ,2 ,1437 , Aaron M Bellings,COMPASS
+762,47 Rebecca Ln,94124,- Sold,--,2 ,-- ,1219 ,0,0
+763,25 Lucerne St APT 2,94103,- Sold,1.30M,2 ,3 ,1839 ,0,0
+764,401 Harrison St APT 43B,94105,- Sold,2.45M,2 ,2 ,1419 , Lynne D. Brown,COMPASS
+765,1669 Alabama St,94110,- Sold,3.40M,5 ,4 ,3040 , Lamisse Droubi,GENERATION REAL ESTATE
+766,1483 26th Ave,94122,- Sold,1.80M,2 ,2 ,1500 , Grant Edward Beggs,SOTHEBY'S INTERNATIONAL REALTY
+767,1650 Broadway #304,94109,- Sold,1.59M,2 ,2 ,1160 , Frank A. Nolan,VANGUARD PROPERTIES
+768,151 Peralta Ave,94110,- Sold,2.55M,4 ,3 ,2601 , Michael C. Murphy,COMPASS SF
+769,318 Madrid St,94112,- Sold,1.35M,3 ,2 ,1641 , Donna Solen,CORCORAN GLOBAL LIVING
+770,228 Liberty St,94114,- Sold,1.92M,3 ,2 ,1845 , John R. DiDomenico,COMPASS
+771,0,0,0,0,0,0,0,0,0
+772,0,0,0,0,0,0,0,0,0
+773,0,0,0,0,0,0,0,0,0
+774,0,0,0,0,0,0,0,0,0
+775,0,0,0,0,0,0,0,0,0
+776,0,0,0,0,0,0,0,0,0
+777,0,0,0,0,0,0,0,0,0
+778,0,0,0,0,0,0,0,0,0
+779,0,0,0,0,0,0,0,0,0
+780,0,0,0,0,0,0,0,0,0
+781,0,0,0,0,0,0,0,0,0
+782,0,0,0,0,0,0,0,0,0
+783,0,0,0,0,0,0,0,0,0
+784,0,0,0,0,0,0,0,0,0
+785,0,0,0,0,0,0,0,0,0
+786,583 Donahue St,94124,- Sold,815000,2 ,2 ,1373 , John W. Macon,COMPASS SF
+787,299 S Hill Blvd,94112,- Sold,1.09M,2 ,1 ,1274 ,0,0
+788,4422 23rd St,94114,- Sold,2.08M,4 ,3 ,2353 , Judson B. Gregory,COMPASS
+789,2634 Octavia St APT 7,94123,- Sold,515000,Studio,1 ,485 , Eileen M. Mougeot,CORCORAN GLOBAL LIVING
+790,1940 Broadway #4,94109,- Sold,6.30M,3 ,4 ,3456 , Joel Goodrich,COLDWELL BANKER REALTY
+791,128 Borica St #130,94127,- Sold,2.70M,5 ,4 ,3236 , Kim D. Nguyen,KELLER WILLIAMS SF MONTEREY
+792,250 Los Palmos Dr,94127,- Sold,1.71M,3 ,2 ,0 , Eileen Bermingham,CORCORAN GLOBAL LIVING
+793,935 Filbert St APT 3,94133,- Sold,1.21M,1 ,1 ,1012 , Stefano Dezerega,CORCORAN GLOBAL LIVING
+794,210 Yerba Buena Ave,94127,- Sold,1.80M,2 ,2 ,1550 , PAUL,MORI
+795,2590 Green St,94123,- Sold,19.5M,5 ,8 ,8630 ,0,0
+796,580 Hayes St UNIT 201,94102,- Sold,1.84M,2 ,2 ,1248 , Richard Hurwitz,CORCORAN GLOBAL LIVING
+797,0,0,0,0,0,0,0,0,0
+798,36 Parnassus Ave,94117,- Sold,2.1M,3 ,3 ,2228 , John R. DiDomenico,COMPASS
+799,1 Burnett Ave N #9,94131,- Sold,1.8M,3 ,3 ,2157 , Mark N. Shumway,CORE7 REAL ESTATE
