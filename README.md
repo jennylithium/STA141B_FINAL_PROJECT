@@ -1,6 +1,6 @@
 For this project, Miguel Morales and I (Jennifer Li) were interested in what factors effect the price of a home on the housing website Zillow.com. We looked at each property currently listed for sale on Zillow.com in the San Francisco, CA as of June 2021, and also looked at properties in San Francisco, CA that have sold within the last month (May 2021-June 2021) because we were interested in the range of San Francisco's notoriously high housing prices. We looked the following factors, such as it's location, listing company/agent, amount of bedrooms/bathrooms, building type (condo, apartment, home, newly constructed, etc.), total square footage, and price per sq. ft., to see if there was a trend of one or more factors increasing or decreasing the price that the property was listed for.
 
-**Located in the /code/ folder:**
+**Located in the /code/ folder (The .ipynb versions of each file is included in this folder as well to reproduce data.):**
 
 * Zillow-Scraper-Sold.py: This file was used to collect data from Zillow.com by scraping and parsing through each webpage for San Francisco, CA properties listed as sold in the past month (May 2021-June 2021) and converting them to a .csv file to make the data more easily accessible throughout this project.
 * * Zillow-Scraper.py: This file was used to collect data from Zillow.com by scraping and parsing through each webpage for San Francisco, CA properties currently listed for sale and converting them to a .csv file to make the data more easily accessible throughout this project.
