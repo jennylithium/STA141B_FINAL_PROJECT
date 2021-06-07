@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[58]:
+# In[19]:
 
 
 import requests
@@ -17,7 +17,7 @@ import time
 from time import sleep 
 
 
-# In[ ]:
+# In[20]:
 
 
 def process_zillset(html):
@@ -94,29 +94,29 @@ def process_zillset(html):
     
 
 
-# In[59]:
+# In[21]:
 
 
 # make _urls returns a list of Zillow urls, incrementing the page number until it reaches the max_page 
 def make_urls(max_page):
     url_list =[]
     for pageNumber in range(1,max_page+1):
-        #url = 'https://www.zillow.com/san-francisco-ca/' + str(pageNumber) + '_p?'
-        url = 'https://www.zillow.com/san-francisco-ca/rentals/'+ str(pageNumber) + '_p?'
+        url = 'https://www.zillow.com/san-francisco-ca/sold/' + str(pageNumber) + '_p?'
+        #url = 'https://www.zillow.com/san-francisco-ca/sale/'+ str(pageNumber) + '_p?'
         url_list += [url]
     return url_list 
 
 
-# In[89]:
+# In[22]:
 
 
 # we give the max_page and call make_urls to make a list of urls that we will use 
-max_page = 2
+max_page = 20
 zillow_urls = make_urls(max_page)
 print(zillow_urls)
 
 
-# In[ ]:
+# In[23]:
 
 
 zill_dict = {'address':[], 'listingby':[], 'price':[],'beds':[], 'baths':[],'sqft':[], 'building_type':[], 'price/sqft':[]}
@@ -124,7 +124,7 @@ for url in zillow_urls:
 
     driver = webdriver.Chrome()
     page = driver.get(url)
-    time.sleep(20)
+    time.sleep(10)
     zillhtml= driver.page_source
 
     #making into soup object
@@ -138,15 +138,15 @@ for url in zillow_urls:
     df = pd.DataFrame.from_dict(dict, orient='index').transpose()
 
 
-# In[230]:
+# In[24]:
 
 
-zillow_fs = pd.read_csv("ZillowData.csv", index_col=[0])
+zillow_fs = pd.read_csv("Zillow_Sold.csv", index_col=[0])
 
 zillow_fs.shape
 
 
-# In[196]:
+# In[25]:
 
 
 # removing unwanted parts in column values
@@ -160,7 +160,7 @@ zillow_fs['price'] = zillow_fs['price'].str.replace(',', '')
 zillow_fs['price'] = zillow_fs['price'].str.rstrip('+')
 
 
-# In[197]:
+# In[26]:
 
 
 # splitting up string values in columns
@@ -171,52 +171,44 @@ zillow_fs['brokerage'] = zillow_fs['listingby'].str.split(',', expand=True)[0]
 zillow_fs = zillow_fs.drop(columns =['listingby'])
 
 
-# In[200]:
+# In[27]:
 
 
-# dividing price and sqft column to create price per sqft
 zillow_fs=zillow_fs.fillna(0)
-zillow_fs[['price', 'sqft']] = zillow_fs[['price', 'sqft']].apply(pd.to_numeric)
-zillow_fs['price/sqft'] = zillow_fs['price'].astype(int) / zillow_fs['sqft'].astype(int)
-
-
-# In[227]:
-
-
-zillow_fs = zillow_fs[['address', 'zip', 'building_type', 'price', 'beds', 'baths', 'sqft', 'price/sqft', 'agent', 'brokerage']]
+zillow_fs = zillow_fs[['address', 'zip', 'building_type', 'price', 'beds', 'baths', 'sqft', 'agent', 'brokerage']]
 zillow_fs.head()
 
 
-# In[226]:
+# In[28]:
 
 
 zillow_fs['brokerage'].value_counts()
 
 
-# In[219]:
+# In[31]:
 
 
-zillow_fs.to_csv('for_sale.csv')
+zillow_fs.to_csv('sold.csv')
 
 
-# In[221]:
+# In[32]:
 
 
-zillow_fr = pd.read_csv("ZillowRent.csv", index_col=[0])
+zillow_fr = pd.read_csv("sold.csv", index_col=[0])
 zillow_fr.head()
 
 
-# In[225]:
+# In[33]:
 
 
 #zillow_fr['brokerage'].value_counts()
 
 
-# In[216]:
+# In[35]:
 
 
 # removing unwanted string parts in column
-zillow_fr = zillow_fr.drop(columns =['listingby'])
+zillow_fr = zillow_fr.drop(columns =['agent'])
 zillow_fr = zillow_fr.rename(columns={'price':'rent/month'}, inplace=True)
 zillow_fr['price'] = zillow_fr['price'].str.replace('$', '')
 zillow_fr['price'] = zillow_fr['price'].str.replace(',', '')
@@ -227,10 +219,4 @@ zillow_fr['baths'] = zillow_fr['baths'].str.rstrip('ba')
 zillow_fr['sqft'] = zillow_fr['sqft'].str.rstrip('sqft')
 zillow_fr['sqft'] = zillow_fr['sqft'].str.replace(',', '')
 zillow_fr
-
-
-# In[ ]:
-
-
-zi
 
